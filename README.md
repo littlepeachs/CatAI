@@ -38,7 +38,6 @@ All benchmark modules read shared resources from `../catai_data/` relative to ea
 ```text
 catai_data/
 ├── all_modules/          # pretrained CatAI knowledge modules + base checkpoint
-│   └── jmp-l.pt          # JMP-L base model
 └── catalyst_task/        # benchmark LMDB datasets
     ├── Alloy-GMAE/
     ├── POE_lmdb/
@@ -71,6 +70,35 @@ unzip catalyst_task.zip -d ../catai_data/
 
 The resulting layout should match the structure described in [Data layout](#data-layout) above.
 
+## Installation
+
+Two options are provided:
+
+### Option A — conda (recommended)
+
+```bash
+conda env create -f environment.yml
+conda activate catai
+```
+
+[`environment.yml`](environment.yml) pins Python 3.11 and CUDA 11.8 and installs all required packages via conda + pip.
+
+### Option B — pip
+
+```bash
+# 1. Install PyTorch (CUDA 11.8)
+pip install torch==2.0.1+cu118 --index-url https://download.pytorch.org/whl/cu118
+
+# 2. Install PyTorch Geometric extensions
+pip install torch-scatter torch-sparse torch-cluster torch-geometric \
+    --find-links https://data.pyg.org/whl/torch-2.0.1+cu118.html
+
+# 3. Install remaining dependencies
+pip install -r requirements.txt
+```
+
+[`requirements.txt`](requirements.txt) covers all remaining runtime dependencies. Optional packages for `Literature_extraction` (`openai`, `json-repair`) and HPO scripts (`ray[tune]`) are commented out — uncomment as needed.
+
 ## Quick start
 
 Enter any benchmark directory and run:
@@ -86,7 +114,6 @@ Each directory exposes environment variables for path overrides:
 export CATAI_PYTHON_BIN=$(which python)
 export CATAI_DATA_ROOT=../catai_data/catalyst_task
 export CATAI_MODULE_HUB_PATH=../catai_data/all_modules
-export CATAI_BASE_CHECKPOINT_PATH=../catai_data/all_modules/jmp-l.pt
 ```
 
 Source `run_common.sh` in any benchmark directory to apply its defaults before running steps manually.

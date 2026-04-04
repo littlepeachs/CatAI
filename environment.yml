@@ -1,0 +1,76 @@
+name: catai
+channels:
+  - pytorch
+  - pyg
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+
+  # ── PyTorch (CUDA 11.8) ─────────────────────────────────────────────────────
+  - pytorch=2.0.1=py3.11_cuda11.8_cudnn8_0
+  - pytorch-cuda=11.8
+  - torchmetrics=1.5.1
+
+  # ── PyTorch Geometric stack ─────────────────────────────────────────────────
+  # Install via pip because conda-forge builds often lag behind CUDA variants.
+  # See https://pytorch-geometric.readthedocs.io/en/stable/install/installation.html
+  - pip:
+    - torch-scatter==2.1.2+pt20cu117   --find-links https://data.pyg.org/whl/torch-2.0.1+cu118.html
+    - torch-sparse==0.6.18+pt20cu117   --find-links https://data.pyg.org/whl/torch-2.0.1+cu118.html
+    - torch-cluster==1.6.3+pt20cu117   --find-links https://data.pyg.org/whl/torch-2.0.1+cu118.html
+    - torch-geometric==2.4.0
+
+  # ── Numerical / scientific ───────────────────────────────────────────────────
+  - numpy=1.26.4
+  - scipy=1.14.1
+  - numba=0.60.0
+  - sympy=1.13.3
+
+  # ── Machine learning ─────────────────────────────────────────────────────────
+  - scikit-learn=1.7.2
+  - cvxpy=1.5.3
+
+  # ── Atomistic simulation ─────────────────────────────────────────────────────
+  - ase=3.22.1
+  - pymatgen=2023.12.18
+  - lmdb=1.5.1
+  - spglib=2.5.0
+
+  # ── Graph neural network utilities ───────────────────────────────────────────
+  - e3nn=0.5.1
+  - einops=0.8.0
+
+  # ── Optimization / active learning ───────────────────────────────────────────
+  - nevergrad=1.0.12
+  - bayesian-optimization=1.4.0
+
+  # ── Data handling ─────────────────────────────────────────────────────────────
+  - pandas=1.5.3
+  - pydantic=2.9.2
+  - orjson=3.10.10
+  - pyyaml=6.0.2
+
+  # ── Visualization ────────────────────────────────────────────────────────────
+  - matplotlib=3.9.2
+  - seaborn=0.13.2
+
+  # ── Experiment tracking & distributed ────────────────────────────────────────
+  - wandb=0.18.5
+  - submitit=1.5.1
+  - cloudpickle=3.1.0
+
+  # ── Utilities ────────────────────────────────────────────────────────────────
+  - tqdm=4.66.6
+  - requests=2.32.3
+  - wrapt=1.16.0
+
+  # ── Optional: Literature_extraction only ──────────────────────────────────────
+  # - openai=2.14.0          # LLM calls in Literature_extraction/
+  # - json-repair             # LLM output parsing in Literature_extraction/
+
+  # ── Optional: hyperparameter optimisation (HPO) scripts only ─────────────────
+  # - ray-tune                # Benchmark_active/al_pipeline/src/ocp-models/scripts/hpo/

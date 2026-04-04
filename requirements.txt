@@ -1,0 +1,70 @@
+# CatAI requirements
+# Python 3.11, CUDA 11.8
+#
+# Install PyTorch first (matches the CUDA build):
+#   pip install torch==2.0.1+cu118 --index-url https://download.pytorch.org/whl/cu118
+#
+# Install PyG extensions:
+#   pip install torch-scatter torch-sparse torch-cluster torch-geometric \
+#       --find-links https://data.pyg.org/whl/torch-2.0.1+cu118.html
+#
+# Then install the remaining dependencies below:
+#   pip install -r requirements.txt
+
+# ── PyTorch ───────────────────────────────────────────────────────────────────
+torchmetrics==1.5.1
+
+# ── PyTorch Geometric ─────────────────────────────────────────────────────────
+# torch-scatter, torch-sparse, torch-cluster: install separately (see header)
+torch-geometric==2.4.0
+
+# ── Atomistic simulation ──────────────────────────────────────────────────────
+ase==3.22.1
+pymatgen==2023.12.18
+lmdb==1.5.1
+spglib==2.5.0
+
+# ── Graph neural network utilities ───────────────────────────────────────────
+e3nn==0.5.1
+einops==0.8.0
+
+# ── Numerical / scientific ────────────────────────────────────────────────────
+numpy==1.26.4
+scipy==1.14.1
+numba==0.60.0
+sympy==1.13.3
+
+# ── Machine learning ──────────────────────────────────────────────────────────
+scikit-learn==1.7.2
+cvxpy==1.5.3
+
+# ── Optimization / active learning ───────────────────────────────────────────
+nevergrad==1.0.12
+bayesian-optimization==1.4.0
+
+# ── Data handling ─────────────────────────────────────────────────────────────
+pandas==1.5.3
+pydantic==2.9.2
+orjson==3.10.10
+PyYAML==6.0.2
+
+# ── Visualization ────────────────────────────────────────────────────────────
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# ── Experiment tracking & distributed ────────────────────────────────────────
+wandb==0.18.5
+submitit==1.5.1
+cloudpickle==3.1.0
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+tqdm==4.66.6
+requests==2.32.3
+wrapt==1.16.0
+
+# ── Optional: Literature_extraction ──────────────────────────────────────────
+# openai==2.14.0
+# json-repair
+
+# ── Optional: HPO scripts (Benchmark_active/al_pipeline/src/ocp-models/scripts/hpo/) ──
+# ray[tune]
