@@ -4,7 +4,7 @@
 
 Its modular architecture allows new knowledge modules to be continuously incorporated without retraining existing components, supporting continuous evolution as new tasks emerge. When coupled with complementary tools — including AI-assisted literature mining, automated structure generation, computational workflows, and high-throughput experimental (HTE) platforms — CatAI forms a standardized discovery pipeline from data acquisition through predictive screening to experimental validation.
 
-![CatAI overview](Figure1-simple.png)
+![CatAI overview](./figures/Figure1-simple.png)
 
 ## Key results
 
