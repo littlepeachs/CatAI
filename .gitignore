@@ -38,7 +38,7 @@ build/
 *.npy
 *.h5
 *.hdf5
-POE_lmdb/
+# POE_lmdb/
 POE_infer/
 processed_c/
 processed_o/
