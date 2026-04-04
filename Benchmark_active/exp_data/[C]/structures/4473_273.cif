@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni3AgNi3AgNi3Ag
+_chemical_formula_sum              "Ni9 Ag3"
+_cell_length_a       5.254589557647705
+_cell_length_b       5.254590069958362
+_cell_length_c       24.290353775024414
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999677480078
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4116860190240532  1.0000
+  Ni  Ni2       1.0  0.9999999511169617  0.49999994760732064  0.4116860190240532  1.0000
+  Ni  Ni3       1.0  0.4999999964903589  0.49999994760732064  0.4116860190240532  1.0000
+  Ag  Ag1       1.0  0.5000000453733972  0.0  0.4116860190240532  1.0000
+  Ni  Ni4       1.0  0.666666698941894  0.33333330713699366  0.5  1.0000
+  Ni  Ni5       1.0  0.6666666631570255  0.833333280940654  0.5  1.0000
+  Ni  Ni6       1.0  0.16666661778362837  0.833333280940654  0.5  1.0000
+  Ag  Ag2       1.0  0.16666665356849683  0.33333330713699366  0.5  1.0000
+  Ni  Ni7       1.0  0.3417123887203747  0.6833838608333077  0.5844189318359334  1.0000
+  Ni  Ni8       1.0  0.3417178273679345  0.15831426501768042  0.5844169687638323  1.0000
+  Ni  Ni9       1.0  0.8166270374214132  0.15830894716072544  0.5844187747901652  1.0000
+  Ag  Ag3       1.0  0.8333107456779711  0.6666796600511479  0.597381411010683  1.0000

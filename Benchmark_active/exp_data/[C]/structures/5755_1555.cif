@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co3OsCo3OsCo3Os
+_chemical_formula_sum              "Co9 Os3"
+_cell_length_a       5.060937404632568
+_cell_length_b       5.060937712504238
+_cell_length_c       24.13223648071289
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9999979876629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0  0.4143834349674943  1.0000
+  Co  Co2       1.0  0.0  0.5  0.4143834349674943  1.0000
+  Co  Co3       1.0  0.5  0.5  0.4143834349674943  1.0000
+  Os  Os1       1.0  0.5  0.0  0.4143834349674943  1.0000
+  Co  Co4       1.0  0.6666666576004266  0.3333333152008533  0.5  1.0000
+  Co  Co5       1.0  0.6666666304017066  0.8333332608034132  0.5  1.0000
+  Co  Co6       1.0  0.1666666304017066  0.8333332608034132  0.5  1.0000
+  Os  Os2       1.0  0.16666665760042665  0.3333333152008533  0.5  1.0000
+  Co  Co7       1.0  0.33456196934994753  0.6691625481458143  0.5855333386762599  1.0000
+  Co  Co8       1.0  0.3345867326498357  0.16540747925635219  0.5855300191064952  1.0000
+  Co  Co9       1.0  0.8308372793827876  0.1654345147840819  0.5855316393726898  1.0000
+  Os  Os3       1.0  0.8333223791561871  0.6666732124919588  0.5849304810957615  1.0000

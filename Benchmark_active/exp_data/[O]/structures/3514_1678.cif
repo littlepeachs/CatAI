@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sn3InSn3InSn3In
+_chemical_formula_sum              "Sn9 In3"
+_cell_length_a       6.872403621673584
+_cell_length_b       6.872403835827702
+_cell_length_c       25.61129379272461
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999896918729
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.0  0.0  0.3904527091546769  1.0000
+  Sn  Sn2       1.0  0.9999999826539161  0.5  0.3904527091546769  1.0000
+  Sn  Sn3       1.0  0.5000000173460838  0.5  0.3904527091546769  1.0000
+  In  In1       1.0  0.5000000346921677  0.0  0.3904527091546769  1.0000
+  Sn  Sn4       1.0  0.6666667080353449  0.33333334668635434  0.5  1.0000
+  Sn  Sn5       1.0  0.6666666706597294  0.8333333066272912  0.5  1.0000
+  Sn  Sn6       1.0  0.16666663596756173  0.8333333066272912  0.5  1.0000
+  In  In2       1.0  0.16666667334317717  0.33333334668635434  0.5  1.0000
+  Sn  Sn7       1.0  0.3377611428383549  0.6755066870594003  0.6005821997433066  1.0000
+  Sn  Sn8       1.0  0.33774407096301906  0.16224766796164264  0.6005799655547707  1.0000
+  Sn  Sn9       1.0  0.8244969657477319  0.16223943582417916  0.6005805985748559  1.0000
+  In  In3       1.0  0.8333370903853984  0.6666728624684234  0.6128740348119343  1.0000

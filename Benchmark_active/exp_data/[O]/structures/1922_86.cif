@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mo3HgMo3HgMo3Hg
+_chemical_formula_sum              "Mo9 Hg3"
+_cell_length_a       5.740302562713623
+_cell_length_b       5.740302175612135
+_cell_length_c       24.686935424804688
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9999967350015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.0  0.0  0.40507251605956673  1.0000
+  Mo  Mo2       1.0  0.9999999584658515  0.5  0.40507251605956673  1.0000
+  Mo  Mo3       1.0  0.4999999584658515  0.5  0.40507251605956673  1.0000
+  Hg  Hg1       1.0  0.4999999584658515  0.0  0.40507251605956673  1.0000
+  Mo  Mo4       1.0  0.6666665854532116  0.3333333093535807  0.5  1.0000
+  Mo  Mo5       1.0  0.6666665974430858  0.8333333333333333  0.5  1.0000
+  Mo  Mo6       1.0  0.1666665974430858  0.8333333333333333  0.5  1.0000
+  Hg  Hg2       1.0  0.16666662698736  0.3333333093535807  0.5  1.0000
+  Mo  Mo7       1.0  0.3537427689432793  0.7074854812189618  0.5901166833448401  1.0000
+  Mo  Mo8       1.0  0.35374291174589895  0.14625753515767453  0.5901167219755693  1.0000
+  Mo  Mo9       1.0  0.792514322285321  0.14625735530952969  0.5901166833448401  1.0000
+  Hg  Hg3       1.0  0.8333337798075441  0.6666673380997408  0.6161658089614639  1.0000

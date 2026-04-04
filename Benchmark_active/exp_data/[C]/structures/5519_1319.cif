@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg3AuHg3AuHg3Au
+_chemical_formula_sum              "Hg9 Au3"
+_cell_length_a       6.484007358551025
+_cell_length_b       6.484006832710934
+_cell_length_c       25.29416847229004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000268270082
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.0  0.0  0.3953480051056338  1.0000
+  Hg  Hg2       1.0  2.122931669346073e-08  0.5000000424586334  0.3953480051056338  1.0000
+  Hg  Hg3       1.0  0.5000000212293167  0.5000000424586334  0.3953480051056338  1.0000
+  Au  Au1       1.0  0.5  0.0  0.3953480051056338  1.0000
+  Hg  Hg4       1.0  0.666666684357764  0.3333333687155278  0.5  1.0000
+  Hg  Hg5       1.0  0.6666666949724223  0.8333333899448445  0.5  1.0000
+  Hg  Hg6       1.0  0.16666669497242226  0.8333333899448445  0.5  1.0000
+  Au  Au2       1.0  0.1666666843577639  0.3333333687155278  0.5  1.0000
+  Hg  Hg7       1.0  0.3322453073983014  0.6644748529402774  0.6261227202588802  1.0000
+  Hg  Hg8       1.0  0.33225706213747586  0.1677485091075467  0.6261264905916248  1.0000
+  Hg  Hg9       1.0  0.8354943644645679  0.16776070534999163  0.6261269053282267  1.0000
+  Au  Au3       1.0  0.8333901967672229  0.666788041746687  0.5936795348374598  1.0000

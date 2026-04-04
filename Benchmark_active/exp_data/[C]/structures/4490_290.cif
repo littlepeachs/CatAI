@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni3GaNi3GaNi3Ga
+_chemical_formula_sum              "Ni9 Ga3"
+_cell_length_a       5.0918498039245605
+_cell_length_b       5.09185023779791
+_cell_length_c       24.1574764251709
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999718129679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4139504834994345  1.0000
+  Ni  Ni2       1.0  0.9999999729664031  0.49999994593280617  0.4139504834994345  1.0000
+  Ni  Ni3       1.0  0.49999997296640314  0.49999994593280617  0.4139504834994345  1.0000
+  Ga  Ga1       1.0  0.5  0.0  0.4139504834994345  1.0000
+  Ni  Ni4       1.0  0.6666666396330698  0.3333332792661395  0.5  1.0000
+  Ni  Ni5       1.0  0.6666666125994728  0.8333332251989456  0.5  1.0000
+  Ni  Ni6       1.0  0.1666666125994728  0.8333332251989456  0.5  1.0000
+  Ga  Ga2       1.0  0.16666663963306974  0.3333332792661395  0.5  1.0000
+  Ni  Ni7       1.0  0.33415232789454474  0.668285762853502  0.5835517420388892  1.0000
+  Ni  Ni8       1.0  0.3341609439708371  0.16587310894582813  0.5835520183806766  1.0000
+  Ni  Ni9       1.0  0.8317121847816126  0.16586457984599934  0.5835538738183921  1.0000
+  Ga  Ga3       1.0  0.8333250655935264  0.6666575293109072  0.5894520339742488  1.0000

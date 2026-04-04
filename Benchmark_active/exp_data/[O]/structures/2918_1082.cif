@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pb3CrPb3CrPb3Cr
+_chemical_formula_sum              "Pb9 Cr3"
+_cell_length_a       6.673618316650391
+_cell_length_b       6.673617577318779
+_cell_length_c       25.448986053466797
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999893754782
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.0  0.0  0.392942926107794  1.0000
+  Pb  Pb2       1.0  0.9999999849006117  0.5000000412522977  0.392942926107794  1.0000
+  Pb  Pb3       1.0  0.4999999849006117  0.5000000412522977  0.392942926107794  1.0000
+  Cr  Cr1       1.0  0.49999999999999994  0.0  0.392942926107794  1.0000
+  Pb  Pb4       1.0  0.6666666634757897  0.333333374585631  0.5  1.0000
+  Pb  Pb5       1.0  0.6666666277502555  0.833333374585631  0.5  1.0000
+  Pb  Pb6       1.0  0.1666666277502556  0.833333374585631  0.5  1.0000
+  Cr  Cr2       1.0  0.1666666634757898  0.333333374585631  0.5  1.0000
+  Pb  Pb7       1.0  0.3279085965725316  0.6558247790506312  0.611277129086854  1.0000
+  Pb  Pb8       1.0  0.3279075644247299  0.1720953865327914  0.611271283148904  1.0000
+  Pb  Pb9       1.0  0.8441788265321482  0.1720951287059311  0.6112748431752197  1.0000
+  Cr  Cr3       1.0  0.8333340937680694  0.6666669966850478  0.5808511580728132  1.0000

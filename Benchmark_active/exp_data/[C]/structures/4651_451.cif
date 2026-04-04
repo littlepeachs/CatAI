@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al3CoAl3CoAl3Co
+_chemical_formula_sum              "Al9 Co3"
+_cell_length_a       5.353824615478516
+_cell_length_b       5.353823892994481
+_cell_length_c       24.37137794494629
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999857154195
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.4103173431110533  1.0000
+  Al  Al2       1.0  0.9999999777338074  0.5  0.4103173431110533  1.0000
+  Al  Al3       1.0  0.4999999332014225  0.5  0.4103173431110533  1.0000
+  Co  Co1       1.0  0.499999955467615  0.0  0.4103173431110533  1.0000
+  Al  Al4       1.0  0.6666665967311556  0.33333334190359587  0.5  1.0000
+  Al  Al5       1.0  0.6666665873203546  0.8333333676143835  0.5  1.0000
+  Al  Al6       1.0  0.1666666318527395  0.8333333676143835  0.5  1.0000
+  Co  Co2       1.0  0.1666666412635405  0.33333334190359587  0.5  1.0000
+  Al  Al7       1.0  0.33127575798805586  0.6625508495101324  0.5941511725852566  1.0000
+  Al  Al8       1.0  0.3312755590132002  0.16872538513474253  0.5941511725852566  1.0000
+  Al  Al9       1.0  0.8374501959350619  0.16872520515922948  0.5941512117161716  1.0000
+  Co  Co3       1.0  0.8333325717224719  0.6666620558654277  0.5834807199243114  1.0000

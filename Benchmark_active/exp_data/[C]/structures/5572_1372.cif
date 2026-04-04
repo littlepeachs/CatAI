@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2Rh2Al2Rh2Al2Rh2
+_chemical_formula_sum              "Al6 Rh6"
+_cell_length_a       5.210603713989258
+_cell_length_b       5.210604245537355
+_cell_length_c       24.25523567199707
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.49834960032504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.4122820813434021  1.0000
+  Al  Al2       1.0  0.500000084839314  0.49999995145886966  0.4122820813434021  1.0000
+  Rh  Rh1       1.0  0.5000000457564214  0.0  0.4122820813434021  1.0000
+  Rh  Rh2       1.0  5.052199795430088e-08  0.49999995145886966  0.4122820813434021  1.0000
+  Al  Al3       1.0  0.7497185685857609  0.7497183886325216  0.5  1.0000
+  Al  Al4       1.0  0.2497184608682363  0.2497184371736519  0.5  1.0000
+  Rh  Rh3       1.0  0.24971852282933957  0.7497183886325216  0.5  1.0000
+  Rh  Rh4       1.0  0.7497185295028684  0.2497184371736519  0.5  1.0000
+  Al  Al5       1.0  0.4995018272259664  0.4995017738385248  0.5896059827963622  1.0000
+  Al  Al6       1.0  0.9995021970932417  0.999501968003046  0.5896059827963622  1.0000
+  Rh  Rh5       1.0  0.9995308124327286  0.49953021894088495  0.584243322319757  1.0000
+  Rh  Rh6       1.0  0.499530280518634  0.9995305101876668  0.58424328300147  1.0000

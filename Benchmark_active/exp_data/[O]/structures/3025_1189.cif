@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf3GaHf3GaHf3Ga
+_chemical_formula_sum              "Hf9 Ga3"
+_cell_length_a       6.103471755981445
+_cell_length_b       6.1034707260336525
+_cell_length_c       24.983461380004883
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000558213536
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.0  0.0  0.40026475492018987  1.0000
+  Hf  Hf2       1.0  4.2084302475278186e-08  0.5000000451058242  0.40026475492018987  1.0000
+  Hf  Hf3       1.0  0.5000000030215217  0.5000000451058242  0.40026475492018987  1.0000
+  Ga  Ga1       1.0  0.4999999609372192  0.0  0.40026475492018987  1.0000
+  Hf  Hf4       1.0  0.6666666463979792  0.3333333709215201  0.5  1.0000
+  Hf  Hf5       1.0  0.6666666997587378  0.8333334385802563  0.5  1.0000
+  Hf  Hf6       1.0  0.16666673882151853  0.8333334385802563  0.5  1.0000
+  Ga  Ga2       1.0  0.16666668546076005  0.3333333709215201  0.5  1.0000
+  Hf  Hf7       1.0  0.3313049758763505  0.6626090670103851  0.5987403623719885  1.0000
+  Hf  Hf8       1.0  0.33130374954652086  0.1686955116006316  0.5987404005442137  1.0000
+  Hf  Hf9       1.0  0.8373893038742564  0.16869387651450699  0.5987399806497355  1.0000
+  Ga  Ga3       1.0  0.8333352475542583  0.6666670575838092  0.5996561904012275  1.0000

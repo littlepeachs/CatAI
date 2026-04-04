@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti2Zn2Ti2Zn2Ti2Zn2
+_chemical_formula_sum              "Ti6 Zn6"
+_cell_length_a       5.565794467926025
+_cell_length_b       5.565794797789246
+_cell_length_c       24.578969955444336
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    61.755449823194425
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0  0.0  0.40685183571375194  1.0000
+  Ti  Ti2       1.0  0.5000000872661704  0.4999999513739864  0.40685183571375194  1.0000
+  Zn  Zn1       1.0  0.49999999999999994  0.0  0.40685183571375194  1.0000
+  Zn  Zn2       1.0  6.584797213743477e-08  0.4999999513739864  0.40685183571375194  1.0000
+  Ti  Ti3       1.0  0.678777941830933  0.6787778668390232  0.5  1.0000
+  Ti  Ti4       1.0  0.17877793032514522  0.17877789115203002  0.5  1.0000
+  Zn  Zn3       1.0  0.178777941830933  0.6787778668390232  0.5  1.0000
+  Zn  Zn4       1.0  0.6787779089069469  0.17877789115203002  0.5  1.0000
+  Ti  Ti5       1.0  0.35643101221647827  0.35643111123472926  0.5905475274472219  1.0000
+  Ti  Ti6       1.0  0.8564292585914696  0.8564290689421566  0.590546363434672  1.0000
+  Zn  Zn5       1.0  0.8550796753068026  0.35516661606319516  0.5957781730419505  1.0000
+  Zn  Zn6       1.0  0.35516623968346495  0.8550795998117979  0.5957782894432054  1.0000

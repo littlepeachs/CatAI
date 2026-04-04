@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb3AlNb3AlNb3Al
+_chemical_formula_sum              "Nb9 Al3"
+_cell_length_a       5.843643665313721
+_cell_length_b       5.843643616747576
+_cell_length_c       24.771312713623047
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000027492355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.0  0.40369273772181474  1.0000
+  Nb  Nb2       1.0  0.9999999968441363  0.499999952888629  0.40369273772181474  1.0000
+  Nb  Nb3       1.0  0.4999999560444927  0.499999952888629  0.40369273772181474  1.0000
+  Al  Al1       1.0  0.4999999592003564  0.0  0.40369273772181474  1.0000
+  Nb  Nb4       1.0  0.6666666101632327  0.33333330192575267  0.5  1.0000
+  Nb  Nb5       1.0  0.666666607007369  0.8333332548143816  0.5  1.0000
+  Nb  Nb6       1.0  0.16666664780701262  0.8333332548143816  0.5  1.0000
+  Al  Al2       1.0  0.16666665096287633  0.33333330192575267  0.5  1.0000
+  Nb  Nb7       1.0  0.3298591874234467  0.6597184775225524  0.5911287810201072  1.0000
+  Nb  Nb8       1.0  0.329859469265117  0.17014051390402601  0.5911287810201072  1.0000
+  Nb  Nb9       1.0  0.8402811262381964  0.17014051390402601  0.5911287810201072  1.0000
+  Al  Al3       1.0  0.8333334541920965  0.6666667451856183  0.6042403572350902  1.0000

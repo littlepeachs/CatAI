@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La3CdLa3CdLa3Cd
+_chemical_formula_sum              "La9 Cd3"
+_cell_length_a       7.236422538757324
+_cell_length_b       7.2364219399408
+_cell_length_c       25.908512115478516
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999837784456
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.0  0.0  0.38597349788957536  1.0000
+  La  La2       1.0  0.9999999835264886  0.5  0.38597349788957536  1.0000
+  La  La3       1.0  0.4999999505794656  0.5  0.38597349788957536  1.0000
+  Cd  Cd1       1.0  0.4999999670529771  0.0  0.38597349788957536  1.0000
+  La  La4       1.0  0.666666618095619  0.3333333460146492  0.5  1.0000
+  La  La5       1.0  0.6666666016221076  0.8333333460146493  0.5  1.0000
+  La  La6       1.0  0.1666666345691304  0.8333333460146493  0.5  1.0000
+  Cd  Cd2       1.0  0.16666665104264183  0.3333333460146492  0.5  1.0000
+  La  La7       1.0  0.32870816370460954  0.657413871355913  0.614062280754579  1.0000
+  La  La8       1.0  0.3287010617185153  0.17128648271910746  0.6140548820843372  1.0000
+  La  La9       1.0  0.8425849427295161  0.1712912382125584  0.614057605972884  1.0000
+  Cd  Cd3       1.0  0.833332895233572  0.6666561918997588  0.6073197363688152  1.0000

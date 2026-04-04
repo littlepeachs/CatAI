@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pt3GaPt3GaPt3Ga
+_chemical_formula_sum              "Pt9 Ga3"
+_cell_length_a       5.5992045402526855
+_cell_length_b       5.599205200310197
+_cell_length_c       24.57172966003418
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000173466866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.0  0.0  0.4069717185026109  1.0000
+  Pt  Pt2       1.0  2.1290397358014977e-08  0.5  0.4069717185026109  1.0000
+  Pt  Pt3       1.0  0.500000063871192  0.5  0.4069717185026109  1.0000
+  Ga  Ga1       1.0  0.5000000425807947  0.0  0.4069717185026109  1.0000
+  Pt  Pt4       1.0  0.6666667335373186  0.3333333251386564  0.5  1.0000
+  Pt  Pt5       1.0  0.6666667671197335  0.8333333497226871  0.5  1.0000
+  Pt  Pt6       1.0  0.16666672453893877  0.8333333497226871  0.5  1.0000
+  Ga  Ga2       1.0  0.16666669095652395  0.3333333251386564  0.5  1.0000
+  Pt  Pt7       1.0  0.3313994676636252  0.6627988938759507  0.5917242809192479  1.0000
+  Pt  Pt8       1.0  0.3314000956104732  0.1686001351335006  0.5917243197310991  1.0000
+  Pt  Pt9       1.0  0.8372001656931453  0.16860015971753145  0.5917243197310991  1.0000
+  Ga  Ga3       1.0  0.8333362648324194  0.6666725012766487  0.5936387142937761  1.0000

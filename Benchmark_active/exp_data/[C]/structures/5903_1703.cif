@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2Zr2Ni2Zr2Ni2Zr2
+_chemical_formula_sum              "Ni6 Zr6"
+_cell_length_a       5.571732521057129
+_cell_length_b       5.571732969403179
+_cell_length_c       24.546165466308594
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.63898494899964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.40739556897599394  1.0000
+  Ni  Ni2       1.0  0.5000000257339672  0.49999995464432584  0.40739556897599394  1.0000
+  Zr  Zr1       1.0  0.5  0.0  0.40739556897599394  1.0000
+  Zr  Zr2       1.0  3.643165319139518e-08  0.49999995464432584  0.40739556897599394  1.0000
+  Ni  Ni3       1.0  0.7510218265977899  0.7510216592393727  0.5  1.0000
+  Ni  Ni4       1.0  0.25102179334568203  0.25102172727288397  0.5  1.0000
+  Zr  Zr3       1.0  0.2510218265977899  0.7510216592393727  0.5  1.0000
+  Zr  Zr4       1.0  0.7510217505549381  0.25102172727288397  0.5  1.0000
+  Ni  Ni5       1.0  0.5019298173866531  0.501927253308447  0.5829364314653679  1.0000
+  Ni  Ni6       1.0  0.0019190826810075638  0.0019213972885266746  0.5829353824540028  1.0000
+  Zr  Zr5       1.0  0.0016480213382073412  0.501646637752122  0.5935528538548448  1.0000
+  Zr  Zr6       1.0  0.5016459606122388  0.0016470776667276853  0.5935528538548448  1.0000

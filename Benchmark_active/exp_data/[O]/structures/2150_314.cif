@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd3GaCd3GaCd3Ga
+_chemical_formula_sum              "Cd9 Ga3"
+_cell_length_a       6.4126787185668945
+_cell_length_b       6.412678425932004
+_cell_length_c       25.23592758178711
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999659003518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  0.0  0.39626041142798063  1.0000
+  Cd  Cd2       1.0  0.999999959944929  0.49999995706910066  0.39626041142798063  1.0000
+  Cd  Cd3       1.0  0.49999992276567995  0.49999995706910066  0.39626041142798063  1.0000
+  Ga  Ga1       1.0  0.499999962820751  0.0  0.39626041142798063  1.0000
+  Cd  Cd4       1.0  0.6666665975461028  0.33333331902303354  0.5  1.0000
+  Cd  Cd5       1.0  0.6666665789564783  0.8333333190230335  0.5  1.0000
+  Cd  Cd6       1.0  0.1666666161357273  0.8333333190230335  0.5  1.0000
+  Ga  Ga2       1.0  0.16666663472535184  0.33333331902303354  0.5  1.0000
+  Cd  Cd7       1.0  0.3336172506828428  0.6672331971250379  0.6095315252317796  1.0000
+  Cd  Cd8       1.0  0.33360020734252005  0.16635881276486755  0.6095266124874101  1.0000
+  Cd  Cd9       1.0  0.8327599125728198  0.16637876490034922  0.6095192433708562  1.0000
+  Ga  Ga3       1.0  0.8333646647000046  0.6666904646952169  0.6031582975421012  1.0000

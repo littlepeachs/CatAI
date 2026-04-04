@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag3TiAg3TiAg3Ti
+_chemical_formula_sum              "Ag9 Ti3"
+_cell_length_a       5.929616451263428
+_cell_length_b       5.929616786371492
+_cell_length_c       24.841510772705078
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000345081445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.0  0.0  0.4025519678663549  1.0000
+  Ag  Ag2       1.0  2.0104047290509194e-08  0.5  0.4025519678663549  1.0000
+  Ag  Ag3       1.0  0.500000060312142  0.5  0.4025519678663549  1.0000
+  Ti  Ti1       1.0  0.5  0.0  0.4025519678663549  1.0000
+  Ag  Ag4       1.0  0.6666666934720631  0.3333333333333333  0.5  1.0000
+  Ag  Ag5       1.0  0.6666667537842049  0.8333333333333334  0.5  1.0000
+  Ag  Ag6       1.0  0.16666671357611038  0.8333333333333334  0.5  1.0000
+  Ti  Ti2       1.0  0.16666669347206306  0.3333333333333333  0.5  1.0000
+  Ag  Ag7       1.0  0.33185959389471115  0.6637189798549431  0.5973705987958021  1.0000
+  Ag  Ag8       1.0  0.3318594867890879  0.16814051007252845  0.5973705987958021  1.0000
+  Ag  Ag9       1.0  0.8362811133314498  0.16814047525129786  0.5973705987958021  1.0000
+  Ti  Ti3       1.0  0.8333334101582835  0.6666667130949742  0.5924707231344708  1.0000

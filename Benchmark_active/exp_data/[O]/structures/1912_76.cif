@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mo3NiMo3NiMo3Ni
+_chemical_formula_sum              "Mo9 Ni3"
+_cell_length_a       5.489039421081543
+_cell_length_b       5.489039614403883
+_cell_length_c       24.481781005859375
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999883494164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.0  0.0  0.4084669756637527  1.0000
+  Mo  Mo2       1.0  0.9999999749225659  0.49999994984513174  0.4084669756637527  1.0000
+  Mo  Mo3       1.0  0.4999999749225659  0.49999994984513174  0.4084669756637527  1.0000
+  Ni  Ni1       1.0  0.5  0.0  0.4084669756637527  1.0000
+  Mo  Mo4       1.0  0.6666666583075219  0.3333333166150439  0.5  1.0000
+  Mo  Mo5       1.0  0.6666666332300879  0.8333332664601757  0.5  1.0000
+  Mo  Mo6       1.0  0.16666663323008785  0.8333332664601757  0.5  1.0000
+  Ni  Ni2       1.0  0.16666665830752195  0.3333333166150439  0.5  1.0000
+  Mo  Mo7       1.0  0.3298053365945991  0.6596107460616892  0.5880369793036565  1.0000
+  Mo  Mo8       1.0  0.3298057308622481  0.17019688393822444  0.5880370182581066  1.0000
+  Mo  Mo9       1.0  0.8403909885133872  0.17019685886079033  0.5880370182581066  1.0000
+  Ni  Ni3       1.0  0.8333344383801022  0.6666687898894205  0.58924783943038  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2Hf2Al2Hf2Al2Hf2
+_chemical_formula_sum              "Al6 Hf6"
+_cell_length_a       5.9370245933532715
+_cell_length_b       5.937024452095656
+_cell_length_c       24.864425659179688
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    60.733103713523775
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.4021809786961151  1.0000
+  Al  Al2       1.0  0.49999997992103834  0.5  0.4021809786961151  1.0000
+  Hf  Hf1       1.0  0.5  0.0  0.4021809786961151  1.0000
+  Hf  Hf2       1.0  2.0078961721708323e-08  0.5  0.4021809786961151  1.0000
+  Al  Al3       1.0  0.6716464956110574  0.6716464349912112  0.5  1.0000
+  Al  Al4       1.0  0.17164646427955726  0.17164645800825595  0.5  1.0000
+  Hf  Hf3       1.0  0.17164649561105738  0.6716464349912112  0.5  1.0000
+  Hf  Hf4       1.0  0.6716464642795573  0.17164645800825595  0.5  1.0000
+  Al  Al5       1.0  0.3408221003748507  0.34082072428931653  0.5988878976259807  1.0000
+  Al  Al6       1.0  0.8408208766902713  0.8408220362608683  0.5988878976259807  1.0000
+  Hf  Hf5       1.0  0.8453961614918161  0.34539421108434587  0.5961611276975051  1.0000
+  Hf  Hf6       1.0  0.3453960357958752  0.845397548555837  0.5961593633688551  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cr3RhCr3RhCr3Rh
+_chemical_formula_sum              "Cr9 Rh3"
+_cell_length_a       5.213698863983154
+_cell_length_b       5.213699260595258
+_cell_length_c       24.25696563720703
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000353443285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.0  0.0  0.4122526780920605  1.0000
+  Cr  Cr2       1.0  4.572925773457806e-08  0.5  0.4122526780920605  1.0000
+  Cr  Cr3       1.0  0.5000000457292577  0.5  0.4122526780920605  1.0000
+  Rh  Rh1       1.0  0.5  0.0  0.4122526780920605  1.0000
+  Cr  Cr4       1.0  0.6666666883522375  0.33333331573213454  0.5  1.0000
+  Cr  Cr5       1.0  0.6666667340814952  0.8333333157321345  0.5  1.0000
+  Cr  Cr6       1.0  0.1666667340814952  0.8333333157321345  0.5  1.0000
+  Rh  Rh2       1.0  0.16666668835223747  0.33333331573213454  0.5  1.0000
+  Cr  Cr7       1.0  0.3378730747736585  0.6757533911525674  0.5819089333898217  1.0000
+  Cr  Cr8       1.0  0.3378741231808082  0.16212624822421506  0.5819118820510353  1.0000
+  Cr  Cr9       1.0  0.8242494138210951  0.16212808314918958  0.5819103487472043  1.0000
+  Rh  Rh3       1.0  0.8333289423540522  0.6666656281959377  0.5890144992355497  1.0000

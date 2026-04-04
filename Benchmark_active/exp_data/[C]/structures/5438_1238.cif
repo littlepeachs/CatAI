@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al3CrAl3CrAl3Cr
+_chemical_formula_sum              "Al9 Cr3"
+_cell_length_a       5.434629440307617
+_cell_length_b       5.434629920518482
+_cell_length_c       24.437355041503906
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999707703238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.4092095494517262  1.0000
+  Al  Al2       1.0  0.9999999746714995  0.49999994934299896  0.4092095494517262  1.0000
+  Al  Al3       1.0  0.4999999746714995  0.49999994934299896  0.4092095494517262  1.0000
+  Cr  Cr1       1.0  0.5  0.0  0.4092095494517262  1.0000
+  Al  Al4       1.0  0.6666666497809998  0.3333332995619993  0.5  1.0000
+  Al  Al5       1.0  0.6666666244524992  0.8333332489049983  0.5  1.0000
+  Al  Al6       1.0  0.16666662445249913  0.8333332489049983  0.5  1.0000
+  Cr  Cr2       1.0  0.16666664978099968  0.3333332995619993  0.5  1.0000
+  Al  Al7       1.0  0.3320091255547955  0.664018251109591  0.5970026877482203  1.0000
+  Al  Al8       1.0  0.3320092270327726  0.16799086178095426  0.5970027267734878  1.0000
+  Al  Al9       1.0  0.83598183261895  0.16799095043070608  0.5970027267734878  1.0000
+  Cr  Cr3       1.0  0.8333329553867059  0.6666667004380007  0.5814801534660838  1.0000

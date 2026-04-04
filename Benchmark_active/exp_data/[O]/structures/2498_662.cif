@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In3TlIn3TlIn3Tl
+_chemical_formula_sum              "In9 Tl3"
+_cell_length_a       6.942899703979492
+_cell_length_b       6.942899892645776
+_cell_length_c       25.668851852416992
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9999991010917
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.0  0.0  0.38957718497970445  1.0000
+  In  In2       1.0  0.9999999801738421  0.4999999603476842  0.38957718497970445  1.0000
+  In  In3       1.0  0.49999998017384206  0.4999999603476842  0.38957718497970445  1.0000
+  Tl  Tl1       1.0  0.4999999656600859  0.0  0.38957718497970445  1.0000
+  In  In4       1.0  0.6666666191093139  0.3333333068984561  0.5  1.0000
+  In  In5       1.0  0.6666666137969123  0.8333332275938244  0.5  1.0000
+  In  In6       1.0  0.1666666137969122  0.8333332275938244  0.5  1.0000
+  Tl  Tl2       1.0  0.166666653449228  0.3333333068984561  0.5  1.0000
+  In  In7       1.0  0.33679741355614357  0.6735967283350055  0.6097409835478435  1.0000
+  In  In8       1.0  0.3368073767591621  0.1632556720258622  0.6097420609842374  1.0000
+  In  In9       1.0  0.8264547432785363  0.16325843777488966  0.6097425439729657  1.0000
+  Tl  Tl3       1.0  0.8333593954796178  0.6667259336613583  0.6162332437277783  1.0000

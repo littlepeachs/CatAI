@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg3PbHg3PbHg3Pb
+_chemical_formula_sum              "Hg9 Pb3"
+_cell_length_a       6.880703449249268
+_cell_length_b       6.880703234684458
+_cell_length_c       25.61806869506836
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000103154382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.0  0.0  0.3903494508253367  1.0000
+  Hg  Hg2       1.0  1.7325160200558826e-08  0.5  0.3903494508253367  1.0000
+  Hg  Hg3       1.0  0.4999999826748398  0.5  0.3903494508253367  1.0000
+  Pb  Pb1       1.0  0.5  0.0  0.3903494508253367  1.0000
+  Hg  Hg4       1.0  0.6666666700008954  0.3333333400017909  0.5  1.0000
+  Hg  Hg5       1.0  0.666666642673049  0.8333333199964182  0.5  1.0000
+  Hg  Hg6       1.0  0.16666667732336932  0.8333333199964182  0.5  1.0000
+  Pb  Pb2       1.0  0.16666667000089544  0.3333333400017909  0.5  1.0000
+  Hg  Hg7       1.0  0.3333782353047852  0.6668153599330636  0.6235417771366856  1.0000
+  Hg  Hg8       1.0  0.3333540241091602  0.1665528494332438  0.6235448669468193  1.0000
+  Hg  Hg9       1.0  0.8332246455128839  0.16659257010062622  0.6235429683887853  1.0000
+  Pb  Pb3       1.0  0.8332665751345154  0.6666080642617381  0.5990510858039529  1.0000

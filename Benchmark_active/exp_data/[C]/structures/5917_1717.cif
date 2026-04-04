@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf3MnHf3MnHf3Mn
+_chemical_formula_sum              "Hf9 Mn3"
+_cell_length_a       6.026248455047607
+_cell_length_b       6.026247578209254
+_cell_length_c       24.92041015625
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999957822622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.0  0.0  0.40127746628671357  1.0000
+  Hf  Hf2       1.0  0.9999999832785602  0.5000000456838285  0.40127746628671357  1.0000
+  Hf  Hf3       1.0  0.49999998327856027  0.5000000456838285  0.40127746628671357  1.0000
+  Mn  Mn1       1.0  0.4999999604366496  0.0  0.40127746628671357  1.0000
+  Hf  Hf4       1.0  0.6666666121487046  0.33333335617524756  0.5  1.0000
+  Hf  Hf5       1.0  0.6666666464115706  0.8333334247009903  0.5  1.0000
+  Hf  Hf6       1.0  0.16666664641157058  0.8333334247009903  0.5  1.0000
+  Mn  Mn2       1.0  0.16666665171205505  0.33333335617524756  0.5  1.0000
+  Hf  Hf7       1.0  0.32963832042162566  0.6592639677391768  0.5990460964594314  1.0000
+  Hf  Hf8       1.0  0.3296337086368485  0.17038288621656766  0.5990434559118875  1.0000
+  Hf  Hf9       1.0  0.8407378038695111  0.1703745146550067  0.5990406240203187  1.0000
+  Mn  Mn3       1.0  0.8333335197199817  0.6666714177848241  0.5940865358710348  1.0000

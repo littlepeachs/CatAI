@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd3CoCd3CoCd3Co
+_chemical_formula_sum              "Cd9 Co3"
+_cell_length_a       5.934569358825684
+_cell_length_b       5.934570113816456
+_cell_length_c       24.84555435180664
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999579162555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  0.0  0.40248645309854136  1.0000
+  Cd  Cd2       1.0  0.9999999567179552  0.49999995361044786  0.40248645309854136  1.0000
+  Cd  Cd3       1.0  0.49999999689249264  0.49999995361044786  0.40248645309854136  1.0000
+  Co  Co1       1.0  0.5000000401745375  0.0  0.40248645309854136  1.0000
+  Cd  Cd4       1.0  0.666666695243816  0.33333331013855727  0.5  1.0000
+  Cd  Cd5       1.0  0.6666666635591593  0.8333332869437812  0.5  1.0000
+  Cd  Cd6       1.0  0.16666662338462185  0.8333332869437812  0.5  1.0000
+  Co  Co2       1.0  0.16666665506927864  0.33333331013855727  0.5  1.0000
+  Cd  Cd7       1.0  0.33247886752484285  0.6649581394597974  0.6072603453985829  1.0000
+  Cd  Cd8       1.0  0.33247899865859704  0.16752109263353396  0.6072599999416561  1.0000
+  Cd  Cd9       1.0  0.8350423347991037  0.16752048956935559  0.6072598464052443  1.0000
+  Co  Co3       1.0  0.8333307733737979  0.6666677336263669  0.5879167918628159  1.0000

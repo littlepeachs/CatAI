@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti3YTi3YTi3Y
+_chemical_formula_sum              "Ti9 Y3"
+_cell_length_a       6.143394470214844
+_cell_length_b       6.143393981955473
+_cell_length_c       25.01605987548828
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999749392562
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0  0.0  0.39974316883227784  1.0000
+  Ti  Ti2       1.0  0.9999999611910678  0.5  0.39974316883227784  1.0000
+  Ti  Ti3       1.0  0.4999999611910678  0.5  0.39974316883227784  1.0000
+  Y   Y1        1.0  0.49999999999999994  0.0  0.39974316883227784  1.0000
+  Ti  Ti4       1.0  0.6666666407940451  0.3333333333333333  0.5  1.0000
+  Ti  Ti5       1.0  0.666666601985113  0.8333333333333334  0.5  1.0000
+  Ti  Ti6       1.0  0.1666666019851131  0.8333333333333334  0.5  1.0000
+  Y   Y2        1.0  0.16666664079404522  0.3333333333333333  0.5  1.0000
+  Ti  Ti7       1.0  0.35066969342785603  0.7013530387310765  0.590411966799892  1.0000
+  Ti  Ti8       1.0  0.3506762139464675  0.14933889620232108  0.5904110137378179  1.0000
+  Ti  Ti9       1.0  0.7986530751198861  0.14934087916417507  0.5904097938183631  1.0000
+  Y   Y3        1.0  0.8333343726633897  0.6666826647995905  0.6104130418539115  1.0000

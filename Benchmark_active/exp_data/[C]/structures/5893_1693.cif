@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sc3HgSc3HgSc3Hg
+_chemical_formula_sum              "Sc9 Hg3"
+_cell_length_a       6.347416400909424
+_cell_length_b       6.347417232163321
+_cell_length_c       25.182641983032227
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000063799725
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.0  0.0  0.3970988847422589  1.0000
+  Sc  Sc2       1.0  0.9999999970946061  0.4999999566277033  0.3970988847422589  1.0000
+  Sc  Sc3       1.0  0.5000000346561214  0.4999999566277033  0.3970988847422589  1.0000
+  Hg  Hg1       1.0  0.5000000375615153  0.0  0.3970988847422589  1.0000
+  Sc  Sc4       1.0  0.6666667111973993  0.33333329718975274  0.5  1.0000
+  Sc  Sc5       1.0  0.6666667191350811  0.8333332755036044  0.5  1.0000
+  Sc  Sc6       1.0  0.16666668157356584  0.8333332755036044  0.5  1.0000
+  Hg  Hg2       1.0  0.16666667363588394  0.33333329718975274  0.5  1.0000
+  Sc  Sc7       1.0  0.3317277077365791  0.6634538348743799  0.6042446021751037  1.0000
+  Sc  Sc8       1.0  0.33171443287527796  0.16824294965968362  0.6042441856017557  1.0000
+  Sc  Sc9       1.0  0.8365288616964168  0.16824197378300804  0.6042440341205383  1.0000
+  Hg  Hg3       1.0  0.8333426549964357  0.6666891913460817  0.5994847972314081  1.0000

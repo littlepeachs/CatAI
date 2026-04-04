@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf2Pt2Hf2Pt2Hf2Pt2
+_chemical_formula_sum              "Hf6 Pt6"
+_cell_length_a       5.776327610015869
+_cell_length_b       5.776328454162611
+_cell_length_c       24.74542236328125
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    69.37884726207574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.0  0.0  0.404115108625678  1.0000
+  Hf  Hf2       1.0  0.5000000155316888  0.49999995589934465  0.404115108625678  1.0000
+  Pt  Pt1       1.0  0.5  0.0  0.404115108625678  1.0000
+  Pt  Pt2       1.0  0.999999974256575  0.49999995589934465  0.404115108625678  1.0000
+  Hf  Hf3       1.0  0.739542541540787  0.7395425439022024  0.5  1.0000
+  Hf  Hf4       1.0  0.2395425956876132  0.23954256595253004  0.5  1.0000
+  Pt  Pt3       1.0  0.23954254154078694  0.7395425439022024  0.5  1.0000
+  Pt  Pt4       1.0  0.7395425750500564  0.23954256595253004  0.5  1.0000
+  Hf  Hf5       1.0  0.4812927325374553  0.48129281071116714  0.5955653610126558  1.0000
+  Hf  Hf6       1.0  0.9812924595715167  0.9812924138052691  0.5955653610126558  1.0000
+  Pt  Pt5       1.0  0.9813653510898014  0.48136495938329643  0.5882012093979464  1.0000
+  Pt  Pt6       1.0  0.48136512875437526  0.9813653562891944  0.5882011708585227  1.0000

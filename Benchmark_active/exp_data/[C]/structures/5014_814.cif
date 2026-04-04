@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2Sn2Ni2Sn2Ni2Sn2
+_chemical_formula_sum              "Ni6 Sn6"
+_cell_length_a       5.588721752166748
+_cell_length_b       5.588721029776573
+_cell_length_c       24.534996032714844
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    71.43169858381142
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4075810337605816  1.0000
+  Ni  Ni2       1.0  0.49999996800450225  0.5  0.4075810337605816  1.0000
+  Sn  Sn1       1.0  0.49999995733933633  0.0  0.4075810337605816  1.0000
+  Sn  Sn2       1.0  0.0  0.5  0.4075810337605816  1.0000
+  Ni  Ni3       1.0  0.7584750097004753  0.7584750495689176  0.5  1.0000
+  Ni  Ni4       1.0  0.2584750345306583  0.2584750720705825  0.5  1.0000
+  Sn  Sn3       1.0  0.258475052361139  0.7584750495689176  0.5  1.0000
+  Sn  Sn4       1.0  0.7584749918699947  0.2584750720705825  0.5  1.0000
+  Ni  Ni5       1.0  0.5156774590825977  0.5156806452109391  0.5820611713664594  1.0000
+  Ni  Ni6       1.0  0.01564310141458367  0.015640910083437074  0.5820558073119682  1.0000
+  Sn  Sn5       1.0  0.014586619326659247  0.514725494539341  0.6008737656066776  1.0000
+  Sn  Sn6       1.0  0.5147243183161466  0.01458505742964922  0.6008737656066776  1.0000

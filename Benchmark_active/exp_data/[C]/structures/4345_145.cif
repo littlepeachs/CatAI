@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tc3CrTc3CrTc3Cr
+_chemical_formula_sum              "Tc9 Cr3"
+_cell_length_a       5.4129204750061035
+_cell_length_b       5.412920590128607
+_cell_length_c       24.41963005065918
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000051246034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tc  Tc1       1.0  0.0  0.0  0.40950657424295195  1.0000
+  Tc  Tc2       1.0  4.7453190968215876e-08  0.5000000508601727  0.40950657424295195  1.0000
+  Tc  Tc3       1.0  0.5000000914993912  0.5000000508601727  0.40950657424295195  1.0000
+  Cr  Cr1       1.0  0.5000000440462002  0.0  0.40950657424295195  1.0000
+  Tc  Tc4       1.0  0.6666667612687428  0.33333337571681054  0.5  1.0000
+  Tc  Tc5       1.0  0.6666667960068883  0.8333334011468969  0.5  1.0000
+  Tc  Tc6       1.0  0.16666675196068806  0.8333334011468969  0.5  1.0000
+  Cr  Cr2       1.0  0.1666667172225425  0.33333337571681054  0.5  1.0000
+  Tc  Tc7       1.0  0.33158121704876276  0.6631606545704223  0.5866875749194382  1.0000
+  Tc  Tc8       1.0  0.33157795184302574  0.16842203771281805  0.5866872234370927  1.0000
+  Tc  Tc9       1.0  0.8368461319038929  0.1684219741376022  0.5866871453299048  1.0000
+  Cr  Cr3       1.0  0.8333321325223068  0.6666644118656783  0.583673184216818  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd3MnCd3MnCd3Mn
+_chemical_formula_sum              "Cd9 Mn3"
+_cell_length_a       6.14115047454834
+_cell_length_b       6.141150612140141
+_cell_length_c       25.01422691345215
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999412181954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  0.0  0.3997724607250558  1.0000
+  Cd  Cd2       1.0  0.9999999387623575  0.49999995517093415  0.3997724607250558  1.0000
+  Cd  Cd3       1.0  0.4999999387623575  0.49999995517093415  0.3997724607250558  1.0000
+  Mn  Mn1       1.0  0.5  0.0  0.3997724607250558  1.0000
+  Cd  Cd4       1.0  0.6666666295773266  0.3333333109188004  0.5  1.0000
+  Cd  Cd5       1.0  0.6666665571324193  0.8333332436752016  0.5  1.0000
+  Cd  Cd6       1.0  0.16666655713241935  0.8333332436752016  0.5  1.0000
+  Mn  Mn2       1.0  0.16666662957732659  0.3333333109188004  0.5  1.0000
+  Cd  Cd7       1.0  0.33309799875612883  0.666196947714426  0.6089876221714953  1.0000
+  Cd  Cd8       1.0  0.3330967477772973  0.16690219857877517  0.6089873934198365  1.0000
+  Cd  Cd9       1.0  0.8338024815678778  0.16690361069435022  0.6089875840462188  1.0000
+  Mn  Mn3       1.0  0.8333330726542878  0.6666670252991936  0.5962813062848221  1.0000

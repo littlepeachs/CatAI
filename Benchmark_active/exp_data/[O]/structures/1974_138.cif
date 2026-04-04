@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Re3AlRe3AlRe3Al
+_chemical_formula_sum              "Re9 Al3"
+_cell_length_a       5.520412445068359
+_cell_length_b       5.520412286238005
+_cell_length_c       24.507396697998047
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999523709018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.0  0.0  0.4080400366287195  1.0000
+  Re  Re2       1.0  0.9999999318765423  0.49999995013016524  0.4080400366287195  1.0000
+  Re  Re3       1.0  0.49999993187654235  0.49999995013016524  0.4080400366287195  1.0000
+  Al  Al1       1.0  0.5  0.0  0.4080400366287195  1.0000
+  Re  Re4       1.0  0.6666666295626659  0.33333331671005506  0.5  1.0000
+  Re  Re5       1.0  0.6666665863741214  0.8333333167100551  0.5  1.0000
+  Re  Re6       1.0  0.16666658637412132  0.8333333167100551  0.5  1.0000
+  Al  Al2       1.0  0.16666662956266592  0.33333331671005506  0.5  1.0000
+  Re  Re7       1.0  0.3401945337341238  0.6803897646752212  0.5895288278389476  1.0000
+  Re  Re8       1.0  0.34019366489700553  0.15980797271042851  0.5895283608741394  1.0000
+  Re  Re9       1.0  0.8196063754713219  0.15980352182767757  0.5895284387016074  1.0000
+  Al  Al3       1.0  0.8333297025118984  0.6666660848519279  0.5974462550745454  1.0000

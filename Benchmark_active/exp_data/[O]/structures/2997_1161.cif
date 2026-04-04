@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Au3TiAu3TiAu3Ti
+_chemical_formula_sum              "Au9 Ti3"
+_cell_length_a       5.904095649719238
+_cell_length_b       5.904095558777672
+_cell_length_c       24.8206729888916
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000050953152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.0  0.0  0.4028899236858382  1.0000
+  Au  Au2       1.0  0.0  0.5  0.4028899236858382  1.0000
+  Au  Au3       1.0  0.5  0.5  0.4028899236858382  1.0000
+  Ti  Ti1       1.0  0.5  0.0  0.4028899236858382  1.0000
+  Au  Au4       1.0  0.6666666822096661  0.3333333644193323  0.5  1.0000
+  Au  Au5       1.0  0.6666667055241654  0.8333334110483308  0.5  1.0000
+  Au  Au6       1.0  0.1666667055241654  0.8333334110483308  0.5  1.0000
+  Ti  Ti2       1.0  0.16666668220966616  0.3333333644193323  0.5  1.0000
+  Au  Au7       1.0  0.33179034948589853  0.6635808683457272  0.5980881615340631  1.0000
+  Au  Au8       1.0  0.33179154075351486  0.16821016034686753  0.5980878925759966  1.0000
+  Au  Au9       1.0  0.8364180048526165  0.16820784055419125  0.5980880462663203  1.0000
+  Ti  Ti3       1.0  0.8333331216794195  0.6666655164847032  0.59067344871327  1.0000

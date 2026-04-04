@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu3NiCu3NiCu3Ni
+_chemical_formula_sum              "Cu9 Ni3"
+_cell_length_a       5.116979598999023
+_cell_length_b       5.116979865706957
+_cell_length_c       24.177995681762695
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999827581354
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.0  0.41359917413950975  1.0000
+  Cu  Cu2       1.0  0.9999999730991656  0.49999994619833105  0.41359917413950975  1.0000
+  Cu  Cu3       1.0  0.4999999730991655  0.49999994619833105  0.41359917413950975  1.0000
+  Ni  Ni1       1.0  0.49999999999999994  0.0  0.41359917413950975  1.0000
+  Cu  Cu4       1.0  0.6666666621831943  0.3333333243663885  0.5  1.0000
+  Cu  Cu5       1.0  0.6666666487327769  0.8333332974655541  0.5  1.0000
+  Cu  Cu6       1.0  0.16666664873277703  0.8333332974655541  0.5  1.0000
+  Ni  Ni2       1.0  0.16666666218319423  0.3333333243663885  0.5  1.0000
+  Cu  Cu7       1.0  0.33303816888264903  0.6660771976475328  0.586650466270224  1.0000
+  Cu  Cu8       1.0  0.3330390087206708  0.16696119941997498  0.5866503873824346  1.0000
+  Cu  Cu9       1.0  0.833922703004961  0.16696180468875088  0.5866503479385398  1.0000
+  Ni  Ni3       1.0  0.8333336216894812  0.6666662183194253  0.5836165207755333  1.0000

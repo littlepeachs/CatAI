@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La3NiLa3NiLa3Ni
+_chemical_formula_sum              "La9 Ni3"
+_cell_length_a       6.910728454589844
+_cell_length_b       6.910728882476886
+_cell_length_c       25.64258575439453
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000251679721
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.0  0.0  0.3899762349283329  1.0000
+  La  La2       1.0  1.7249887668731502e-08  0.5  0.3899762349283329  1.0000
+  La  La3       1.0  0.500000051749663  0.5  0.3899762349283329  1.0000
+  Ni  Ni1       1.0  0.5  0.0  0.3899762349283329  1.0000
+  La  La4       1.0  0.6666666797072887  0.3333333134148795  0.4999999628089645  1.0000
+  La  La5       1.0  0.6666667214977232  0.8333332934964256  0.4999999628089645  1.0000
+  La  La6       1.0  0.16666668699794793  0.8333332934964256  0.4999999628089645  1.0000
+  Ni  Ni2       1.0  0.1666666797072886  0.3333333134148795  0.4999999628089645  1.0000
+  La  La7       1.0  0.32404775849742884  0.6480948198077072  0.6099598336816894  1.0000
+  La  La8       1.0  0.3240403402025977  0.17593729272358963  0.6099613213231083  1.0000
+  La  La9       1.0  0.8518957746966169  0.17593930448742848  0.60996106098586  1.0000
+  Ni  Ni3       1.0  0.8333395549521767  0.6666993727678883  0.5835936581846312  1.0000

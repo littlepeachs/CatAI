@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ir3FeIr3FeIr3Fe
+_chemical_formula_sum              "Ir9 Fe3"
+_cell_length_a       5.402205467224121
+_cell_length_b       5.4022059455381
+_cell_length_c       24.41088104248047
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9999970711041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.0  0.0  0.40965334388887553  1.0000
+  Ir  Ir2       1.0  0.9999999745194781  0.4999999490389562  0.40965334388887553  1.0000
+  Ir  Ir3       1.0  0.49999997451947814  0.4999999490389562  0.40965334388887553  1.0000
+  Fe  Fe1       1.0  0.5  0.0  0.40965334388887553  1.0000
+  Ir  Ir4       1.0  0.6666666411861448  0.3333332823722896  0.5  1.0000
+  Ir  Ir5       1.0  0.6666666157056229  0.8333332314112458  0.5  1.0000
+  Ir  Ir6       1.0  0.1666666157056229  0.8333332314112458  0.5  1.0000
+  Fe  Fe2       1.0  0.1666666411861448  0.3333332823722896  0.5  1.0000
+  Ir  Ir7       1.0  0.3313052530121841  0.6626107281558543  0.5885743548456158  1.0000
+  Ir  Ir8       1.0  0.3313053072046209  0.16869447029868065  0.5885743548456158  1.0000
+  Ir  Ir9       1.0  0.8373891792480606  0.16869454674024625  0.5885743939132068  1.0000
+  Fe  Fe3       1.0  0.8333332941978513  0.6666664118614479  0.5898577252098164  1.0000

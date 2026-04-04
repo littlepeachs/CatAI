@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In3MnIn3MnIn3Mn
+_chemical_formula_sum              "In9 Mn3"
+_cell_length_a       6.15745735168457
+_cell_length_b       6.1574575886294065
+_cell_length_c       25.027542114257812
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999872706033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.0  0.0  0.39955977301617784  1.0000
+  In  In2       1.0  7.744059460357278e-08  0.5  0.39955977301617784  1.0000
+  In  In3       1.0  0.5  0.5  0.39955977301617784  1.0000
+  Mn  Mn1       1.0  0.5000000387202973  0.0  0.39955977301617784  1.0000
+  In  In4       1.0  0.6666667053869639  0.3333333333333333  0.5  1.0000
+  In  In5       1.0  0.6666666666666666  0.8333333333333334  0.5  1.0000
+  In  In6       1.0  0.16666666666666666  0.8333333333333334  0.5  1.0000
+  Mn  Mn2       1.0  0.16666666666666663  0.3333333333333333  0.5  1.0000
+  In  In7       1.0  0.33189652356769717  0.6637928197688403  0.6134653137869961  1.0000
+  In  In8       1.0  0.33189605288220486  0.16810345598454238  0.6134653899969821  1.0000
+  In  In9       1.0  0.8362074521977105  0.16810332185350493  0.6134653899969821  1.0000
+  Mn  Mn3       1.0  0.8333332902280088  0.6666668902183958  0.5958649223725083  1.0000

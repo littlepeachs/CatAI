@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn2Zr2Mn2Zr2Mn2Zr2
+_chemical_formula_sum              "Mn6 Zr6"
+_cell_length_a       5.550767421722412
+_cell_length_b       5.550766942837274
+_cell_length_c       24.531902313232422
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.53872854474571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.0  0.0  0.40763243382604375  1.0000
+  Mn  Mn2       1.0  0.49999992039389163  0.5000000455550689  0.40763243382604375  1.0000
+  Zr  Zr1       1.0  0.5  0.0  0.40763243382604375  1.0000
+  Zr  Zr2       1.0  0.999999963346255  0.5000000455550689  0.40763243382604375  1.0000
+  Mn  Mn3       1.0  0.7500920138406255  0.7500921806819721  0.5  1.0000
+  Mn  Mn4       1.0  0.25009210733413395  0.2500921579044377  0.5  1.0000
+  Zr  Zr3       1.0  0.25009209974535224  0.7500921806819721  0.5  1.0000
+  Zr  Zr4       1.0  0.7500920858579522  0.2500921579044377  0.5  1.0000
+  Mn  Mn5       1.0  0.5001798244234905  0.5001817647250154  0.5892136874968026  1.0000
+  Mn  Mn6       1.0  0.00019027690473751694  0.0001884541131933675  0.5892148926175238  1.0000
+  Zr  Zr5       1.0  0.00010784194326270361  0.5001223153600668  0.5956595283608446  1.0000
+  Zr  Zr6       1.0  0.5001238452908592  0.00010954145626441191  0.5956598004848784  1.0000

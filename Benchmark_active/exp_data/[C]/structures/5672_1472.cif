@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti2Pd2Ti2Pd2Ti2Pd2
+_chemical_formula_sum              "Ti6 Pd6"
+_cell_length_a       5.605807781219482
+_cell_length_b       5.605807337608597
+_cell_length_c       24.600807189941406
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    61.12843693307601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0  0.0  0.4064906882573515  1.0000
+  Ti  Ti2       1.0  0.4999999340187229  0.5000000485673554  0.4064906882573515  1.0000
+  Pd  Pd1       1.0  0.5  0.0  0.4064906882573515  1.0000
+  Pd  Pd2       1.0  0.9999999765493605  0.5000000485673554  0.4064906882573515  1.0000
+  Ti  Ti3       1.0  0.6743780444157388  0.6743780780168511  0.5  1.0000
+  Ti  Ti4       1.0  0.17437802901307986  0.1743780658750123  0.5  1.0000
+  Pd  Pd3       1.0  0.1743780444157388  0.6743780780168511  0.5  1.0000
+  Pd  Pd4       1.0  0.6743780502783987  0.1743780658750123  0.5  1.0000
+  Ti  Ti5       1.0  0.37783953718422864  0.377839065463064  0.5916885125866923  1.0000
+  Ti  Ti6       1.0  0.8778406008718234  0.8778404739163677  0.5916883575227858  1.0000
+  Pd  Pd5       1.0  0.8793552797956775  0.37935463406877584  0.5921042776859627  1.0000
+  Pd  Pd6       1.0  0.379354686175011  0.8793557754016254  0.5921041226220563  1.0000

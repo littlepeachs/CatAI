@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni3VNi3VNi3V
+_chemical_formula_sum              "Ni9 V3"
+_cell_length_a       5.063709735870361
+_cell_length_b       5.0637100141342835
+_cell_length_c       24.13450050354004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999818218335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.41434456225265104  1.0000
+  Ni  Ni2       1.0  0.9999999764581116  0.5  0.41434456225265104  1.0000
+  Ni  Ni3       1.0  0.5000000235418884  0.5  0.41434456225265104  1.0000
+  V   V1        1.0  0.5000000470837769  0.0  0.41434456225265104  1.0000
+  Ni  Ni4       1.0  0.6666667137504435  0.33333333333333337  0.5  1.0000
+  Ni  Ni5       1.0  0.6666666902085552  0.8333333333333334  0.5  1.0000
+  Ni  Ni6       1.0  0.16666664312477827  0.8333333333333334  0.5  1.0000
+  V   V2        1.0  0.16666666666666669  0.33333333333333337  0.5  1.0000
+  Ni  Ni7       1.0  0.33080654203859583  0.6616130840771917  0.5837950329511471  1.0000
+  Ni  Ni8       1.0  0.33080565123841793  0.16918303296289386  0.5837944007114593  1.0000
+  Ni  Ni9       1.0  0.8383727123623272  0.16918080388889686  0.5837976014248786  1.0000
+  V   V3        1.0  0.833334831161587  0.6666623172539896  0.5843105058715704  1.0000

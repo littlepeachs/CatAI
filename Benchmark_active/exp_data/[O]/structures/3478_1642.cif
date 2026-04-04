@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       GaBi2Ga2Bi2Ga2Bi2Ga
+_chemical_formula_sum              "Ga6 Bi6"
+_cell_length_a       6.792752742767334
+_cell_length_b       6.792752149712035
+_cell_length_c       25.590084075927734
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    61.84150431445937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.0  0.0  0.3907763263557448  1.0000
+  Bi  Bi1       1.0  0.0  0.5  0.3907763263557448  1.0000
+  Bi  Bi2       1.0  0.5  0.0  0.3907763263557448  1.0000
+  Ga  Ga2       1.0  0.4999999473515551  0.5  0.3907763263557448  1.0000
+  Ga  Ga3       1.0  0.6793883074104197  0.6793882967394282  0.5  1.0000
+  Bi  Bi3       1.0  0.6793883155663131  0.1793883166448013  0.5  1.0000
+  Bi  Bi4       1.0  0.17938830741041967  0.6793882967394282  0.5  1.0000
+  Ga  Ga4       1.0  0.17938831556631302  0.1793883166448013  0.5  1.0000
+  Ga  Ga5       1.0  0.35827693865229177  0.3582761325898491  0.6071908148831439  1.0000
+  Bi  Bi5       1.0  0.3533888716743404  0.8533931057183121  0.6003624323169239  1.0000
+  Bi  Bi6       1.0  0.8533943701853107  0.3533912346132462  0.6003642211491548  1.0000
+  Ga  Ga6       1.0  0.8582753812557001  0.8582748586459744  0.6071891751202655  1.0000

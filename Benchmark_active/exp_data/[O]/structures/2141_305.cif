@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Au3GaAu3GaAu3Ga
+_chemical_formula_sum              "Au9 Ga3"
+_cell_length_a       5.91691255569458
+_cell_length_b       5.916912745776672
+_cell_length_c       24.83113670349121
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000426902155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.0  0.0  0.40272014792297856  1.0000
+  Au  Au2       1.0  4.0294423292110796e-08  0.5  0.40272014792297856  1.0000
+  Au  Au3       1.0  0.5000000402944234  0.5  0.40272014792297856  1.0000
+  Ga  Ga1       1.0  0.5  0.0  0.40272014792297856  1.0000
+  Au  Au4       1.0  0.6666667051616156  0.3333333565973297  0.5  1.0000
+  Au  Au5       1.0  0.6666667570880389  0.833333379861326  0.5  1.0000
+  Au  Au6       1.0  0.16666675708803894  0.833333379861326  0.5  1.0000
+  Ga  Ga2       1.0  0.16666670516161558  0.3333333565973297  0.5  1.0000
+  Au  Au7       1.0  0.3319008642220644  0.6637828616744178  0.6041215663631307  1.0000
+  Au  Au8       1.0  0.33187093844910226  0.1681039628915063  0.6041201837330965  1.0000
+  Au  Au9       1.0  0.8362127703069663  0.16811767701737698  0.6041207982353339  1.0000
+  Ga  Ga3       1.0  0.8333698638279207  0.6666484742214913  0.6060617035522915  1.0000

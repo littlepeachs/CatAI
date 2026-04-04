@@ -1,0 +1,7 @@
+#!/bin/bash
+set -euo pipefail
+
+RUN_COMMON_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+export CATAI_ACTIVE_ROOT=${CATAI_ACTIVE_ROOT:-$RUN_COMMON_DIR}
+export CATAI_PYTHON_BIN=${CATAI_PYTHON_BIN:-python}
+export CATAI_ACTIVE_EXPORT_ROOT=${CATAI_ACTIVE_EXPORT_ROOT:-$RUN_COMMON_DIR/exp_data}

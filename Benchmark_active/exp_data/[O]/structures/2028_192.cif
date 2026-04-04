@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Os3FeOs3FeOs3Fe
+_chemical_formula_sum              "Os9 Fe3"
+_cell_length_a       5.361932754516602
+_cell_length_b       5.361932551830948
+_cell_length_c       24.37799835205078
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000713401015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Os  Os1       1.0  0.0  0.0  0.4102059119831076  1.0000
+  Os  Os2       1.0  7.013695743742063e-08  0.5000000513438165  0.4102059119831076  1.0000
+  Os  Os3       1.0  0.5000000701369574  0.5000000513438165  0.4102059119831076  1.0000
+  Fe  Fe1       1.0  0.5000000444650446  0.0  0.4102059119831076  1.0000
+  Os  Os4       1.0  0.6666667621683351  0.33333337611984715  0.5  1.0000
+  Os  Os5       1.0  0.6666668006762043  0.8333334531355719  0.5  1.0000
+  Os  Os6       1.0  0.1666668006762043  0.8333334531355719  0.5  1.0000
+  Fe  Fe2       1.0  0.16666671770329045  0.33333337611984715  0.5  1.0000
+  Os  Os7       1.0  0.3344763533475867  0.6689520655155314  0.5869861902253736  1.0000
+  Os  Os8       1.0  0.3344759853230372  0.16552444217253762  0.5869861902253736  1.0000
+  Os  Os9       1.0  0.8310484612923675  0.16552390306246356  0.5869861902253736  1.0000
+  Fe  Fe3       1.0  0.8333342032266898  0.6666665982082446  0.5845830309335072  1.0000

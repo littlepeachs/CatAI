@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu3GaCu3GaCu3Ga
+_chemical_formula_sum              "Cu9 Ga3"
+_cell_length_a       5.272348403930664
+_cell_length_b       5.272349528201566
+_cell_length_c       24.304853439331055
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000192141218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.0  0.411440417498807  1.0000
+  Cu  Cu2       1.0  1.911245803685608e-08  0.4999999477837982  0.411440417498807  1.0000
+  Cu  Cu3       1.0  0.500000064333024  0.4999999477837982  0.411440417498807  1.0000
+  Ga  Ga1       1.0  0.5000000452205661  0.0  0.411440417498807  1.0000
+  Cu  Cu4       1.0  0.6666667527564475  0.33333332463063303  0.5  1.0000
+  Cu  Cu5       1.0  0.6666667588148514  0.8333332463063303  0.5  1.0000
+  Cu  Cu6       1.0  0.16666671359428542  0.8333332463063303  0.5  1.0000
+  Ga  Ga2       1.0  0.16666670753588136  0.33333332463063303  0.5  1.0000
+  Cu  Cu7       1.0  0.33442506762506924  0.6688524194690406  0.5879333044698462  1.0000
+  Cu  Cu8       1.0  0.3344245818328844  0.1655753306434331  0.5879329120896498  1.0000
+  Cu  Cu9       1.0  0.8311401182325955  0.16556835978049145  0.5879327943755909  1.0000
+  Ga  Ga3       1.0  0.833337587480645  0.6666664926126606  0.5964722430641504  1.0000

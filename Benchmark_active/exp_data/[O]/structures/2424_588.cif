@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga3RuGa3RuGa3Ru
+_chemical_formula_sum              "Ga9 Ru3"
+_cell_length_a       5.555050373077393
+_cell_length_b       5.555050234334603
+_cell_length_c       24.53567886352539
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9999951471695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.0  0.0  0.40756969073277316  1.0000
+  Ga  Ga2       1.0  0.999999957080753  0.5  0.40756969073277316  1.0000
+  Ga  Ga3       1.0  0.49999995708075295  0.5  0.40756969073277316  1.0000
+  Ru  Ru1       1.0  0.49999999999999994  0.0  0.40756969073277316  1.0000
+  Ga  Ga4       1.0  0.6666666463136466  0.3333333498529588  0.5  1.0000
+  Ga  Ga5       1.0  0.6666665786149656  0.8333333002940824  0.5  1.0000
+  Ga  Ga6       1.0  0.16666657861496567  0.8333333002940824  0.5  1.0000
+  Ru  Ru2       1.0  0.16666664631364664  0.3333333498529588  0.5  1.0000
+  Ga  Ga7       1.0  0.3303187527629202  0.6606415793026272  0.6018834148206411  1.0000
+  Ga  Ga8       1.0  0.33031921374635004  0.1696925292967298  0.6018814713767248  1.0000
+  Ga  Ga9       1.0  0.8393838271915264  0.1696969152572948  0.6018805773925232  1.0000
+  Ru  Ru3       1.0  0.833336266985263  0.6666704166216506  0.5837559416910854  1.0000

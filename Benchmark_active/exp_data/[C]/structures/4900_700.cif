@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sn3AlSn3AlSn3Al
+_chemical_formula_sum              "Sn9 Al3"
+_cell_length_a       6.657387733459473
+_cell_length_b       6.657388377539017
+_cell_length_c       25.435733795166016
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.999996799649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.0  0.0  0.3931476530952747  1.0000
+  Sn  Sn2       1.0  0.9999999793235698  0.49999995864713953  0.3931476530952747  1.0000
+  Sn  Sn3       1.0  0.49999997932356977  0.49999995864713953  0.3931476530952747  1.0000
+  Al  Al1       1.0  0.5  0.0  0.3931476530952747  1.0000
+  Sn  Sn4       1.0  0.6666666459902364  0.33333329198047285  0.5  1.0000
+  Sn  Sn5       1.0  0.6666666253138062  0.8333332506276123  0.5  1.0000
+  Sn  Sn6       1.0  0.16666662531380613  0.8333332506276123  0.5  1.0000
+  Al  Al2       1.0  0.16666664599023642  0.33333329198047285  0.5  1.0000
+  Sn  Sn7       1.0  0.33002794388025586  0.6600681147776762  0.6008008983439128  1.0000
+  Sn  Sn8       1.0  0.33003832251392484  0.16997518497548023  0.6008014982396809  1.0000
+  Sn  Sn9       1.0  0.8399270309784606  0.1699615385315202  0.600801798187565  1.0000
+  Al  Al3       1.0  0.8333325550513961  0.6666665426080852  0.5958614315762636  1.0000

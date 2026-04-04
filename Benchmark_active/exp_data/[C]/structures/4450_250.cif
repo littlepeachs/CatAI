@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ir3GaIr3GaIr3Ga
+_chemical_formula_sum              "Ir9 Ga3"
+_cell_length_a       5.498150825500488
+_cell_length_b       5.498149829748802
+_cell_length_c       24.489219665527344
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999738425866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.0  0.0  0.40834290283256136  1.0000
+  Ir  Ir2       1.0  0.999999978318294  0.5  0.40834290283256136  1.0000
+  Ir  Ir3       1.0  0.4999998915914702  0.5  0.40834290283256136  1.0000
+  Ga  Ga1       1.0  0.4999999566365881  0.0  0.40834290283256136  1.0000
+  Ir  Ir4       1.0  0.6666665924577803  0.33333335836921474  0.5  1.0000
+  Ir  Ir5       1.0  0.6666665399305998  0.8333333834050961  0.5  1.0000
+  Ir  Ir6       1.0  0.16666662665742366  0.8333333834050961  0.5  1.0000
+  Ga  Ga2       1.0  0.16666663582119218  0.33333335836921474  0.5  1.0000
+  Ir  Ir7       1.0  0.3327786630870648  0.6655612824299786  0.5876007562344794  1.0000
+  Ir  Ir8       1.0  0.3327763910651086  0.1672130372249508  0.5876009120049498  1.0000
+  Ir  Ir9       1.0  0.8344399323290398  0.16721605404866255  0.5876008730623322  1.0000
+  Ga  Ga3       1.0  0.8333253854705855  0.666655801094128  0.5953161455157887  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg3CrHg3CrHg3Cr
+_chemical_formula_sum              "Hg9 Cr3"
+_cell_length_a       6.096860408782959
+_cell_length_b       6.096861038730546
+_cell_length_c       24.978065490722656
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000175644384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.0  0.0  0.40035122215689123  1.0000
+  Hg  Hg2       1.0  0.0  0.5  0.40035122215689123  1.0000
+  Hg  Hg3       1.0  0.5000000782102797  0.5  0.40035122215689123  1.0000
+  Cr  Cr1       1.0  0.5000000391051399  0.0  0.40035122215689123  1.0000
+  Hg  Hg4       1.0  0.6666667318418997  0.33333333333333337  0.5  1.0000
+  Hg  Hg5       1.0  0.6666667935244043  0.8333333784880556  0.5  1.0000
+  Hg  Hg6       1.0  0.16666671531412455  0.8333333784880556  0.5  1.0000
+  Cr  Cr2       1.0  0.16666669273675996  0.33333333333333337  0.5  1.0000
+  Hg  Hg7       1.0  0.333010549271325  0.6660239795055359  0.611423215253862  1.0000
+  Hg  Hg8       1.0  0.3330069059783253  0.16698656529612152  0.6114224134639615  1.0000
+  Hg  Hg9       1.0  0.8339818115454949  0.16699101303625863  0.6114240170437625  1.0000
+  Cr  Cr3       1.0  0.8333350597583346  0.6666674342969442  0.5867262536557802  1.0000

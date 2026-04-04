@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb2Ag2Nb2Ag2Nb2Ag2
+_chemical_formula_sum              "Nb6 Ag6"
+_cell_length_a       5.585995674133301
+_cell_length_b       6.0607461161443235
+_cell_length_c       24.773889541625977
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.44093669004847
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.0  0.4036507480798817  1.0000
+  Nb  Nb2       1.0  0.5  0.0  0.4036507480798817  1.0000
+  Ag  Ag1       1.0  0.5000000213407415  0.5  0.4036507480798817  1.0000
+  Ag  Ag2       1.0  0.9999999786592585  0.5  0.4036507480798817  1.0000
+  Nb  Nb3       1.0  0.6348142120062699  0.2696284240125395  0.5  1.0000
+  Nb  Nb4       1.0  0.13481421200626975  0.2696284240125395  0.5  1.0000
+  Ag  Ag3       1.0  0.13481417958418704  0.769628401849857  0.5  1.0000
+  Ag  Ag4       1.0  0.63481422226567  0.769628401849857  0.5  1.0000
+  Nb  Nb5       1.0  0.267912123723086  0.535824247446172  0.5902808012501374  1.0000
+  Nb  Nb6       1.0  0.7679121220792042  0.5358241587954423  0.5902808782404149  1.0000
+  Ag  Ag5       1.0  0.7722921293682186  0.044584344099403  0.5997595362660008  1.0000
+  Ag  Ag6       1.0  0.2722921870278314  0.04458428869269695  0.5997595362660008  1.0000

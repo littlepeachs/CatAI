@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ru2Ag2Ru2Ag2Ru2Ag2
+_chemical_formula_sum              "Ru6 Ag6"
+_cell_length_a       5.333385467529297
+_cell_length_b       5.895810043357103
+_cell_length_c       24.59663963317871
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.89154010432763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.0  0.0  0.40655956242236285  1.0000
+  Ru  Ru2       1.0  0.5  0.0  0.40655956242236285  1.0000
+  Ag  Ag1       1.0  0.49999997732914886  0.49999995465829766  0.40655956242236285  1.0000
+  Ag  Ag2       1.0  0.9999999773291488  0.49999995465829766  0.40655956242236285  1.0000
+  Ru  Ru3       1.0  0.6285971952892511  0.2571943905785021  0.5  1.0000
+  Ru  Ru4       1.0  0.12859719528925104  0.2571943905785021  0.5  1.0000
+  Ag  Ag3       1.0  0.1285971612829743  0.7571943225659485  0.5  1.0000
+  Ag  Ag4       1.0  0.6285971612829743  0.7571943225659485  0.5  1.0000
+  Ru  Ru5       1.0  0.21449029113107612  0.42900754449653294  0.5859135621942252  1.0000
+  Ru  Ru6       1.0  0.7144895930799693  0.42900636561227257  0.585912399017876  1.0000
+  Ag  Ag5       1.0  0.7219853259308054  0.9440900536990848  0.6058650996148103  1.0000
+  Ag  Ag6       1.0  0.22202576047511266  0.9440901443824895  0.6058650220697204  1.0000

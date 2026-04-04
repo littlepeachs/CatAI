@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co2Sn2Co2Sn2Co2Sn2
+_chemical_formula_sum              "Co6 Sn6"
+_cell_length_a       5.492412567138672
+_cell_length_b       5.492412948574684
+_cell_length_c       24.477764129638672
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.76680893240407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0  0.40853400634812387  1.0000
+  Co  Co2       1.0  0.5000000217043582  0.5  0.40853400634812387  1.0000
+  Sn  Sn1       1.0  0.5000000434087163  0.0  0.40853400634812387  1.0000
+  Sn  Sn2       1.0  2.170435816566572e-08  0.5  0.40853400634812387  1.0000
+  Co  Co3       1.0  0.7522113922102924  0.7522112941233587  0.5  1.0000
+  Co  Co4       1.0  0.25221132709721794  0.25221129412335874  0.5  1.0000
+  Sn  Sn3       1.0  0.25221134880157614  0.7522112941233587  0.5  1.0000
+  Sn  Sn4       1.0  0.7522113270972179  0.25221129412335874  0.5  1.0000
+  Co  Co5       1.0  0.5046156958886362  0.5046154983498738  0.5844105356975604  1.0000
+  Co  Co6       1.0  0.0046086442601083995  0.004608707015436119  0.5844163019022709  1.0000
+  Sn  Sn5       1.0  0.003531231439436381  0.503550538952945  0.6006495707528123  1.0000
+  Sn  Sn6       1.0  0.5035509823141402  0.003531662362011348  0.6006496486744975  1.0000

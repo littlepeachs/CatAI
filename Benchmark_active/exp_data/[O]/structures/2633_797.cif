@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Re3CrRe3CrRe3Cr
+_chemical_formula_sum              "Re9 Cr3"
+_cell_length_a       5.4558916091918945
+_cell_length_b       5.4558916464053615
+_cell_length_c       24.454715728759766
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999977437025
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.0  0.0  0.40891904683092545  1.0000
+  Re  Re2       1.0  0.0  0.5  0.40891904683092545  1.0000
+  Re  Re3       1.0  0.5  0.5  0.40891904683092545  1.0000
+  Cr  Cr1       1.0  0.5  0.0  0.40891904683092545  1.0000
+  Re  Re4       1.0  0.6666666666666666  0.3333333333333333  0.5  1.0000
+  Re  Re5       1.0  0.6666666666666666  0.8333333333333333  0.5  1.0000
+  Re  Re6       1.0  0.16666666666666666  0.8333333333333333  0.5  1.0000
+  Cr  Cr2       1.0  0.16666666666666666  0.3333333333333333  0.5  1.0000
+  Re  Re7       1.0  0.3323020171353424  0.6646037776673722  0.5870192789912173  1.0000
+  Re  Re8       1.0  0.3323027659624471  0.16769817424080266  0.5870193179887803  1.0000
+  Re  Re9       1.0  0.8353959279310987  0.1676978588683589  0.5870193959839062  1.0000
+  Cr  Cr3       1.0  0.8333336342794632  0.6666669189646216  0.5865093468578962  1.0000

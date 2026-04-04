@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co2Hg2Co2Hg2Co2Hg2
+_chemical_formula_sum              "Co6 Hg6"
+_cell_length_a       5.528090476989746
+_cell_length_b       5.528090969239634
+_cell_length_c       24.499099731445312
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    71.02283775731914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0  0.40817822515700003  1.0000
+  Co  Co2       1.0  0.5000000646928393  0.5  0.40817822515700003  1.0000
+  Hg  Hg1       1.0  0.5000000431285595  0.0  0.40817822515700003  1.0000
+  Hg  Hg2       1.0  4.312855950783758e-08  0.5  0.40817822515700003  1.0000
+  Co  Co3       1.0  0.7546081488387302  0.7546079889199566  0.5  1.0000
+  Co  Co4       1.0  0.2546080551660473  0.25460801172365494  0.5  1.0000
+  Hg  Hg3       1.0  0.2546081057101706  0.7546079889199566  0.5  1.0000
+  Hg  Hg4       1.0  0.7546080767303271  0.25460801172365494  0.5  1.0000
+  Co  Co5       1.0  0.5103009279377144  0.5103007497673566  0.5864382995977138  1.0000
+  Co  Co6       1.0  0.010319153344489298  0.010319418157481245  0.5864314873879918  1.0000
+  Hg  Hg5       1.0  0.009953937420475118  0.5099847361165156  0.6038246937386217  1.0000
+  Hg  Hg6       1.0  0.5099853206602186  0.009954243296214384  0.6038246937386217  1.0000

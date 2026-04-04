@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf3PdHf3PdHf3Pd
+_chemical_formula_sum              "Hf9 Pd3"
+_cell_length_a       6.118686676025391
+_cell_length_b       6.118687479079846
+_cell_length_c       24.995885848999023
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000081430291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.0  0.0  0.40006579909733986  1.0000
+  Hf  Hf2       1.0  1.6468819077791422e-08  0.49999995500635314  0.40006579909733986  1.0000
+  Hf  Hf3       1.0  0.5000000164688191  0.49999995500635314  0.40006579909733986  1.0000
+  Pd  Pd1       1.0  0.500000038965646  0.0  0.40006579909733986  1.0000
+  Hf  Hf4       1.0  0.6666667128620541  0.3333332958386276  0.5  1.0000
+  Hf  Hf5       1.0  0.6666667016136408  0.8333332733418042  0.5  1.0000
+  Hf  Hf6       1.0  0.1666667016136408  0.8333332733418042  0.5  1.0000
+  Pd  Pd2       1.0  0.16666667389640824  0.3333332958386276  0.5  1.0000
+  Hf  Hf7       1.0  0.3308298276403126  0.6616602385743133  0.5994237103991188  1.0000
+  Hf  Hf8       1.0  0.3308296042612056  0.1691700831842544  0.5994237485523702  1.0000
+  Hf  Hf9       1.0  0.8383397281838164  0.16916997070013715  0.5994235959393647  1.0000
+  Pd  Pd3       1.0  0.8333332023710436  0.6666664566963145  0.5932108730967155  1.0000

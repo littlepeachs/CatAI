@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co2In2Co2In2Co2In2
+_chemical_formula_sum              "Co6 In6"
+_cell_length_a       5.438572406768799
+_cell_length_b       5.438572850638344
+_cell_length_c       24.440244674682617
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.54079931355594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0  0.4091611675510177  1.0000
+  Co  Co2       1.0  0.5000001031657847  0.4999999535057545  0.4091611675510177  1.0000
+  In  In1       1.0  0.5  0.0  0.4091611675510177  1.0000
+  In  In2       1.0  4.8367723428156905e-08  0.4999999535057545  0.4091611675510177  1.0000
+  Co  Co3       1.0  0.7501113733965826  0.750111190988225  0.5  1.0000
+  Co  Co4       1.0  0.2501112560560168  0.25011121423534777  0.5  1.0000
+  In  In3       1.0  0.2501112857196847  0.750111190988225  0.5  1.0000
+  In  In4       1.0  0.7501112779752414  0.25011121423534777  0.5  1.0000
+  Co  Co5       1.0  0.5002123376325475  0.5002117812884653  0.5863121635102729  1.0000
+  Co  Co6       1.0  0.00022120131200935314  0.00022164948776214502  0.5863040472143662  1.0000
+  In  In5       1.0  0.000195759612131059  0.5001972285896091  0.6007457861401292  1.0000
+  In  In6       1.0  0.500197217984675  0.00019571303157975173  0.6007457861401292  1.0000

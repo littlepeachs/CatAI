@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co2Pb2Co2Pb2Co2Pb2
+_chemical_formula_sum              "Co6 Pb6"
+_cell_length_a       5.780104637145996
+_cell_length_b       5.780104374579136
+_cell_length_c       24.722585678100586
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.41913057388075
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0  0.4044883968258928  1.0000
+  Co  Co2       1.0  0.49999999404821477  0.4999999562200343  0.4044883968258928  1.0000
+  Pb  Pb1       1.0  0.4999999587518576  0.0  0.4044883968258928  1.0000
+  Pb  Pb2       1.0  4.5608392759658e-08  0.4999999562200343  0.4044883968258928  1.0000
+  Co  Co3       1.0  0.7489867717571405  0.7489866908028537  0.5  1.0000
+  Co  Co4       1.0  0.24898677770892577  0.24898673458281942  0.5  1.0000
+  Pb  Pb3       1.0  0.24898681300528291  0.7489866908028537  0.5  1.0000
+  Pb  Pb4       1.0  0.7489867364607833  0.24898673458281942  0.5  1.0000
+  Co  Co5       1.0  0.49800821536405293  0.49801466611340467  0.5850826527734864  1.0000
+  Co  Co6       1.0  0.9980264457808626  0.99802026994902  0.5850863174006915  1.0000
+  Pb  Pb5       1.0  0.9983363987197332  0.49835124649005075  0.6070455736896739  1.0000
+  Pb  Pb6       1.0  0.4983539235491832  0.9983361861818345  0.6070459208648828  1.0000

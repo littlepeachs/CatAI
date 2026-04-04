@@ -1,0 +1,8 @@
+input0372_ety_Zr_base 7.6369
+input1870_ety_Zr_base 7.6366
+input1675_ety_Zr_base 7.6363
+input11355_ety_Zr_base 7.6357
+input0373_ety_Zr_base 7.6343
+input15347_ety_Zr_base 7.6335
+input15241_ety_Zr_base 7.6303
+input15205_ety_Zr_base 7.6300

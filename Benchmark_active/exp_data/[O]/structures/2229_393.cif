@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn2Tc2Zn2Tc2Zn2Tc2
+_chemical_formula_sum              "Zn6 Tc6"
+_cell_length_a       5.253997802734375
+_cell_length_b       5.596339832319477
+_cell_length_c       24.450027465820312
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.99624890674373
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.0  0.0  0.408997456559306  1.0000
+  Zn  Zn2       1.0  0.49999995462149244  0.0  0.408997456559306  1.0000
+  Tc  Tc1       1.0  0.4999999773107462  0.5  0.408997456559306  1.0000
+  Tc  Tc2       1.0  2.268925378856084e-08  0.5  0.408997456559306  1.0000
+  Zn  Zn3       1.0  0.6413127328659427  0.2826255564889006  0.5  1.0000
+  Zn  Zn4       1.0  0.1413127782444503  0.2826255564889006  0.5  1.0000
+  Tc  Tc3       1.0  0.141312812995889  0.7826255806132704  0.5  1.0000
+  Tc  Tc4       1.0  0.6413127676173814  0.7826255806132704  0.5  1.0000
+  Zn  Zn5       1.0  0.2611555622401595  0.5222966593055173  0.5995597032995768  1.0000
+  Zn  Zn6       1.0  0.761164196616737  0.5222969005492154  0.5995594692693326  1.0000
+  Tc  Tc5       1.0  0.7571631019967352  0.014351706714728844  0.5852061993675567  1.0000
+  Tc  Tc6       1.0  0.25715691098035975  0.014338916275409595  0.5852061603625159  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr3FeZr3FeZr3Fe
+_chemical_formula_sum              "Zr9 Fe3"
+_cell_length_a       6.100783348083496
+_cell_length_b       6.100783412967871
+_cell_length_c       24.98126792907715
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999964818323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.0  0.0  0.40029989969748914  1.0000
+  Zr  Zr2       1.0  3.02284777938298e-09  0.50000004512569  0.40029989969748914  1.0000
+  Zr  Zr3       1.0  0.5000000421028421  0.50000004512569  0.40029989969748914  1.0000
+  Fe  Fe1       1.0  0.5000000390799944  0.0  0.40029989969748914  1.0000
+  Zr  Zr4       1.0  0.6666667095071352  0.3333333408542817  0.5  1.0000
+  Zr  Zr5       1.0  0.6666667238114055  0.8333334085428166  0.5  1.0000
+  Zr  Zr6       1.0  0.16666668473141108  0.8333334085428166  0.5  1.0000
+  Fe  Fe2       1.0  0.16666667042714084  0.3333333408542817  0.5  1.0000
+  Zr  Zr7       1.0  0.327660494543461  0.6553220381324716  0.5991797290129576  1.0000
+  Zr  Zr8       1.0  0.3276598218734244  0.17233847326975246  0.5991796908373805  1.0000
+  Zr  Zr9       1.0  0.8446772241665637  0.17233831532983768  0.5991797290129576  1.0000
+  Fe  Fe3       1.0  0.833330589923408  0.6666658694461445  0.5880802181871656  1.0000

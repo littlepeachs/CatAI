@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al3MoAl3MoAl3Mo
+_chemical_formula_sum              "Al9 Mo3"
+_cell_length_a       5.549696445465088
+_cell_length_b       5.54969708635056
+_cell_length_c       24.531307220458984
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.000001864421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.40764232237839065  1.0000
+  Al  Al2       1.0  2.1480326126340234e-08  0.5  0.40764232237839065  1.0000
+  Al  Al3       1.0  0.5000000644409784  0.5  0.40764232237839065  1.0000
+  Mo  Mo1       1.0  0.5000000429606523  0.0  0.40764232237839065  1.0000
+  Al  Al4       1.0  0.6666667341338628  0.33333332506555274  0.5  1.0000
+  Al  Al5       1.0  0.6666667680158619  0.8333333498688945  0.5  1.0000
+  Al  Al6       1.0  0.16666672505520966  0.8333333498688945  0.5  1.0000
+  Mo  Mo2       1.0  0.1666666911732105  0.33333332506555274  0.5  1.0000
+  Al  Al7       1.0  0.3327825880103399  0.6655651337242406  0.5995438313038867  1.0000
+  Al  Al8       1.0  0.3327826281526401  0.16721740833453796  0.5995438313038867  1.0000
+  Al  Al9       1.0  0.8344351010080896  0.16721751994957582  0.5995437924280816  1.0000
+  Mo  Mo3       1.0  0.8333334749137654  0.6666667493444725  0.5835462820346352  1.0000

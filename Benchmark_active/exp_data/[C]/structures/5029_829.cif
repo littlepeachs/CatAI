@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu3TiCu3TiCu3Ti
+_chemical_formula_sum              "Cu9 Ti3"
+_cell_length_a       5.375252723693848
+_cell_length_b       5.375253118291409
+_cell_length_c       24.388874053955078
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000034406027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.0  0.41002298934353676  1.0000
+  Cu  Cu2       1.0  4.435485945630523e-08  0.5  0.41002298934353676  1.0000
+  Cu  Cu3       1.0  0.5000000443548595  0.5  0.41002298934353676  1.0000
+  Ti  Ti1       1.0  0.5  0.0  0.41002298934353676  1.0000
+  Cu  Cu4       1.0  0.666666700504622  0.3333333418694297  0.49999999999999994  1.0000
+  Cu  Cu5       1.0  0.6666667320553347  0.8333333162611406  0.49999999999999994  1.0000
+  Cu  Cu6       1.0  0.16666673205533455  0.8333333162611406  0.49999999999999994  1.0000
+  Ti  Ti2       1.0  0.16666670050462193  0.3333333418694297  0.49999999999999994  1.0000
+  Cu  Cu7       1.0  0.337655097603165  0.6753126055061509  0.5863088511475198  1.0000
+  Cu  Cu8       1.0  0.3376564257947362  0.16234607881780666  0.58630947679301  1.0000
+  Cu  Cu9       1.0  0.8246866334061522  0.16234410697954943  0.5863092812787943  1.0000
+  Ti  Ti3       1.0  0.8333325088889444  0.66666693982175  0.5902697736430257  1.0000

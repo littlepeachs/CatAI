@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu2Hg2Cu2Hg2Cu2Hg2
+_chemical_formula_sum              "Cu6 Hg6"
+_cell_length_a       5.690678596496582
+_cell_length_b       5.690678164052764
+_cell_length_c       24.687891006469727
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    68.71008164434284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.0  0.40505683712331186  1.0000
+  Cu  Cu2       1.0  0.49999996272562575  0.5000000449649669  0.40505683712331186  1.0000
+  Hg  Hg1       1.0  0.5  0.0  0.40505683712331186  1.0000
+  Hg  Hg2       1.0  0.9999999836737934  0.5000000449649669  0.40505683712331186  1.0000
+  Cu  Cu3       1.0  0.7336287154439785  0.7336288400981028  0.5  1.0000
+  Cu  Cu4       1.0  0.23362873993328825  0.23362877265065243  0.5  1.0000
+  Hg  Hg3       1.0  0.23362871544397837  0.7336288400981028  0.5  1.0000
+  Hg  Hg4       1.0  0.733628760881456  0.23362877265065243  0.5  1.0000
+  Cu  Cu5       1.0  0.4659565389504529  0.46595715845870167  0.5916299334843221  1.0000
+  Cu  Cu6       1.0  0.9659571881158072  0.9659606207611526  0.5916315559121463  1.0000
+  Hg  Hg5       1.0  0.9675940314495388  0.46759725562619653  0.6102919095318794  1.0000
+  Hg  Hg6       1.0  0.46759443065946615  0.9675956368873884  0.6102910983179674  1.0000

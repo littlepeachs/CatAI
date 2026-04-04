@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sn2Ta2Sn2Ta2Sn2Ta2
+_chemical_formula_sum              "Sn6 Ta6"
+_cell_length_a       5.952948570251465
+_cell_length_b       5.952948971899385
+_cell_length_c       24.924240112304688
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    67.19492256591606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.0  0.0  0.4012158044244185  1.0000
+  Sn  Sn2       1.0  0.5000000400505021  0.5  0.4012158044244185  1.0000
+  Ta  Ta1       1.0  0.5  0.0  0.4012158044244185  1.0000
+  Ta  Ta2       1.0  4.005050208110419e-08  0.5  0.4012158044244185  1.0000
+  Sn  Sn3       1.0  0.7206702935367055  0.7206700954291286  0.5  1.0000
+  Sn  Sn4       1.0  0.22067017657059293  0.2206701388759152  0.5  1.0000
+  Ta  Ta3       1.0  0.22067021343570134  0.7206700954291286  0.5  1.0000
+  Ta  Ta4       1.0  0.720670236646346  0.2206701388759152  0.5  1.0000
+  Sn  Sn5       1.0  0.3963835217585272  0.3963835416273654  0.6117805039686305  1.0000
+  Sn  Sn6       1.0  0.8963842112214853  0.8963877559656565  0.611780963123724  1.0000
+  Ta  Ta5       1.0  0.8883428143392383  0.3883478846758926  0.5902461300878211  1.0000
+  Ta  Ta6       1.0  0.38834607348285616  0.8883445392733316  0.5902460918248966  1.0000

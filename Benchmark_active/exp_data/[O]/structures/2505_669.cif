@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag3OsAg3OsAg3Os
+_chemical_formula_sum              "Ag9 Os3"
+_cell_length_a       5.787578582763672
+_cell_length_b       5.787579461793837
+_cell_length_c       24.725536346435547
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000042663926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.0  0.0  0.404440126443093  1.0000
+  Ag  Ag2       1.0  1.7411002612591132e-08  0.4999999524322621  0.404440126443093  1.0000
+  Ag  Ag3       1.0  0.5000000174110026  0.4999999524322621  0.404440126443093  1.0000
+  Os  Os1       1.0  0.5  0.0  0.404440126443093  1.0000
+  Ag  Ag4       1.0  0.6666666782740017  0.33333330162150804  0.5  1.0000
+  Ag  Ag5       1.0  0.6666666719011315  0.8333332064860323  0.5  1.0000
+  Ag  Ag6       1.0  0.1666666719011315  0.8333332064860323  0.5  1.0000
+  Os  Os2       1.0  0.16666667827400172  0.33333330162150804  0.5  1.0000
+  Ag  Ag7       1.0  0.33266116393098144  0.6653225292413155  0.5984669646668728  1.0000
+  Ag  Ag8       1.0  0.3326611566427007  0.16733856889225965  0.5984668875260332  1.0000
+  Ag  Ag9       1.0  0.8346777666229958  0.16733860456806304  0.5984669260964529  1.0000
+  Os  Os3       1.0  0.8333330061627808  0.6666659848624236  0.5890199888886335  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg3TiHg3TiHg3Ti
+_chemical_formula_sum              "Hg9 Ti3"
+_cell_length_a       6.244624614715576
+_cell_length_b       6.244624595944073
+_cell_length_c       25.098712921142578
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9999950475269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.0  0.0  0.3984267670515453  1.0000
+  Hg  Hg2       1.0  0.9999999588669762  0.4999999559137553  0.3984267670515453  1.0000
+  Hg  Hg3       1.0  0.49999992068716653  0.4999999559137553  0.3984267670515453  1.0000
+  Ti  Ti1       1.0  0.49999996182019035  0.0  0.3984267670515453  1.0000
+  Hg  Hg4       1.0  0.6666665846643848  0.33333329659479605  0.5  1.0000
+  Hg  Hg5       1.0  0.6666665545529205  0.8333332745516737  0.5  1.0000
+  Hg  Hg6       1.0  0.16666659273273007  0.8333332745516737  0.5  1.0000
+  Ti  Ti2       1.0  0.1666666228441944  0.33333329659479605  0.5  1.0000
+  Hg  Hg7       1.0  0.33383531810157396  0.6676749337780518  0.6130824684089633  1.0000
+  Hg  Hg8       1.0  0.33383422088375475  0.1661760565665315  0.6130808345404962  1.0000
+  Hg  Hg9       1.0  0.8323427337416016  0.16617744528323913  0.6130809865282606  1.0000
+  Ti  Ti3       1.0  0.8333293940489962  0.6666589662692615  0.5895190073618314  1.0000

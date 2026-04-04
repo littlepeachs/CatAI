@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2V2Al2V2Al2V2
+_chemical_formula_sum              "Al6 V6"
+_cell_length_a       5.324769496917725
+_cell_length_b       5.50375102842675
+_cell_length_c       24.43751335144043
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.92995626382962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.4092068985298887  1.0000
+  Al  Al2       1.0  0.5000000447753803  0.0  0.4092068985298887  1.0000
+  V   V1        1.0  0.5  0.5  0.4092068985298887  1.0000
+  V   V2        1.0  0.0  0.5  0.4092068985298887  1.0000
+  Al  Al3       1.0  0.652745362944658  0.3054906363385555  0.5  1.0000
+  Al  Al4       1.0  0.15274531816927775  0.3054906363385555  0.5  1.0000
+  V   V3        1.0  0.15274529342138699  0.805490586842774  0.5  1.0000
+  V   V4        1.0  0.652745293421387  0.805490586842774  0.5  1.0000
+  Al  Al5       1.0  0.295016407931519  0.5900506945693526  0.5979626600854882  1.0000
+  Al  Al6       1.0  0.7950343919114918  0.5900506945693526  0.5979626600854882  1.0000
+  V   V5        1.0  0.7911149940414676  0.08222985375679416  0.5846672278463773  1.0000
+  V   V6        1.0  0.2911160645480864  0.0822321738715531  0.5846692181221241  1.0000

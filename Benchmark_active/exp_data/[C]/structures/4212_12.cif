@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga2Ta2Ga2Ta2Ga2Ta2
+_chemical_formula_sum              "Ga6 Ta6"
+_cell_length_a       5.696108818054199
+_cell_length_b       5.757156181706372
+_cell_length_c       24.68321418762207
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.64983860391764
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.0  0.0  0.4051335847233542  1.0000
+  Ga  Ga2       1.0  0.4999999581436053  0.0  0.4051335847233542  1.0000
+  Ta  Ta1       1.0  0.4999999162872106  0.5  0.4051335847233542  1.0000
+  Ta  Ta2       1.0  0.9999999581436053  0.5  0.4051335847233542  1.0000
+  Ga  Ga3       1.0  0.6620114739852115  0.32402311305784837  0.5  1.0000
+  Ga  Ga4       1.0  0.16201151584160622  0.32402311305784837  0.5  1.0000
+  Ta  Ta3       1.0  0.1620114739852115  0.8240231130578484  0.5  1.0000
+  Ta  Ta4       1.0  0.6620114321288169  0.8240231130578484  0.5  1.0000
+  Ga  Ga5       1.0  0.32415022822775796  0.6482901559835963  0.6057607641630206  1.0000
+  Ga  Ga6       1.0  0.8241411664051408  0.6482887740796758  0.6057603777974894  1.0000
+  Ta  Ta5       1.0  0.8230703012532237  0.14614089034640043  0.590114930609137  1.0000
+  Ta  Ta6       1.0  0.3230702423333105  0.14613888896830865  0.59011435106084  1.0000

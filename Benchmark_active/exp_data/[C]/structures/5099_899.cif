@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al3YAl3YAl3Y
+_chemical_formula_sum              "Al9 Y3"
+_cell_length_a       6.014038562774658
+_cell_length_b       6.014039173058791
+_cell_length_c       24.91044044494629
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000188878982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.40143806643749796  1.0000
+  Al  Al2       1.0  1.9821836575617572e-08  0.5  0.40143806643749796  1.0000
+  Al  Al3       1.0  0.5000000594655097  0.5  0.40143806643749796  1.0000
+  Y   Y1        1.0  0.5000000396436732  0.0  0.40143806643749796  1.0000
+  Al  Al4       1.0  0.6666667327394552  0.3333333333333333  0.5  1.0000
+  Al  Al5       1.0  0.6666667296730048  0.8333332875567664  0.5  1.0000
+  Al  Al6       1.0  0.16666669002933157  0.8333332875567664  0.5  1.0000
+  Y   Y2        1.0  0.1666666930957821  0.3333333333333333  0.5  1.0000
+  Al  Al7       1.0  0.3429882219324297  0.6859813566691285  0.5996539881143118  1.0000
+  Al  Al8       1.0  0.34298534864208885  0.1570020889678565  0.5996537584095858  1.0000
+  Al  Al9       1.0  0.8140163151012328  0.15700432057549568  0.5996538732619487  1.0000
+  Y   Y3        1.0  0.8333332684634943  0.6666657969118944  0.5998843053863079  1.0000

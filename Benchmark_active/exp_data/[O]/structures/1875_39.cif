@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb2Hg2Nb2Hg2Nb2Hg2
+_chemical_formula_sum              "Nb6 Hg6"
+_cell_length_a       5.893466472625732
+_cell_length_b       6.124024865954395
+_cell_length_c       24.92629051208496
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.76222564145476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.0  0.40118280100592607  1.0000
+  Nb  Nb2       1.0  0.5  0.0  0.40118280100592607  1.0000
+  Hg  Hg1       1.0  0.4999999373398176  0.49999995558908283  0.40118280100592607  1.0000
+  Hg  Hg2       1.0  0.9999999373398177  0.49999995558908283  0.40118280100592607  1.0000
+  Nb  Nb3       1.0  0.6506436718974494  0.3012873925488962  0.5  1.0000
+  Nb  Nb4       1.0  0.15064367189744948  0.3012873925488962  0.5  1.0000
+  Hg  Hg3       1.0  0.15064360923726713  0.801287348137979  0.5  1.0000
+  Hg  Hg4       1.0  0.6506436092372672  0.801287348137979  0.5  1.0000
+  Nb  Nb5       1.0  0.275593571856095  0.5511855361103835  0.591623672242264  1.0000
+  Nb  Nb6       1.0  0.7755841749976405  0.5511698146457079  0.5916257765299989  1.0000
+  Hg  Hg5       1.0  0.7811950134791357  0.062407392134986445  0.6126185335716152  1.0000
+  Hg  Hg6       1.0  0.28121346271757336  0.06240828590469435  0.6126186483509461  1.0000

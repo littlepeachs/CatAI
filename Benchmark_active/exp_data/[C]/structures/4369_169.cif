@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tc3FeTc3FeTc3Fe
+_chemical_formula_sum              "Tc9 Fe3"
+_cell_length_a       5.378018856048584
+_cell_length_b       5.3780183187171495
+_cell_length_c       24.391132354736328
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999450612563
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tc  Tc1       1.0  0.0  0.0  0.40998502656166597  1.0000
+  Tc  Tc2       1.0  0.999999930072841  0.4999999488097604  0.40998502656166597  1.0000
+  Tc  Tc3       1.0  0.49999988574079507  0.4999999488097604  0.40998502656166597  1.0000
+  Fe  Fe1       1.0  0.499999955667954  0.0  0.40998502656166597  1.0000
+  Tc  Tc4       1.0  0.6666665780025748  0.3333333333333333  0.5  1.0000
+  Tc  Tc5       1.0  0.6666665080754157  0.8333332821430937  0.5  1.0000
+  Tc  Tc6       1.0  0.16666655240746173  0.8333332821430937  0.5  1.0000
+  Fe  Fe2       1.0  0.1666666223346207  0.3333333333333333  0.5  1.0000
+  Tc  Tc7       1.0  0.333747611565995  0.6674923140414725  0.5863092273070848  1.0000
+  Tc  Tc8       1.0  0.3337473425883734  0.16625391976462317  0.5863086799179666  1.0000
+  Tc  Tc9       1.0  0.8325077248658125  0.16625293435251054  0.586308914513303  1.0000
+  Fe  Fe3       1.0  0.8333350997569916  0.6666665642861874  0.5874614814007343  1.0000

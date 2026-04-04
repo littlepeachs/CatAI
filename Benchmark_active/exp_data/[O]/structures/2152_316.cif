@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd3PbCd3PbCd3Pb
+_chemical_formula_sum              "Cd9 Pb3"
+_cell_length_a       6.6999993324279785
+_cell_length_b       6.6999993041544705
+_cell_length_c       25.47052574157715
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000013959405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  0.0  0.39261062562215016  1.0000
+  Cd  Cd2       1.0  0.0  0.5  0.39261062562215016  1.0000
+  Cd  Cd3       1.0  0.5  0.5  0.39261062562215016  1.0000
+  Pb  Pb1       1.0  0.5  0.0  0.39261062562215016  1.0000
+  Cd  Cd4       1.0  0.6666666632425113  0.3333333264850226  0.5  1.0000
+  Cd  Cd5       1.0  0.6666666735149774  0.8333333470299548  0.5  1.0000
+  Cd  Cd6       1.0  0.1666666735149774  0.8333333470299548  0.5  1.0000
+  Pb  Pb2       1.0  0.1666666632425113  0.3333333264850226  0.5  1.0000
+  Cd  Cd7       1.0  0.33831026009559795  0.6766212067583622  0.6099686975129571  1.0000
+  Cd  Cd8       1.0  0.338290167374122  0.16169023896303647  0.6099703075305917  1.0000
+  Cd  Cd9       1.0  0.8233937614505432  0.16168103483343937  0.6099696335697213  1.0000
+  Pb  Pb3       1.0  0.8333522275048408  0.6666924984946728  0.6088784909207361  1.0000

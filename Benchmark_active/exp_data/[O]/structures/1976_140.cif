@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Re3InRe3InRe3In
+_chemical_formula_sum              "Re9 In3"
+_cell_length_a       5.682786464691162
+_cell_length_b       5.682786960857112
+_cell_length_c       24.63997459411621
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000266317484
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.0  0.0  0.4058445355992204  1.0000
+  Re  Re2       1.0  2.4222456053596774e-08  0.500000048444904  0.4058445355992204  1.0000
+  Re  Re3       1.0  0.5000001081314962  0.500000048444904  0.4058445355992204  1.0000
+  In  In1       1.0  0.5000000419545201  0.0  0.4058445355992204  1.0000
+  Re  Re4       1.0  0.6666667446650189  0.3333333494816347  0.5  1.0000
+  Re  Re5       1.0  0.666666786619539  0.8333333494816346  0.5  1.0000
+  Re  Re6       1.0  0.16666670271049874  0.8333333494816346  0.5  1.0000
+  In  In2       1.0  0.16666670271049877  0.3333333494816347  0.5  1.0000
+  Re  Re7       1.0  0.35043466791187744  0.7008559148757151  0.5882638488245061  1.0000
+  Re  Re8       1.0  0.35043792372341576  0.14954346006875494  0.5882613330414509  1.0000
+  Re  Re9       1.0  0.7991115394319402  0.14953985092340347  0.588262339354673  1.0000
+  In  In3       1.0  0.833315427357073  0.6666215967576019  0.61205034538605  1.0000

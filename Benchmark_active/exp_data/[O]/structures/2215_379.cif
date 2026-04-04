@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pt3HgPt3HgPt3Hg
+_chemical_formula_sum              "Pt9 Hg3"
+_cell_length_a       5.78052282333374
+_cell_length_b       5.780523115103241
+_cell_length_c       24.719776153564453
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000037878294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.0  0.0  0.4045343689280835  1.0000
+  Pt  Pt2       1.0  4.124515833397607e-08  0.5  0.4045343689280835  1.0000
+  Pt  Pt3       1.0  0.5000000412451584  0.5  0.4045343689280835  1.0000
+  Hg  Hg1       1.0  0.5  0.0  0.4045343689280835  1.0000
+  Pt  Pt4       1.0  0.6666666901946211  0.33333332539569904  0.5  1.0000
+  Pt  Pt5       1.0  0.666666719533326  0.8333333015827961  0.5  1.0000
+  Pt  Pt6       1.0  0.16666671953332599  0.8333333015827961  0.5  1.0000
+  Hg  Hg2       1.0  0.1666666901946211  0.33333332539569904  0.5  1.0000
+  Pt  Pt7       1.0  0.33571453836091303  0.6714277549861838  0.5918423302826281  1.0000
+  Pt  Pt8       1.0  0.33571397345594295  0.16428590819078137  0.5918423302826281  1.0000
+  Pt  Pt9       1.0  0.8285716537516546  0.16428500330046836  0.5918422917032207  1.0000
+  Hg  Hg3       1.0  0.83333334335682  0.6666651743914137  0.6124776451623506  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cr2Au2Cr2Au2Cr2Au2
+_chemical_formula_sum              "Cr6 Au6"
+_cell_length_a       5.400785446166992
+_cell_length_b       5.61316491857802
+_cell_length_c       24.514957427978516
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.7560943788571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.0  0.0  0.4079141918032805  1.0000
+  Cr  Cr2       1.0  0.5  0.0  0.4079141918032805  1.0000
+  Au  Au1       1.0  0.49999997577502237  0.4999999515500449  0.4079141918032805  1.0000
+  Au  Au2       1.0  0.9999999757750224  0.4999999515500449  0.4079141918032805  1.0000
+  Cr  Cr3       1.0  0.6505672351170702  0.30113447023414025  0.5  1.0000
+  Cr  Cr4       1.0  0.15056723511707013  0.30113447023414025  0.5  1.0000
+  Au  Au3       1.0  0.15056722300458136  0.8011344460091627  0.5  1.0000
+  Au  Au4       1.0  0.6505672230045814  0.8011344460091627  0.5  1.0000
+  Cr  Cr5       1.0  0.20098768605618095  0.4020955768388672  0.5721044390144542  1.0000
+  Cr  Cr6       1.0  0.7010866113100372  0.40229003073374453  0.5721940686061618  1.0000
+  Au  Au5       1.0  0.7258376563718826  0.9516000452328781  0.612206678991773  1.0000
+  Au  Au6       1.0  0.22564731540761276  0.951596363036289  0.6122074570264232  1.0000

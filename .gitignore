@@ -1,0 +1,109 @@
+# ───────────────────────────────────────────────
+# Python
+# ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ───────────────────────────────────────────────
+# Jupyter
+# ───────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ───────────────────────────────────────────────
+# Model checkpoints & weights  (large binaries)
+# ───────────────────────────────────────────────
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+# Keep al_ckpt small files that are already committed
+!Benchmark_active/al_ckpt/*.pt
+
+# ───────────────────────────────────────────────
+# Datasets & LMDB
+# ───────────────────────────────────────────────
+*.lmdb
+*.mdb          # lock.mdb / data.mdb
+*.npz
+*.npy
+*.h5
+*.hdf5
+POE_lmdb/
+POE_infer/
+processed_c/
+processed_o/
+
+# ───────────────────────────────────────────────
+# Training outputs
+# ───────────────────────────────────────────────
+output_logs/
+checkpoints/
+results/
+results_ebd/
+module_selection_outputs/
+logs/
+wandb/
+tensorboard/
+runs/
+
+# ───────────────────────────────────────────────
+# Config auto-generated / scale files
+# ───────────────────────────────────────────────
+# keep configs/ tracked, but ignore generated scale files
+**/fm_scale_files/
+
+# ───────────────────────────────────────────────
+# Figures & plots
+# ───────────────────────────────────────────────
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+# Keep figures tracked in the figures/ gallery
+!figures/**
+
+# ───────────────────────────────────────────────
+# Data files (large tables)
+# ───────────────────────────────────────────────
+*.csv
+# Keep small reference CSVs that are already part of the repo
+!Literature_extraction/**/*.csv
+!plot_scripts/**/*.csv
+
+# ───────────────────────────────────────────────
+# Logs & temp
+# ───────────────────────────────────────────────
+*.log
+*.out
+*.err
+*.tmp
+*.bak
+*.swp
+*~
+
+# ───────────────────────────────────────────────
+# OS / editor
+# ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.code-workspace
+
+# ───────────────────────────────────────────────
+# Conda / pip env
+# ───────────────────────────────────────────────
+.env
+.venv/
+env/

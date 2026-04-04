@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mo3PbMo3PbMo3Pb
+_chemical_formula_sum              "Mo9 Pb3"
+_cell_length_a       5.837716579437256
+_cell_length_b       5.837716166819424
+_cell_length_c       24.7664737701416
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999693407428
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.0  0.0  0.4037716123472393  1.0000
+  Mo  Mo2       1.0  0.9999999591589321  0.5  0.4037716123472393  1.0000
+  Mo  Mo3       1.0  0.49999995915893214  0.5  0.4037716123472393  1.0000
+  Pb  Pb1       1.0  0.5  0.0  0.4037716123472393  1.0000
+  Mo  Mo4       1.0  0.6666666394392881  0.3333333333333333  0.5  1.0000
+  Mo  Mo5       1.0  0.6666665985982202  0.8333333333333333  0.5  1.0000
+  Mo  Mo6       1.0  0.16666659859822017  0.8333333333333333  0.5  1.0000
+  Pb  Pb2       1.0  0.16666663943928808  0.3333333333333333  0.5  1.0000
+  Mo  Mo7       1.0  0.3572919979788428  0.7145864081134959  0.5911112368995511  1.0000
+  Mo  Mo8       1.0  0.35729273986924875  0.14271106385129986  0.5911111598862205  1.0000
+  Mo  Mo9       1.0  0.785415663260219  0.1427110166920949  0.5911113524195472  1.0000
+  Pb  Pb3       1.0  0.8333272336147025  0.6666687888308893  0.6140637893716213  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn3OsZn3OsZn3Os
+_chemical_formula_sum              "Zn9 Os3"
+_cell_length_a       5.426792621612549
+_cell_length_b       5.426791677201693
+_cell_length_c       24.43095588684082
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999994353334
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.0  0.0  0.4093167329450239  1.0000
+  Zn  Zn2       1.0  0.9999999814314724  0.5000000507301695  0.4093167329450239  1.0000
+  Zn  Zn3       1.0  0.4999999814314724  0.5000000507301695  0.4093167329450239  1.0000
+  Os  Os1       1.0  0.5  0.0  0.4093167329450239  1.0000
+  Zn  Zn4       1.0  0.6666666500601348  0.33333335869841807  0.5  1.0000
+  Zn  Zn5       1.0  0.6666666441741473  0.8333334347936723  0.5  1.0000
+  Zn  Zn6       1.0  0.16666664417414742  0.8333334347936723  0.5  1.0000
+  Os  Os2       1.0  0.16666665006013487  0.33333335869841807  0.5  1.0000
+  Zn  Zn7       1.0  0.3332296761613555  0.6664582164002927  0.598545678197516  1.0000
+  Zn  Zn8       1.0  0.3332286220048686  0.16677073960934521  0.5985457562684945  1.0000
+  Zn  Zn9       1.0  0.8335414691290616  0.166769940609176  0.5985458343394731  1.0000
+  Os  Os3       1.0  0.8333332593409537  0.6666661086348025  0.5826998849311847  1.0000

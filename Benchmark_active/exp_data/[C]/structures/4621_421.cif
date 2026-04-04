@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn3HgZn3HgZn3Hg
+_chemical_formula_sum              "Zn9 Hg3"
+_cell_length_a       5.929335594177246
+_cell_length_b       5.9293357276041965
+_cell_length_c       24.84128189086914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999925561173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.0  0.0  0.40255567688724475  1.0000
+  Zn  Zn2       1.0  0.0  0.5  0.40255567688724475  1.0000
+  Zn  Zn3       1.0  0.5  0.5  0.40255567688724475  1.0000
+  Hg  Hg1       1.0  0.5  0.0  0.40255567688724475  1.0000
+  Zn  Zn4       1.0  0.6666666666666667  0.33333333333333337  0.49999999999999994  1.0000
+  Zn  Zn5       1.0  0.6666666666666667  0.8333333333333334  0.49999999999999994  1.0000
+  Zn  Zn6       1.0  0.16666666666666669  0.8333333333333334  0.49999999999999994  1.0000
+  Hg  Hg2       1.0  0.16666666666666669  0.33333333333333337  0.49999999999999994  1.0000
+  Zn  Zn7       1.0  0.3400536893483739  0.6800234232617951  0.5995775026170943  1.0000
+  Zn  Zn8       1.0  0.3399332392153861  0.16003064459843278  0.5996321709805277  1.0000
+  Zn  Zn9       1.0  0.8200008458954823  0.1599391765011122  0.5995761973331359  1.0000
+  Hg  Hg3       1.0  0.8333986091081388  0.6664646011034489  0.6231020979291593  1.0000

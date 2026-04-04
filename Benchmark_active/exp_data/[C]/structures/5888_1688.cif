@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sc3IrSc3IrSc3Ir
+_chemical_formula_sum              "Sc9 Ir3"
+_cell_length_a       6.058403491973877
+_cell_length_b       6.058403862365971
+_cell_length_c       24.946664810180664
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999797760731
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.0  0.0  0.40085514927208676  1.0000
+  Sc  Sc2       1.0  0.9999999803233163  0.5  0.40085514927208676  1.0000
+  Sc  Sc3       1.0  0.5000000196766837  0.5  0.40085514927208676  1.0000
+  Ir  Ir1       1.0  0.5000000393533676  0.0  0.40085514927208676  1.0000
+  Sc  Sc4       1.0  0.6666667022332549  0.3333333257597748  0.5  1.0000
+  Sc  Sc5       1.0  0.6666666711962335  0.8333333030390994  0.5  1.0000
+  Sc  Sc6       1.0  0.16666663184286595  0.8333333030390994  0.5  1.0000
+  Ir  Ir2       1.0  0.1666666628798874  0.3333333257597748  0.5  1.0000
+  Sc  Sc7       1.0  0.32951756546095023  0.6590380029653208  0.6000451326021541  1.0000
+  Sc  Sc8       1.0  0.32951813130393176  0.17047872644979267  0.6000459354012776  1.0000
+  Sc  Sc9       1.0  0.8409634795790215  0.17048154381355085  0.6000449032309759  1.0000
+  Ir  Ir3       1.0  0.8333358237229275  0.6666681056427797  0.5829897034513558  1.0000

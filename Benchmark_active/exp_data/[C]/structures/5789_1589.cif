@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn3NiZn3NiZn3Ni
+_chemical_formula_sum              "Zn9 Ni3"
+_cell_length_a       5.3307366371154785
+_cell_length_b       5.330735949330175
+_cell_length_c       24.35252571105957
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999835003312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.0  0.0  0.4106349856673896  1.0000
+  Zn  Zn2       1.0  0.9999999810968794  0.500000051644287  0.4106349856673896  1.0000
+  Zn  Zn3       1.0  0.49999998109687943  0.500000051644287  0.4106349856673896  1.0000
+  Ni  Ni1       1.0  0.49999995527474056  0.0  0.4106349856673896  1.0000
+  Zn  Zn4       1.0  0.6666666007319472  0.33333335054809565  0.5  1.0000
+  Zn  Zn5       1.0  0.6666666007319472  0.8333333505480957  0.5  1.0000
+  Zn  Zn6       1.0  0.16666660073194722  0.8333333505480957  0.5  1.0000
+  Ni  Ni2       1.0  0.16666664545720666  0.33333335054809565  0.5  1.0000
+  Zn  Zn7       1.0  0.3324016797886224  0.664803478511277  0.5956351936134022  1.0000
+  Zn  Zn8       1.0  0.33240148169502653  0.16759863516544196  0.5956353110970253  1.0000
+  Zn  Zn9       1.0  0.8351971359344316  0.16759857061008326  0.5956351544521946  1.0000
+  Ni  Ni3       1.0  0.8333333563967276  0.666667010961913  0.5819854763612377  1.0000

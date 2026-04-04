@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga3AlGa3AlGa3Al
+_chemical_formula_sum              "Ga9 Al3"
+_cell_length_a       5.936047554016113
+_cell_length_b       5.936047202808061
+_cell_length_c       24.84676170349121
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000195717261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.0  0.0  0.40246689551180376  1.0000
+  Ga  Ga2       1.0  4.3271272485658554e-08  0.5000000463780118  0.40246689551180376  1.0000
+  Ga  Ga3       1.0  0.5000000031067393  0.5000000463780118  0.40246689551180376  1.0000
+  Al  Al1       1.0  0.5  0.0  0.40246689551180376  1.0000
+  Ga  Ga4       1.0  0.6666666782611697  0.33333335652233925  0.5  1.0000
+  Ga  Ga5       1.0  0.6666666697734059  0.8333333797113451  0.5  1.0000
+  Ga  Ga6       1.0  0.1666667099379392  0.8333333797113451  0.5  1.0000
+  Al  Al2       1.0  0.16666667826116963  0.33333335652233925  0.5  1.0000
+  Ga  Ga7       1.0  0.33148015876022596  0.6629605533675955  0.5981613065743631  1.0000
+  Ga  Ga8       1.0  0.33148220896565045  0.16851696382450151  0.598162112601357  1.0000
+  Ga  Ga9       1.0  0.837037951655357  0.16851656961140143  0.5981617671612167  1.0000
+  Al  Al3       1.0  0.8333337746970437  0.6666654608383605  0.591349841124403  1.0000

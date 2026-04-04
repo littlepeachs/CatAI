@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2Ru2Ni2Ru2Ni2Ru2
+_chemical_formula_sum              "Ni6 Ru6"
+_cell_length_a       5.2359938621521
+_cell_length_b       5.235993584585076
+_cell_length_c       24.275239944458008
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    60.00324571270176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4119423358617992  1.0000
+  Ni  Ni2       1.0  0.5000000035186698  0.4999999474229573  0.4119423358617992  1.0000
+  Ru  Ru1       1.0  0.49999995446545864  0.0  0.4119423358617992  1.0000
+  Ru  Ru2       1.0  2.628594055066849e-08  0.4999999474229573  0.4119423358617992  1.0000
+  Ni  Ni3       1.0  0.6666884261372371  0.6666884160366711  0.5  1.0000
+  Ni  Ni4       1.0  0.16668845852880831  0.16668844232519237  0.5  1.0000
+  Ru  Ru3       1.0  0.16668847167177858  0.6666884160366711  0.5  1.0000
+  Ru  Ru4       1.0  0.6666883902269963  0.16668844232519237  0.5  1.0000
+  Ni  Ni5       1.0  0.3317107298566091  0.33171058672404435  0.5847539961014259  1.0000
+  Ni  Ni6       1.0  0.8317343751780455  0.8317343778358742  0.584760910417415  1.0000
+  Ru  Ru5       1.0  0.8306123154914581  0.3306077832530342  0.5853748309626527  1.0000
+  Ru  Ru6       1.0  0.33060785258094527  0.8306123837442719  0.5853748702485391  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni3CdNi3CdNi3Cd
+_chemical_formula_sum              "Ni9 Cd3"
+_cell_length_a       5.316109657287598
+_cell_length_b       5.3161093438902585
+_cell_length_c       24.34058380126953
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000019501293
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4108364502664112  1.0000
+  Ni  Ni2       1.0  0.0  0.5  0.4108364502664112  1.0000
+  Ni  Ni3       1.0  0.49999999999999994  0.5  0.4108364502664112  1.0000
+  Cd  Cd1       1.0  0.49999999999999994  0.0  0.4108364502664112  1.0000
+  Ni  Ni4       1.0  0.6666666752977302  0.33333335059546054  0.5  1.0000
+  Ni  Ni5       1.0  0.6666666752977302  0.8333333505954605  0.5  1.0000
+  Ni  Ni6       1.0  0.16666667529773027  0.8333333505954605  0.5  1.0000
+  Cd  Cd2       1.0  0.16666667529773027  0.33333335059546054  0.5  1.0000
+  Ni  Ni7       1.0  0.34285948765514157  0.6857089679927019  0.5838894732866323  1.0000
+  Ni  Ni8       1.0  0.34287408912877965  0.15714239587415826  0.5838883762348493  1.0000
+  Ni  Ni9       1.0  0.8142947018247112  0.15715087589414367  0.5838935872308187  1.0000
+  Cd  Cd3       1.0  0.8332925283339496  0.6666621957757227  0.60239493456713  1.0000

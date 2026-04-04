@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg3IrHg3IrHg3Ir
+_chemical_formula_sum              "Hg9 Ir3"
+_cell_length_a       6.11523962020874
+_cell_length_b       6.115239564442042
+_cell_length_c       24.993070602416992
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000030166397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.0  0.0  0.40011086294289183  1.0000
+  Hg  Hg2       1.0  1.9493805113883682e-08  0.49999999999999994  0.40011086294289183  1.0000
+  Hg  Hg3       1.0  0.4999999805061948  0.49999999999999994  0.40011086294289183  1.0000
+  Ir  Ir1       1.0  0.4999999610123897  0.0  0.40011086294289183  1.0000
+  Hg  Hg4       1.0  0.666666612672718  0.3333333033206566  0.5  1.0000
+  Hg  Hg5       1.0  0.6666666321665231  0.8333333033206565  0.5  1.0000
+  Hg  Hg6       1.0  0.16666667115413336  0.8333333033206565  0.5  1.0000
+  Ir  Ir2       1.0  0.1666666516603283  0.3333333033206566  0.5  1.0000
+  Hg  Hg7       1.0  0.33203876936897253  0.6640740065788987  0.6122506947917312  1.0000
+  Hg  Hg8       1.0  0.33202880331829737  0.16797157283293315  0.6122477566604575  1.0000
+  Hg  Hg9       1.0  0.8359402062165348  0.16797295716764846  0.6122481763934966  1.0000
+  Ir  Ir3       1.0  0.8333338427988113  0.6666697129533572  0.5872362464357987  1.0000

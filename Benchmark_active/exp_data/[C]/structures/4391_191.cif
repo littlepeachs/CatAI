@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ir3MnIr3MnIr3Mn
+_chemical_formula_sum              "Ir9 Mn3"
+_cell_length_a       5.418630599975586
+_cell_length_b       5.418630381055845
+_cell_length_c       24.424291610717773
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999551445966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.0  0.0  0.40942841682816805  1.0000
+  Ir  Ir2       1.0  0.9999999560002154  0.5  0.40942841682816805  1.0000
+  Ir  Ir3       1.0  0.4999999560002154  0.5  0.40942841682816805  1.0000
+  Mn  Mn1       1.0  0.5  0.0  0.40942841682816805  1.0000
+  Ir  Ir4       1.0  0.6666666330995964  0.3333333248655709  0.5  1.0000
+  Ir  Ir5       1.0  0.6666665763981704  0.8333332994622835  0.5  1.0000
+  Ir  Ir6       1.0  0.16666657639817045  0.8333332994622835  0.5  1.0000
+  Mn  Mn2       1.0  0.16666663309959645  0.3333333248655709  0.5  1.0000
+  Ir  Ir7       1.0  0.33120104859934807  0.6624022506906138  0.5884056547245088  1.0000
+  Ir  Ir8       1.0  0.33120111578117606  0.16879886195304944  0.5884056937706491  1.0000
+  Ir  Ir9       1.0  0.8375976788144552  0.16879887465469312  0.5884056547245088  1.0000
+  Mn  Mn3       1.0  0.8333332221994083  0.6666666497311418  0.591464802676816  1.0000

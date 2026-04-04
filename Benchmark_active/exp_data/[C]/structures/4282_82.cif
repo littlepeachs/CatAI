@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mo3AgMo3AgMo3Ag
+_chemical_formula_sum              "Mo9 Ag3"
+_cell_length_a       5.670868396759033
+_cell_length_b       5.670869193396813
+_cell_length_c       24.6302433013916
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.000003697559
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.0  0.0  0.40600488285719394  1.0000
+  Mo  Mo2       1.0  4.204269300938485e-08  0.5  0.40600488285719394  1.0000
+  Mo  Mo3       1.0  0.500000084085386  0.5  0.40600488285719394  1.0000
+  Ag  Ag1       1.0  0.500000042042693  0.0  0.40600488285719394  1.0000
+  Mo  Mo4       1.0  0.6666667467064921  0.33333332524221415  0.5  1.0000
+  Mo  Mo5       1.0  0.6666667766125032  0.8333333009688566  0.5  1.0000
+  Mo  Mo6       1.0  0.16666673456981024  0.8333333009688566  0.5  1.0000
+  Ag  Ag2       1.0  0.16666670466379907  0.33333332524221415  0.5  1.0000
+  Mo  Mo7       1.0  0.34905464069857234  0.6981097753859998  0.5889806131503845  1.0000
+  Mo  Mo8       1.0  0.34905516993016283  0.15094537931393395  0.5889807680289709  1.0000
+  Mo  Mo9       1.0  0.8018900470032592  0.15094552495407967  0.5889807293093243  1.0000
+  Ag  Ag3       1.0  0.8333334370865102  0.6666673786851569  0.605998246309766  1.0000

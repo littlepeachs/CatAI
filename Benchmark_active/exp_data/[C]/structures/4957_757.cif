@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Au3ScAu3ScAu3Sc
+_chemical_formula_sum              "Au9 Sc3"
+_cell_length_a       6.024415493011475
+_cell_length_b       6.024415268227053
+_cell_length_c       24.918912887573242
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000123427894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.0  0.0  0.4013015772976421  1.0000
+  Au  Au2       1.0  8.221194369717466e-08  0.5000000456977238  0.4013015772976421  1.0000
+  Au  Au3       1.0  0.5000000228488619  0.5000000456977238  0.4013015772976421  1.0000
+  Sc  Sc1       1.0  0.5  0.0  0.4013015772976421  1.0000
+  Au  Au4       1.0  0.6666666818992413  0.33333336379848255  0.5  1.0000
+  Au  Au5       1.0  0.6666666818992413  0.8333333637984826  0.5  1.0000
+  Au  Au6       1.0  0.16666668189924128  0.8333333637984826  0.5  1.0000
+  Sc  Sc2       1.0  0.16666668189924128  0.33333336379848255  0.5  1.0000
+  Au  Au7       1.0  0.33171205112672997  0.6634373151527072  0.5989040916173498  1.0000
+  Au  Au8       1.0  0.33172322720846154  0.1682811025105964  0.5988996521692406  1.0000
+  Au  Au9       1.0  0.836566349651288  0.16829314386082156  0.5989049718527508  1.0000
+  Sc  Sc3       1.0  0.8333367413558137  0.666658364913507  0.59403122325089  1.0000

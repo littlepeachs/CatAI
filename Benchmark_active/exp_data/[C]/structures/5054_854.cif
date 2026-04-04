@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In3HfIn3HfIn3Hf
+_chemical_formula_sum              "In9 Hf3"
+_cell_length_a       6.410759449005127
+_cell_length_b       6.4107597054328656
+_cell_length_c       25.23436164855957
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999867682433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.0  0.0  0.39628500160203195  1.0000
+  In  In2       1.0  0.9999999814048101  0.49999999999999994  0.39628500160203195  1.0000
+  In  In3       1.0  0.5000000185951899  0.49999999999999994  0.39628500160203195  1.0000
+  Hf  Hf1       1.0  0.5000000371903799  0.0  0.39628500160203195  1.0000
+  In  In4       1.0  0.6666667038570466  0.3333333333333333  0.5  1.0000
+  In  In5       1.0  0.6666666852618565  0.8333333333333333  0.5  1.0000
+  In  In6       1.0  0.16666664807147671  0.8333333333333333  0.5  1.0000
+  Hf  Hf2       1.0  0.16666666666666666  0.3333333333333333  0.5  1.0000
+  In  In7       1.0  0.33303135307632376  0.6660630493257058  0.6128847512783943  1.0000
+  In  In8       1.0  0.3330364814006614  0.16691770508946985  0.612883239570938  1.0000
+  In  In9       1.0  0.8338806169571128  0.1669180164316527  0.6128834663270565  1.0000
+  Hf  Hf3       1.0  0.833328250252404  0.6666565748855677  0.5947360607911989  1.0000

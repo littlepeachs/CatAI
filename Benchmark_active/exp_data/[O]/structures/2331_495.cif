@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti2Ga2Ti2Ga2Ti2Ga2
+_chemical_formula_sum              "Ti6 Ga6"
+_cell_length_a       5.624959468841553
+_cell_length_b       5.6249598136369245
+_cell_length_c       24.59490394592285
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    60.0934032637479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0  0.0  0.4065882537420279  1.0000
+  Ti  Ti2       1.0  0.49999995761416943  0.49999999999999994  0.4065882537420279  1.0000
+  Ga  Ga1       1.0  0.5  0.0  0.4065882537420279  1.0000
+  Ga  Ga2       1.0  0.9999999576141695  0.49999999999999994  0.4065882537420279  1.0000
+  Ti  Ti3       1.0  0.6672949738696745  0.667295058079835  0.5  1.0000
+  Ti  Ti4       1.0  0.16729504354327732  0.1672950458555896  0.5  1.0000
+  Ga  Ga3       1.0  0.16729497386967454  0.667295058079835  0.5  1.0000
+  Ga  Ga4       1.0  0.6672950647361926  0.1672950458555896  0.5  1.0000
+  Ti  Ti5       1.0  0.3342614735570491  0.33426108836858154  0.5902004937954509  1.0000
+  Ti  Ti6       1.0  0.8342744403875002  0.8342751218023818  0.5901996019639835  1.0000
+  Ga  Ga5       1.0  0.8327544737641343  0.33274731115496625  0.5997405701036532  1.0000
+  Ga  Ga6       1.0  0.33274586160214886  0.8327534477261925  0.5997419272384951  1.0000

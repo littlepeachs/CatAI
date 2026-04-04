@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu3LaCu3LaCu3La
+_chemical_formula_sum              "Cu9 La3"
+_cell_length_a       6.112830638885498
+_cell_length_b       6.112830410913101
+_cell_length_c       24.991104125976562
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9999960728461
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.0  0.4001423464892598  1.0000
+  Cu  Cu2       1.0  0.9999999579801382  0.4999999549632442  0.4001423464892598  1.0000
+  Cu  Cu3       1.0  0.4999999189771635  0.4999999549632442  0.4001423464892598  1.0000
+  La  La1       1.0  0.4999999609970252  0.0  0.4001423464892598  1.0000
+  Cu  Cu4       1.0  0.6666665904025216  0.33333331081495543  0.5  1.0000
+  Cu  Cu5       1.0  0.6666665596418468  0.8333332882965775  0.5  1.0000
+  Cu  Cu6       1.0  0.16666659864482172  0.8333332882965775  0.5  1.0000
+  La  La2       1.0  0.16666662940549629  0.33333331081495543  0.5  1.0000
+  Cu  Cu7       1.0  0.3649365843562484  0.7298713849333857  0.5842436532897143  1.0000
+  Cu  Cu8       1.0  0.3649355862115944  0.13506740381027169  0.5842446836246052  1.0000
+  Cu  Cu9       1.0  0.7701363675540305  0.13506890128240362  0.5842454468356355  1.0000
+  La  La3       1.0  0.8333345483921081  0.6666692787985058  0.6055941765777251  1.0000

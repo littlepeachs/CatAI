@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2Au2Ni2Au2Ni2Au2
+_chemical_formula_sum              "Ni6 Au6"
+_cell_length_a       5.381475448608398
+_cell_length_b       5.381476310707823
+_cell_length_c       24.457569122314453
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    66.0325434178199
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4088713394334003  1.0000
+  Ni  Ni2       1.0  0.5000000443035709  0.5  0.4088713394334003  1.0000
+  Au  Au1       1.0  0.5000000443035709  0.0  0.4088713394334003  1.0000
+  Au  Au2       1.0  0.0  0.5  0.4088713394334003  1.0000
+  Ni  Ni3       1.0  0.711127504073215  0.7111274157534133  0.5  1.0000
+  Ni  Ni4       1.0  0.21112747207389154  0.21112743999543088  0.5  1.0000
+  Au  Au3       1.0  0.21112745976964412  0.7111274157534133  0.5  1.0000
+  Au  Au4       1.0  0.7111275385292478  0.21112743999543088  0.5  1.0000
+  Ni  Ni5       1.0  0.42037408656829206  0.42037340852366795  0.5886980700798031  1.0000
+  Ni  Ni6       1.0  0.9204027087732559  0.9204031777212368  0.5887003316745706  1.0000
+  Au  Au5       1.0  0.9236908613740485  0.42366508663660724  0.593740139641779  1.0000
+  Au  Au6       1.0  0.4236650988616272  0.9236908801432956  0.5937401786347922  1.0000

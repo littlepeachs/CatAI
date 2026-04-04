@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni3PdNi3PdNi3Pd
+_chemical_formula_sum              "Ni9 Pd3"
+_cell_length_a       5.186241626739502
+_cell_length_b       5.186241155097263
+_cell_length_c       24.234546661376953
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000300830591
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.412634046184279  1.0000
+  Ni  Ni2       1.0  2.6541580100403195e-08  0.5000000530831602  0.412634046184279  1.0000
+  Ni  Ni3       1.0  0.50000002654158  0.5000000530831602  0.412634046184279  1.0000
+  Pd  Pd1       1.0  0.5  0.0  0.412634046184279  1.0000
+  Ni  Ni4       1.0  0.6666666843610534  0.3333333687221068  0.5  1.0000
+  Ni  Ni5       1.0  0.6666667109026335  0.8333334218052669  0.5  1.0000
+  Ni  Ni6       1.0  0.16666671090263346  0.8333334218052669  0.5  1.0000
+  Pd  Pd2       1.0  0.1666666843610534  0.3333333687221068  0.5  1.0000
+  Ni  Ni7       1.0  0.3388016666959312  0.6776014437770239  0.5852747569983728  1.0000
+  Ni  Ni8       1.0  0.3388082273263763  0.16120339205640233  0.5852761736650789  1.0000
+  Ni  Ni9       1.0  0.8223810472846128  0.16119552247790492  0.585271805609402  1.0000
+  Pd  Pd3       1.0  0.8333449171607946  0.666654528317371  0.590158518708107  1.0000

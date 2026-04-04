@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf2Au2Hf2Au2Hf2Au2
+_chemical_formula_sum              "Hf6 Au6"
+_cell_length_a       5.951076507568359
+_cell_length_b       5.951076727249541
+_cell_length_c       24.922962188720703
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    63.84294829950451
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.0  0.0  0.4012363767438265  1.0000
+  Hf  Hf2       1.0  0.5000000200315504  0.5  0.4012363767438265  1.0000
+  Au  Au1       1.0  0.5  0.0  0.4012363767438265  1.0000
+  Au  Au2       1.0  0.0  0.5  0.4012363767438265  1.0000
+  Hf  Hf3       1.0  0.6940428810360725  0.6940428712523405  0.49999996173511363  1.0000
+  Hf  Hf4       1.0  0.19404289122952234  0.1940428935694014  0.49999996173511363  1.0000
+  Au  Au3       1.0  0.19404288103607253  0.6940428712523405  0.49999996173511363  1.0000
+  Au  Au4       1.0  0.6940429312926233  0.1940428935694014  0.49999996173511363  1.0000
+  Hf  Hf5       1.0  0.3881159730412207  0.38811636151210405  0.5952526668712562  1.0000
+  Hf  Hf6       1.0  0.8881164809369666  0.8881172541945362  0.5952529347254609  1.0000
+  Au  Au5       1.0  0.8893194381520665  0.3893227771850366  0.598645384757259  1.0000
+  Au  Au6       1.0  0.3893210282388847  0.8893212149907803  0.5986427444800988  1.0000

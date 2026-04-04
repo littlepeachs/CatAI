@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti3HfTi3HfTi3Hf
+_chemical_formula_sum              "Ti9 Hf3"
+_cell_length_a       5.961370468139648
+_cell_length_b       5.9613711213396
+_cell_length_c       24.8674373626709
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000166733655
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0  0.0  0.4021322704259394  1.0000
+  Ti  Ti2       1.0  1.9996960462009774e-08  0.5  0.4021322704259394  1.0000
+  Ti  Ti3       1.0  0.5000000599908814  0.5  0.4021322704259394  1.0000
+  Hf  Hf1       1.0  0.500000039993921  0.0  0.4021322704259394  1.0000
+  Ti  Ti4       1.0  0.6666667333232015  0.3333333333333333  0.5  1.0000
+  Ti  Ti5       1.0  0.666666753320162  0.8333333333333334  0.5  1.0000
+  Ti  Ti6       1.0  0.16666671332624108  0.8333333333333334  0.5  1.0000
+  Hf  Hf2       1.0  0.1666666933292806  0.3333333333333333  0.5  1.0000
+  Ti  Ti7       1.0  0.34205623676113556  0.6841186042550802  0.5914404451276256  1.0000
+  Ti  Ti8       1.0  0.34205740943663876  0.1579401321552376  0.5914407902805549  1.0000
+  Ti  Ti9       1.0  0.8158836588762434  0.15794395363280048  0.5914407519302294  1.0000
+  Hf  Hf3       1.0  0.8333298536057699  0.6666673593816328  0.5942075745114226  1.0000

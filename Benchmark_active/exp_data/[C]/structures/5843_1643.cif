@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pb3ZnPb3ZnPb3Zn
+_chemical_formula_sum              "Pb9 Zn3"
+_cell_length_a       6.945041656494141
+_cell_length_b       6.945041768304155
+_cell_length_c       25.67060089111328
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999946744087
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.0  0.0  0.3895506415585118  1.0000
+  Pb  Pb2       1.0  0.9999999801799565  0.499999960359913  0.3895506415585118  1.0000
+  Pb  Pb3       1.0  0.4999999801799565  0.499999960359913  0.3895506415585118  1.0000
+  Zn  Zn1       1.0  0.4999999656706769  0.0  0.3895506415585118  1.0000
+  Pb  Pb4       1.0  0.6666666125173001  0.3333332936932463  0.5  1.0000
+  Pb  Pb5       1.0  0.6666666270265796  0.8333332540531593  0.5  1.0000
+  Pb  Pb6       1.0  0.16666662702657967  0.8333332540531593  0.5  1.0000
+  Zn  Zn2       1.0  0.1666666468466232  0.3333332936932463  0.5  1.0000
+  Pb  Pb7       1.0  0.32958806136491703  0.6591778217835598  0.6057211838094189  1.0000
+  Pb  Pb8       1.0  0.32960939110769166  0.1703885140786526  0.6057878688630804  1.0000
+  Pb  Pb9       1.0  0.840780271389631  0.17038772127691187  0.6057892434296461  1.0000
+  Zn  Zn3       1.0  0.8333169798161023  0.6666393150066112  0.6085418687031849  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni3ReNi3ReNi3Re
+_chemical_formula_sum              "Ni9 Re3"
+_cell_length_a       5.144949436187744
+_cell_length_b       5.144949103242453
+_cell_length_c       24.20083236694336
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000021406901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.41320888863248284  1.0000
+  Ni  Ni2       1.0  2.6754595816580465e-08  0.5000000535091916  0.41320888863248284  1.0000
+  Ni  Ni3       1.0  0.5000000267545959  0.5000000535091916  0.41320888863248284  1.0000
+  Re  Re1       1.0  0.5  0.0  0.41320888863248284  1.0000
+  Ni  Ni4       1.0  0.666666684503064  0.33333336900612776  0.5  1.0000
+  Ni  Ni5       1.0  0.6666667112576597  0.8333334225153194  0.5  1.0000
+  Ni  Ni6       1.0  0.1666667112576597  0.8333334225153194  0.5  1.0000
+  Re  Re2       1.0  0.16666668450306388  0.33333336900612776  0.5  1.0000
+  Ni  Ni7       1.0  0.3316369961778176  0.6632605033994925  0.5846430141503063  1.0000
+  Ni  Ni8       1.0  0.3316408716529626  0.16837259766470905  0.584640373903135  1.0000
+  Ni  Ni9       1.0  0.8367302751743936  0.16836529366004904  0.5846406497498544  1.0000
+  Re  Re3       1.0  0.833334711845748  0.6666639555342898  0.5844553595677751  1.0000

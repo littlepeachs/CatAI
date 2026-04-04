@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga3HgGa3HgGa3Hg
+_chemical_formula_sum              "Ga9 Hg3"
+_cell_length_a       6.270804405212402
+_cell_length_b       6.2708038113029465
+_cell_length_c       25.120088577270508
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999810216904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.0  0.0  0.3980877302866685  1.0000
+  Ga  Ga2       1.0  0.9999999839306806  0.5000000439021958  0.3980877302866685  1.0000
+  Ga  Ga3       1.0  0.49999998393068057  0.5000000439021958  0.3980877302866685  1.0000
+  Hg  Hg1       1.0  0.5  0.0  0.3980877302866685  1.0000
+  Ga  Ga4       1.0  0.6666666486367555  0.33333334796739855  0.5  1.0000
+  Ga  Ga5       1.0  0.6666666325674362  0.8333333918695943  0.5  1.0000
+  Ga  Ga6       1.0  0.1666666325674362  0.8333333918695943  0.5  1.0000
+  Hg  Hg2       1.0  0.16666664863675557  0.33333334796739855  0.5  1.0000
+  Ga  Ga7       1.0  0.33706575840724967  0.674133054560244  0.6006595895069164  1.0000
+  Ga  Ga8       1.0  0.3370311974673835  0.1629014131414374  0.6006833553515405  1.0000
+  Ga  Ga9       1.0  0.8258767350973103  0.1629081521284838  0.6006832414577165  1.0000
+  Hg  Hg3       1.0  0.8331010131819595  0.6661888205341457  0.6149406981433256  1.0000

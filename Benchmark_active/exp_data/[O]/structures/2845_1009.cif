@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag3IrAg3IrAg3Ir
+_chemical_formula_sum              "Ag9 Ir3"
+_cell_length_a       5.790891647338867
+_cell_length_b       5.790890989417197
+_cell_length_c       24.728240966796875
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000375829457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.0  0.0  0.40439589131118914  1.0000
+  Ag  Ag2       1.0  4.435592253083556e-08  0.5000000475405378  0.40439589131118914  1.0000
+  Ag  Ag3       1.0  0.5000000031846153  0.5000000475405378  0.40439589131118914  1.0000
+  Ir  Ir1       1.0  0.49999995882869275  0.0  0.40439589131118914  1.0000
+  Ag  Ag4       1.0  0.6666666373804939  0.33333335710360223  0.5  1.0000
+  Ag  Ag5       1.0  0.6666666936215508  0.8333334284144089  0.5  1.0000
+  Ag  Ag6       1.0  0.16666673479285807  0.8333334284144089  0.5  1.0000
+  Ir  Ir2       1.0  0.16666667855180112  0.33333335710360223  0.5  1.0000
+  Ag  Ag7       1.0  0.3326021578335857  0.6652045574261173  0.598555965728531  1.0000
+  Ag  Ag8       1.0  0.3326023670838724  0.1673979708747649  0.5985558500299274  1.0000
+  Ag  Ag9       1.0  0.834795865461822  0.16739795898963045  0.5985559271623297  1.0000
+  Ir  Ir3       1.0  0.8333332764676413  0.6666670469909692  0.5904970566275245  1.0000

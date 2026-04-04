@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2Mo2Ni2Mo2Ni2Mo2
+_chemical_formula_sum              "Ni6 Mo6"
+_cell_length_a       5.27472448348999
+_cell_length_b       5.344076887361536
+_cell_length_c       24.343341827392578
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.57162460937639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4107899037540149  1.0000
+  Ni  Ni2       1.0  0.49999999999999994  0.0  0.4107899037540149  1.0000
+  Mo  Mo1       1.0  0.4999999804474884  0.5000000512953776  0.4107899037540149  1.0000
+  Mo  Mo2       1.0  0.9999999804474884  0.5000000512953776  0.4107899037540149  1.0000
+  Ni  Ni3       1.0  0.6609851145213301  0.32197028725514026  0.5  1.0000
+  Ni  Ni4       1.0  0.16098511452133013  0.32197028725514026  0.5  1.0000
+  Mo  Mo3       1.0  0.16098510779266056  0.8219703641982066  0.5  1.0000
+  Mo  Mo4       1.0  0.6609851077926606  0.8219703641982066  0.5  1.0000
+  Ni  Ni5       1.0  0.3295196449378821  0.6590395227806363  0.586804416731529  1.0000
+  Ni  Ni6       1.0  0.8295005942882016  0.6590013077243555  0.5868013610049485  1.0000
+  Mo  Mo5       1.0  0.8303966374219581  0.1607880154916144  0.5860572524066198  1.0000
+  Mo  Mo6       1.0  0.3303913328108803  0.16078802831545877  0.5860572524066198  1.0000

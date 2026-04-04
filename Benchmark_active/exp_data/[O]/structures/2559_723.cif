@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta3AlTa3AlTa3Al
+_chemical_formula_sum              "Ta9 Al3"
+_cell_length_a       5.8470916748046875
+_cell_length_b       5.847091531385379
+_cell_length_c       24.77412986755371
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000081139015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.0  0.0  0.40364683239279076  1.0000
+  Ta  Ta2       1.0  3.154003174674568e-09  0.5000000470835906  0.40364683239279076  1.0000
+  Ta  Ta3       1.0  0.5000000439295874  0.5000000470835906  0.40364683239279076  1.0000
+  Al  Al1       1.0  0.5000000407755842  0.0  0.40364683239279076  1.0000
+  Ta  Ta4       1.0  0.6666667231367811  0.3333333647223937  0.5  1.0000
+  Ta  Ta5       1.0  0.6666667262907842  0.8333334118059843  0.5  1.0000
+  Ta  Ta6       1.0  0.16666668551520003  0.8333334118059843  0.5  1.0000
+  Al  Al2       1.0  0.16666668236119686  0.3333333647223937  0.5  1.0000
+  Ta  Ta7       1.0  0.33084689740501366  0.6616937606049902  0.5912717045997934  1.0000
+  Ta  Ta8       1.0  0.33084964537275485  0.1691525782362129  0.591271242662609  1.0000
+  Ta  Ta9       1.0  0.8383019920671178  0.16915200146222797  0.5912713581469051  1.0000
+  Al  Al3       1.0  0.8333319871351678  0.6666650344355256  0.6042224985119848  1.0000

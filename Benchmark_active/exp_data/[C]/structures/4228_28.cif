@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr2Cd2Zr2Cd2Zr2Cd2
+_chemical_formula_sum              "Zr6 Cd6"
+_cell_length_a       6.283856391906738
+_cell_length_b       6.288431999702777
+_cell_length_c       25.13323211669922
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9759383577186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.0  0.0  0.3978795484756378  1.0000
+  Zr  Zr2       1.0  0.500000037941443  0.0  0.3978795484756378  1.0000
+  Cd  Cd1       1.0  0.5000000569121644  0.5  0.3978795484756378  1.0000
+  Cd  Cd2       1.0  1.8970721499033023e-08  0.5  0.3978795484756378  1.0000
+  Zr  Zr3       1.0  0.6663436525343591  0.332687178695306  0.5  1.0000
+  Zr  Zr4       1.0  0.16634361459291624  0.332687178695306  0.5  1.0000
+  Cd  Cd3       1.0  0.16634365544790028  0.8326872224638244  0.5  1.0000
+  Cd  Cd4       1.0  0.6663436933893433  0.8326872224638244  0.5  1.0000
+  Zr  Zr5       1.0  0.33086264468703624  0.6617248070158483  0.5984801835797566  1.0000
+  Zr  Zr6       1.0  0.8308603310788634  0.6617194234880778  0.5984806009720536  1.0000
+  Cd  Cd5       1.0  0.8304575090858438  0.16090596368823648  0.6071701773659237  1.0000
+  Cd  Cd6       1.0  0.3304532747931477  0.16090747370212335  0.6071697979183811  1.0000

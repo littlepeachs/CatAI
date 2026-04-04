@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In3CdIn3CdIn3Cd
+_chemical_formula_sum              "In9 Cd3"
+_cell_length_a       6.775913715362549
+_cell_length_b       6.775912981606558
+_cell_length_c       25.532508850097656
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000358216721
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.0  0.0  0.3916575180698483  1.0000
+  In  In2       1.0  3.790785287325736e-08  0.500000040629517  0.3916575180698483  1.0000
+  In  In3       1.0  0.500000002721664  0.500000040629517  0.3916575180698483  1.0000
+  Cd  Cd1       1.0  0.4999999648138112  0.0  0.3916575180698483  1.0000
+  In  In4       1.0  0.666666641637857  0.3333333536480918  0.5  1.0000
+  In  In5       1.0  0.6666666897030892  0.8333334145923673  0.5  1.0000
+  In  In6       1.0  0.16666672488927803  0.8333334145923673  0.5  1.0000
+  Cd  Cd2       1.0  0.1666666768240459  0.3333333536480918  0.5  1.0000
+  In  In7       1.0  0.3328094366118314  0.6656233006704521  0.6099019391937541  1.0000
+  In  In8       1.0  0.3328119407340797  0.16718984279952323  0.6099016030313779  1.0000
+  In  In9       1.0  0.8343784635859094  0.16718955839290434  0.6099014909772524  1.0000
+  Cd  Cd3       1.0  0.8333283690586049  0.6666621567902812  0.6096544863334307  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu2Re2Cu2Re2Cu2Re2
+_chemical_formula_sum              "Cu6 Re6"
+_cell_length_a       5.160263538360596
+_cell_length_b       5.498685446598966
+_cell_length_c       24.37151336669922
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.98413222505135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.0  0.41031506315851096  1.0000
+  Cu  Cu2       1.0  0.5  0.0  0.41031506315851096  1.0000
+  Re  Re1       1.0  0.5  0.5  0.41031506315851096  1.0000
+  Re  Re2       1.0  0.0  0.5  0.41031506315851096  1.0000
+  Cu  Cu3       1.0  0.6411686746479204  0.28233734929584076  0.5000000391306975  1.0000
+  Cu  Cu4       1.0  0.14116867464792038  0.28233734929584076  0.5000000391306975  1.0000
+  Re  Re3       1.0  0.14116865009787122  0.7823373001957424  0.5000000391306975  1.0000
+  Re  Re4       1.0  0.6411686500978712  0.7823373001957424  0.5000000391306975  1.0000
+  Cu  Cu5       1.0  0.2808960323547734  0.5617690038738996  0.590385337195481  1.0000
+  Cu  Cu6       1.0  0.7808977435367275  0.5617707223773404  0.5903856893717582  1.0000
+  Re  Re5       1.0  0.7809695868128839  0.06191159055938662  0.5873290340696896  1.0000
+  Re  Re6       1.0  0.28097002897960616  0.06191150463421458  0.5873289166775971  1.0000

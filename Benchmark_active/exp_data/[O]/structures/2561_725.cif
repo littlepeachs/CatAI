@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti3PtTi3PtTi3Pt
+_chemical_formula_sum              "Ti9 Pt3"
+_cell_length_a       5.71015739440918
+_cell_length_b       5.710156940141743
+_cell_length_c       24.662322998046875
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000263163452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0  0.0  0.4054767690423011  1.0000
+  Ti  Ti2       1.0  0.0  0.5  0.4054767690423011  1.0000
+  Ti  Ti3       1.0  0.5  0.5  0.4054767690423011  1.0000
+  Pt  Pt1       1.0  0.5  0.0  0.4054767690423011  1.0000
+  Ti  Ti4       1.0  0.666666678719841  0.33333335743968207  0.5  1.0000
+  Ti  Ti5       1.0  0.6666666666666666  0.8333333333333333  0.5  1.0000
+  Ti  Ti6       1.0  0.16666666666666663  0.8333333333333333  0.5  1.0000
+  Pt  Pt2       1.0  0.16666667871984103  0.33333335743968207  0.5  1.0000
+  Ti  Ti7       1.0  0.3291752747627236  0.658349638867611  0.5943254375815922  1.0000
+  Ti  Ti8       1.0  0.3291767707246323  0.17082566269316898  0.5943247802038026  1.0000
+  Ti  Ti9       1.0  0.8416489700822593  0.17082519261936885  0.5943248962116479  1.0000
+  Pt  Pt3       1.0  0.8333329528240808  0.6666669077301539  0.5908370430064284  1.0000

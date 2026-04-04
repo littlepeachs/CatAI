@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag3HfAg3HfAg3Hf
+_chemical_formula_sum              "Ag9 Hf3"
+_cell_length_a       6.042529582977295
+_cell_length_b       6.042529121554667
+_cell_length_c       24.93370246887207
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000025260512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.0  0.0  0.4010635427614475  1.0000
+  Ag  Ag2       1.0  4.250874259050455e-08  0.5000000455607352  0.4010635427614475  1.0000
+  Ag  Ag3       1.0  0.5000000030519927  0.5000000455607352  0.4010635427614475  1.0000
+  Hf  Hf1       1.0  0.5  0.0  0.4010635427614475  1.0000
+  Ag  Ag4       1.0  0.6666666818535785  0.33333336370715677  0.5  1.0000
+  Ag  Ag5       1.0  0.6666666621252034  0.8333333637071568  0.5  1.0000
+  Ag  Ag6       1.0  0.1666667015819534  0.8333333637071568  0.5  1.0000
+  Hf  Hf2       1.0  0.1666666818535784  0.33333336370715677  0.5  1.0000
+  Ag  Ag7       1.0  0.33382701641565626  0.6676541652261881  0.5984532269068952  1.0000
+  Ag  Ag8       1.0  0.3338270531438015  0.16617286043598709  0.5984531886584915  1.0000
+  Ag  Ag9       1.0  0.8323458756332883  0.1661729971181924  0.5984531886584915  1.0000
+  Hf  Hf3       1.0  0.8333331997761717  0.6666666362928433  0.5912770614149262  1.0000

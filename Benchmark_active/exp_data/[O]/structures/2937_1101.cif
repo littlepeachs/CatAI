@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sn3ReSn3ReSn3Re
+_chemical_formula_sum              "Sn9 Re3"
+_cell_length_a       6.297952651977539
+_cell_length_b       6.297951938171668
+_cell_length_c       25.142255783081055
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999874010086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.0  0.0  0.39773674775256124  1.0000
+  Sn  Sn2       1.0  0.9999999810717394  0.5  0.39773674775256124  1.0000
+  Sn  Sn3       1.0  0.49999994321521796  0.5  0.39773674775256124  1.0000
+  Re  Re1       1.0  0.49999996214347864  0.0  0.39773674775256124  1.0000
+  Sn  Sn4       1.0  0.6666666072152097  0.33333334061882497  0.5  1.0000
+  Sn  Sn5       1.0  0.6666665992151848  0.8333333624753  0.5  1.0000
+  Sn  Sn6       1.0  0.1666666370717062  0.8333333624753  0.5  1.0000
+  Re  Re2       1.0  0.16666664507173104  0.33333334061882497  0.5  1.0000
+  Sn  Sn7       1.0  0.32771686780066933  0.655425546442474  0.6071548135787094  1.0000
+  Sn  Sn8       1.0  0.3277073692986102  0.17228355489096328  0.6071538653003163  1.0000
+  Sn  Sn9       1.0  0.844571271445921  0.17228793711420043  0.6071534101266878  1.0000
+  Re  Re3       1.0  0.8333315484355935  0.6666697848570997  0.5801306621418363  1.0000

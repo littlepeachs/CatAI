@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb3ZnNb3ZnNb3Zn
+_chemical_formula_sum              "Nb9 Zn3"
+_cell_length_a       5.804771423339844
+_cell_length_b       5.804771480878656
+_cell_length_c       24.739574432373047
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999967210275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.0  0.40421063319667105  1.0000
+  Nb  Nb2       1.0  0.0  0.5  0.40421063319667105  1.0000
+  Nb  Nb3       1.0  0.5  0.5  0.40421063319667105  1.0000
+  Zn  Zn1       1.0  0.5  0.0  0.40421063319667105  1.0000
+  Nb  Nb4       1.0  0.6666666627144286  0.33333332542885735  0.49999999999999994  1.0000
+  Nb  Nb5       1.0  0.6666666508577147  0.8333333017154294  0.49999999999999994  1.0000
+  Nb  Nb6       1.0  0.1666666508577147  0.8333333017154294  0.49999999999999994  1.0000
+  Zn  Zn2       1.0  0.16666666271442868  0.33333332542885735  0.49999999999999994  1.0000
+  Nb  Nb7       1.0  0.32893192260009246  0.6578582980398481  0.591060232700536  1.0000
+  Nb  Nb8       1.0  0.3289309921502291  0.1710698668728154  0.5910601556034688  1.0000
+  Nb  Nb9       1.0  0.8421432783961442  0.1710693096072582  0.5910603097976032  1.0000
+  Zn  Zn3       1.0  0.8333315414801427  0.6666654651863164  0.6015225745609591  1.0000

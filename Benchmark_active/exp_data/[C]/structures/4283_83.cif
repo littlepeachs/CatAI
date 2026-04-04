@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mo3CuMo3CuMo3Cu
+_chemical_formula_sum              "Mo9 Cu3"
+_cell_length_a       5.523709774017334
+_cell_length_b       5.523709620011533
+_cell_length_c       24.510087966918945
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000092229159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.0  0.0  0.4079952328128155  1.0000
+  Mo  Mo2       1.0  2.1581381793721874e-08  0.5  0.4079952328128155  1.0000
+  Mo  Mo3       1.0  0.4999999784186182  0.5  0.4079952328128155  1.0000
+  Cu  Cu1       1.0  0.4999999568372364  0.0  0.4079952328128155  1.0000
+  Mo  Mo4       1.0  0.666666615197225  0.3333333167199773  0.5  1.0000
+  Mo  Mo5       1.0  0.6666666367786068  0.8333333167199773  0.5  1.0000
+  Mo  Mo6       1.0  0.16666667994137047  0.8333333167199773  0.5  1.0000
+  Cu  Cu2       1.0  0.16666665835998867  0.3333333167199773  0.5  1.0000
+  Mo  Mo7       1.0  0.33359033873167543  0.6671789395010351  0.588136427465566  1.0000
+  Mo  Mo8       1.0  0.33358999665769434  0.1664111781703691  0.588136427465566  1.0000
+  Mo  Mo9       1.0  0.832821656510654  0.1664106174696018  0.588136427465566  1.0000
+  Cu  Cu3       1.0  0.8333327013552951  0.6666680788019326  0.5943006977633675  1.0000

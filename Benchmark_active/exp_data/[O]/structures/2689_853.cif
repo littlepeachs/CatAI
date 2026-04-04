@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn3InZn3InZn3In
+_chemical_formula_sum              "Zn9 In3"
+_cell_length_a       5.974412441253662
+_cell_length_b       5.974411931776155
+_cell_length_c       24.87808609008789
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999754052581
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.0  0.0  0.4019601431602874  1.0000
+  Zn  Zn2       1.0  0.9999999800466923  0.5  0.4019601431602874  1.0000
+  Zn  Zn3       1.0  0.49999994014007704  0.5  0.4019601431602874  1.0000
+  In  In1       1.0  0.4999999600933847  0.0  0.4019601431602874  1.0000
+  Zn  Zn4       1.0  0.6666666116756875  0.3333333563734298  0.5  1.0000
+  Zn  Zn5       1.0  0.6666666032424263  0.8333333794135264  0.5  1.0000
+  Zn  Zn6       1.0  0.16666664314904162  0.8333333794135264  0.5  1.0000
+  In  In2       1.0  0.16666665158230284  0.3333333563734298  0.5  1.0000
+  Zn  Zn7       1.0  0.3417574120209648  0.6835483757699654  0.5993325146232367  1.0000
+  Zn  Zn8       1.0  0.34180097583158836  0.15822288602276233  0.5993150726941271  1.0000
+  Zn  Zn9       1.0  0.8164387198127545  0.1582478960475083  0.5993176027321958  1.0000
+  In  In3       1.0  0.8333378092162125  0.6666782788753004  0.6083092430264101  1.0000

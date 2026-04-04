@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb3CoNb3CoNb3Co
+_chemical_formula_sum              "Nb9 Co3"
+_cell_length_a       5.714569568634033
+_cell_length_b       5.714569802734117
+_cell_length_c       24.665925979614258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999864487289
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.0  0.4054175405614377  1.0000
+  Nb  Nb2       1.0  0.9999999759122675  0.49999995182453494  0.4054175405614377  1.0000
+  Nb  Nb3       1.0  0.49999997591226747  0.49999995182453494  0.4054175405614377  1.0000
+  Co  Co1       1.0  0.5  0.0  0.4054175405614377  1.0000
+  Nb  Nb4       1.0  0.6666666465935562  0.3333332931871124  0.5  1.0000
+  Nb  Nb5       1.0  0.6666666586374226  0.8333333172748449  0.5  1.0000
+  Nb  Nb6       1.0  0.16666665863742247  0.8333333172748449  0.5  1.0000
+  Co  Co2       1.0  0.1666666465935562  0.3333332931871124  0.5  1.0000
+  Nb  Nb7       1.0  0.3272262422282724  0.6544515045053213  0.594508109271779  1.0000
+  Nb  Nb8       1.0  0.3272246880403188  0.17277423570347306  0.594507838626346  1.0000
+  Nb  Nb9       1.0  0.845549257575996  0.17277519921277434  0.5945080319445124  1.0000
+  Co  Co3       1.0  0.8333341633409453  0.6666677425853864  0.588357923790731  1.0000

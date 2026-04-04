@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In3AgIn3AgIn3Ag
+_chemical_formula_sum              "In9 Ag3"
+_cell_length_a       6.585380554199219
+_cell_length_b       6.585379925918748
+_cell_length_c       25.37693977355957
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999836547902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.0  0.0  0.39405850884923327  1.0000
+  In  In2       1.0  0.999999984698294  0.5000000418050379  0.39405850884923327  1.0000
+  In  In3       1.0  0.49999998469829393  0.5000000418050379  0.39405850884923327  1.0000
+  Ag  Ag1       1.0  0.5  0.0  0.39405850884923327  1.0000
+  In  In4       1.0  0.666666649498024  0.33333334726834596  0.5  1.0000
+  In  In5       1.0  0.6666666132938021  0.833333347268346  0.5  1.0000
+  In  In6       1.0  0.16666661329380209  0.833333347268346  0.5  1.0000
+  Ag  Ag2       1.0  0.166666649498024  0.33333334726834596  0.5  1.0000
+  In  In7       1.0  0.33131306905064367  0.6626264466528838  0.6094890763313309  1.0000
+  In  In8       1.0  0.3311920944080436  0.16863099830179576  0.6094906922864449  1.0000
+  In  In9       1.0  0.8374389901627484  0.16863190756136917  0.609490541965039  1.0000
+  Ag  Ag3       1.0  0.8333304939588309  0.6666613016868083  0.5994025851523789  1.0000

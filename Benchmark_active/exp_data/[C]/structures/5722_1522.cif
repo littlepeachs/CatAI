@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni3CoNi3CoNi3Co
+_chemical_formula_sum              "Ni9 Co3"
+_cell_length_a       5.003235816955566
+_cell_length_b       5.003235244446992
+_cell_length_c       24.08512306213379
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000378523707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4151940191681025  1.0000
+  Ni  Ni2       1.0  2.38264383115404e-08  0.5  0.4151940191681025  1.0000
+  Ni  Ni3       1.0  0.4999999761735617  0.5  0.4151940191681025  1.0000
+  Co  Co1       1.0  0.49999995234712336  0.0  0.4151940191681025  1.0000
+  Ni  Ni4       1.0  0.6666666235991909  0.3333333425041351  0.5  1.0000
+  Ni  Ni5       1.0  0.6666666611818319  0.8333333700165405  0.5  1.0000
+  Ni  Ni6       1.0  0.16666670883470855  0.8333333700165405  0.5  1.0000
+  Co  Co2       1.0  0.16666667125206752  0.3333333425041351  0.5  1.0000
+  Ni  Ni7       1.0  0.3322352864029622  0.6644687739701832  0.5836665269984077  1.0000
+  Ni  Ni8       1.0  0.3322327180739223  0.1677658743827592  0.5836634385111084  1.0000
+  Ni  Ni9       1.0  0.8355400061194798  0.16776880445392828  0.5836638740670096  1.0000
+  Co  Co3       1.0  0.8333355812727845  0.6666691611247512  0.5836312073744208  1.0000

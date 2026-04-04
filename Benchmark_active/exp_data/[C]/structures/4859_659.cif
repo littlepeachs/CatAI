@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2Pb2Al2Pb2Al2Pb2
+_chemical_formula_sum              "Al6 Pb6"
+_cell_length_a       6.505363464355469
+_cell_length_b       6.505363128992277
+_cell_length_c       25.38905143737793
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    65.28615840623416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.39387052608053014  1.0000
+  Al  Al2       1.0  0.4999999098332866  0.5000000403448387  0.39387052608053014  1.0000
+  Pb  Pb1       1.0  0.5  0.0  0.39387052608053014  1.0000
+  Pb  Pb2       1.0  0.9999999648075968  0.5000000403448387  0.39387052608053014  1.0000
+  Al  Al3       1.0  0.7051755658354885  0.705175653761886  0.5  1.0000
+  Al  Al4       1.0  0.20517558270312167  0.20517561341704726  0.5  1.0000
+  Pb  Pb3       1.0  0.20517556583548854  0.705175653761886  0.5  1.0000
+  Pb  Pb4       1.0  0.7051755827031216  0.20517561341704726  0.5  1.0000
+  Al  Al5       1.0  0.3526233287194723  0.3526272841331254  0.591228535422305  1.0000
+  Al  Al6       1.0  0.8527280374822073  0.8527262500222905  0.5912312399168368  1.0000
+  Pb  Pb5       1.0  0.8667540333300309  0.3665956758886092  0.611175835341358  1.0000
+  Pb  Pb6       1.0  0.3666093873480233  0.8667451131709034  0.6111820331413268  1.0000

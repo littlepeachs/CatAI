@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2Tc2Al2Tc2Al2Tc2
+_chemical_formula_sum              "Al6 Tc6"
+_cell_length_a       5.2849345207214355
+_cell_length_b       5.284934582777449
+_cell_length_c       24.311477661132812
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.6637677733111
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.4113283110846388  1.0000
+  Al  Al2       1.0  0.49999998416966285  0.5000000478097356  0.4113283110846388  1.0000
+  Tc  Tc1       1.0  0.5000000451128729  0.0  0.4113283110846388  1.0000
+  Tc  Tc2       1.0  0.9999999503350082  0.5000000478097356  0.4113283110846388  1.0000
+  Al  Al3       1.0  0.7512521131982457  0.7512521608805253  0.5  1.0000
+  Al  Al4       1.0  0.25125208391570997  0.25125211307078965  0.5  1.0000
+  Tc  Tc3       1.0  0.2512520680853728  0.7512521608805253  0.5  1.0000
+  Tc  Tc4       1.0  0.7512521290285828  0.25125211307078965  0.5  1.0000
+  Al  Al5       1.0  0.5025457460253461  0.5025360196157608  0.5889025025152563  1.0000
+  Al  Al6       1.0  0.002536092847576526  0.0025454091863753537  0.5889025025152563  1.0000
+  Tc  Tc5       1.0  0.0024735796431048502  0.5024771180214878  0.5863454691180504  1.0000
+  Tc  Tc6       1.0  0.5024804260660533  0.0024785129078756115  0.5863458613913337  1.0000

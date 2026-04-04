@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al3CuAl3CuAl3Cu
+_chemical_formula_sum              "Al9 Cu3"
+_cell_length_a       5.555156707763672
+_cell_length_b       5.555156517953018
+_cell_length_c       24.535764694213867
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999545136022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.4075682649778561  1.0000
+  Al  Al2       1.0  0.9999999537618273  0.4999999504420716  0.4075682649778561  1.0000
+  Al  Al3       1.0  0.4999999108434018  0.4999999504420716  0.4075682649778561  1.0000
+  Cu  Cu1       1.0  0.4999999570815745  0.0  0.4075682649778561  1.0000
+  Al  Al4       1.0  0.6666665744868242  0.3333332920350597  0.5  1.0000
+  Al  Al5       1.0  0.6666665158591716  0.833333217698167  0.5  1.0000
+  Al  Al6       1.0  0.16666655877759706  0.833333217698167  0.5  1.0000
+  Cu  Cu2       1.0  0.16666661740524974  0.3333332920350597  0.5  1.0000
+  Al  Al7       1.0  0.33136556048294125  0.6627318827859842  0.5950128138582925  1.0000
+  Al  Al8       1.0  0.3313656496593622  0.16863407099649  0.5950128138582925  1.0000
+  Al  Al9       1.0  0.8372682592160939  0.16863440551250677  0.5950128138582925  1.0000
+  Cu  Cu3       1.0  0.8333316158868795  0.6666677239024728  0.5890676842399766  1.0000

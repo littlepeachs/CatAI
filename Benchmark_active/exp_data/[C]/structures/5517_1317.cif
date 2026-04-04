@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf3CuHf3CuHf3Cu
+_chemical_formula_sum              "Hf9 Cu3"
+_cell_length_a       6.051847457885742
+_cell_length_b       6.051847408418774
+_cell_length_c       24.94131088256836
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000002703892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.0  0.0  0.4009411972533788  1.0000
+  Hf  Hf2       1.0  2.2745291150538804e-08  0.5000000454905823  0.4009411972533788  1.0000
+  Hf  Hf3       1.0  0.5000000227452912  0.5000000454905823  0.4009411972533788  1.0000
+  Cu  Cu1       1.0  0.5  0.0  0.4009411972533788  1.0000
+  Hf  Hf4       1.0  0.6666666780393122  0.33333335607862447  0.5  1.0000
+  Hf  Hf5       1.0  0.6666667121572489  0.8333334243144979  0.5  1.0000
+  Hf  Hf6       1.0  0.16666671215724896  0.8333334243144979  0.5  1.0000
+  Cu  Cu2       1.0  0.16666667803931223  0.33333335607862447  0.5  1.0000
+  Hf  Hf7       1.0  0.3306725312431463  0.6613449963907773  0.5985130498155842  1.0000
+  Hf  Hf8       1.0  0.33067248288558615  0.16932691042704193  0.598513126289056  1.0000
+  Hf  Hf9       1.0  0.8386554981445439  0.16932716062524442  0.598513126289056  1.0000
+  Cu  Cu3       1.0  0.8333307757421787  0.6666628909483385  0.5902991106899972  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2Ni2Al2Ni2Al2Ni2
+_chemical_formula_sum              "Al6 Ni6"
+_cell_length_a       5.0182576179504395
+_cell_length_b       5.018257393853561
+_cell_length_c       24.08871841430664
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.85882674545884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.41513204954841176  1.0000
+  Al  Al2       1.0  0.5000000237551155  0.5  0.41513204954841176  1.0000
+  Ni  Ni1       1.0  0.5  0.0  0.41513204954841176  1.0000
+  Ni  Ni2       1.0  4.751023109071423e-08  0.5  0.41513204954841176  1.0000
+  Al  Al3       1.0  0.753070471558059  0.7530704689329165  0.5  1.0000
+  Al  Al4       1.0  0.25307049531317455  0.25307046893291646  0.5  1.0000
+  Ni  Ni3       1.0  0.25307056657852117  0.7530704689329165  0.5  1.0000
+  Ni  Ni4       1.0  0.7530704953131745  0.25307046893291646  0.5  1.0000
+  Al  Al5       1.0  0.5055755501173687  0.5055757718278158  0.58826485859294  1.0000
+  Al  Al6       1.0  0.005575808921494992  0.005575516838633781  0.58826485859294  1.0000
+  Ni  Ni5       1.0  0.005795401570412776  0.5057950389505916  0.5807216812545558  1.0000
+  Ni  Ni6       1.0  0.5057971141749892  0.005797314208454237  0.5807289262394031  1.0000

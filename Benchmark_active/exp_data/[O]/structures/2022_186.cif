@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu2Tc2Cu2Tc2Cu2Tc2
+_chemical_formula_sum              "Cu6 Tc6"
+_cell_length_a       5.081373691558838
+_cell_length_b       5.4920068096516275
+_cell_length_c       24.33472442626953
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.5560027221266
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.0  0.41093537248075857  1.0000
+  Cu  Cu2       1.0  0.5000000469201034  0.0  0.41093537248075857  1.0000
+  Tc  Tc1       1.0  0.5000000234600517  0.5  0.41093537248075857  1.0000
+  Tc  Tc2       1.0  0.9999999765399483  0.5  0.41093537248075857  1.0000
+  Cu  Cu3       1.0  0.6361428977392536  0.27228570163830035  0.5  1.0000
+  Cu  Cu4       1.0  0.13614285081915017  0.27228570163830035  0.5  1.0000
+  Tc  Tc3       1.0  0.1361428396007878  0.772285726121679  0.5  1.0000
+  Tc  Tc4       1.0  0.6361428865208912  0.772285726121679  0.5  1.0000
+  Cu  Cu5       1.0  0.27155442184638845  0.5431193920209061  0.5899885675355632  1.0000
+  Cu  Cu6       1.0  0.7715479885742609  0.5431215955249867  0.5899884891558537  1.0000
+  Tc  Tc5       1.0  0.7715834226509324  0.04319241675822634  0.5870581069544435  1.0000
+  Tc  Tc6       1.0  0.2715876429064215  0.043199871947032856  0.5870588907515392  1.0000

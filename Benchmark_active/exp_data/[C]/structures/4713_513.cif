@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co2Re2Co2Re2Co2Re2
+_chemical_formula_sum              "Co6 Re6"
+_cell_length_a       5.2363715171813965
+_cell_length_b       5.240162308340622
+_cell_length_c       24.277538299560547
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97607263993494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0  0.4119033372715015  1.0000
+  Co  Co2       1.0  0.5000000455312573  0.0  0.4119033372715015  1.0000
+  Re  Re1       1.0  0.5  0.49999999999999994  0.4119033372715015  1.0000
+  Re  Re2       1.0  0.0  0.49999999999999994  0.4119033372715015  1.0000
+  Co  Co3       1.0  0.6663454868654243  0.33269088266833396  0.5  1.0000
+  Co  Co4       1.0  0.16634544133416698  0.33269088266833396  0.5  1.0000
+  Re  Re3       1.0  0.16634542820309833  0.8326908564061967  0.5  1.0000
+  Re  Re4       1.0  0.6663454282030983  0.8326908564061967  0.5  1.0000
+  Co  Co5       1.0  0.3359878433743878  0.6719764506364261  0.5843653675215985  1.0000
+  Co  Co6       1.0  0.8359880450564057  0.6719754526752083  0.5843665852687788  1.0000
+  Re  Re5       1.0  0.8352288268675224  0.17045642439109657  0.5855675589637114  1.0000
+  Re  Re6       1.0  0.33522776123444936  0.17045666075033236  0.5855675982458785  1.0000

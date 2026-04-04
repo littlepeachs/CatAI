@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd3ZnCd3ZnCd3Zn
+_chemical_formula_sum              "Cd9 Zn3"
+_cell_length_a       6.301562786102295
+_cell_length_b       6.301562498874033
+_cell_length_c       25.14520263671875
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999399839277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  0.0  0.39769013560157196  1.0000
+  Cd  Cd2       1.0  0.9999999403212204  0.499999956312098  0.39769013560157196  1.0000
+  Cd  Cd3       1.0  0.4999999024863868  0.499999956312098  0.39769013560157196  1.0000
+  Zn  Zn1       1.0  0.49999996216516646  0.0  0.39769013560157196  1.0000
+  Cd  Cd4       1.0  0.6666665727937112  0.33333329692674835  0.5  1.0000
+  Cd  Cd5       1.0  0.6666665240369046  0.8333332750827973  0.5  1.0000
+  Cd  Cd6       1.0  0.16666656187173817  0.8333332750827973  0.5  1.0000
+  Zn  Zn2       1.0  0.16666661062854476  0.33333329692674835  0.5  1.0000
+  Cd  Cd7       1.0  0.33249024129015836  0.6649765710519068  0.6115287808965991  1.0000
+  Cd  Cd8       1.0  0.33247723050965555  0.1675120202893607  0.6115221816524629  1.0000
+  Cd  Cd9       1.0  0.8350433783469794  0.16750679958506978  0.6115219540923202  1.0000
+  Zn  Zn3       1.0  0.8333336759749337  0.6666488128773761  0.6026006104073266  1.0000

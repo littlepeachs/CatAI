@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In3TiIn3TiIn3Ti
+_chemical_formula_sum              "In9 Ti3"
+_cell_length_a       6.308211326599121
+_cell_length_b       6.308211813170775
+_cell_length_c       25.150632858276367
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999744845908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.0  0.0  0.39760427114003877  1.0000
+  In  In2       1.0  0.0  0.5  0.39760427114003877  1.0000
+  In  In3       1.0  0.5  0.5  0.39760427114003877  1.0000
+  Ti  Ti1       1.0  0.5  0.0  0.39760427114003877  1.0000
+  In  In4       1.0  0.6666666557562033  0.3333333115124067  0.4999999620814983  1.0000
+  In  In5       1.0  0.6666666230248134  0.8333332460496268  0.4999999620814983  1.0000
+  In  In6       1.0  0.16666662302481336  0.8333332460496268  0.4999999620814983  1.0000
+  Ti  Ti2       1.0  0.16666665575620335  0.3333333115124067  0.4999999620814983  1.0000
+  In  In7       1.0  0.3328614600927262  0.6657235225748833  0.6107476580585348  1.0000
+  In  In8       1.0  0.332857627310546  0.16715943774280145  0.6107489472875948  1.0000
+  In  In9       1.0  0.8343005773961665  0.16715852126388203  0.6107492127171071  1.0000
+  Ti  Ti3       1.0  0.8333354866112498  0.6666717291216501  0.5914838078517842  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2Hg2Ni2Hg2Ni2Hg2
+_chemical_formula_sum              "Ni6 Hg6"
+_cell_length_a       5.519310474395752
+_cell_length_b       5.519310586993835
+_cell_length_c       24.49435043334961
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    70.94503955944923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.40825736830769194  1.0000
+  Ni  Ni2       1.0  0.5000000215985838  0.5  0.40825736830769194  1.0000
+  Hg  Hg1       1.0  0.5000000431971675  0.0  0.40825736830769194  1.0000
+  Hg  Hg2       1.0  0.9999999892007081  0.5  0.40825736830769194  1.0000
+  Ni  Ni3       1.0  0.7538777507644158  0.7538778037767581  0.5  1.0000
+  Ni  Ni4       1.0  0.2538777798231705  0.2538777809260918  0.5  1.0000
+  Hg  Hg3       1.0  0.25387779396158316  0.7538778037767581  0.5  1.0000
+  Hg  Hg4       1.0  0.753877823020338  0.2538777809260918  0.5  1.0000
+  Ni  Ni5       1.0  0.5080281083047434  0.5080279417947827  0.5859913110743467  1.0000
+  Ni  Ni6       1.0  0.008031113187905267  0.008030941658821272  0.5859919340257127  1.0000
+  Hg  Hg5       1.0  0.00782737450981607  0.5078285011790944  0.6014848513022877  1.0000
+  Hg  Hg6       1.0  0.5078284240756196  0.007827237965696579  0.6014848513022877  1.0000

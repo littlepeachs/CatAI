@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu2Pt2Cu2Pt2Cu2Pt2
+_chemical_formula_sum              "Cu6 Pt6"
+_cell_length_a       5.388049602508545
+_cell_length_b       5.388049833617511
+_cell_length_c       24.433870315551758
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    61.82757018589182
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.0  0.4092679103711559  1.0000
+  Cu  Cu2       1.0  0.5  0.49999999999999994  0.4092679103711559  1.0000
+  Pt  Pt1       1.0  0.5  0.0  0.4092679103711559  1.0000
+  Pt  Pt2       1.0  0.9999999778752428  0.49999999999999994  0.4092679103711559  1.0000
+  Cu  Cu3       1.0  0.6792893862864573  0.6792893600373219  0.5  1.0000
+  Cu  Cu4       1.0  0.17928939656172727  0.1792893851354329  0.5  1.0000
+  Pt  Pt3       1.0  0.17928938628645724  0.6792893600373219  0.5  1.0000
+  Pt  Pt4       1.0  0.6792894186864845  0.1792893851354329  0.5  1.0000
+  Cu  Cu5       1.0  0.34828394797814743  0.34828146708297403  0.5910156096011165  1.0000
+  Cu  Cu6       1.0  0.8482808586403675  0.8482833243431899  0.5910154534777838  1.0000
+  Pt  Pt5       1.0  0.8505969969209836  0.35059739527788075  0.5901057618486876  1.0000
+  Pt  Pt6       1.0  0.3505966040565378  0.8505961654704405  0.5901057618486876  1.0000
