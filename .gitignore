@@ -39,7 +39,7 @@ build/
 *.h5
 *.hdf5
 # POE_lmdb/
-POE_infer/
+# POE_infer/
 processed_c/
 processed_o/
 

@@ -47,6 +47,30 @@ catai_data/
 
 Each benchmark writes all logs, checkpoints, embeddings, and results into its own subdirectory. Nothing is written back to `catai_data/`.
 
+## Data download
+
+All data required to reproduce the benchmarks and applications is publicly available on Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19412454.svg)](https://doi.org/10.5281/zenodo.19412454)
+
+> Li, W. (2026). *CatAI*. Zenodo. https://doi.org/10.5281/zenodo.19412454
+
+| Archive | Size | Contents |
+|---------|------|----------|
+| `all_modules.zip` | 20.3 GB | Pretrained CatAI knowledge modules |
+| `catalyst_task.zip` | 132.7 MB | Benchmark LMDB datasets (Alloy-GMAE, desorption-oc20, etc.) |
+| `pretrain_data.zip` | 1.1 GB | Pretraining data used to train the knowledge modules |
+| `other_checkpoints.zip` | 4.2 GB | Additional model checkpoints |
+
+After downloading, extract into the `catai_data/` directory sibling to this repository:
+
+```bash
+unzip all_modules.zip   -d ../catai_data/
+unzip catalyst_task.zip -d ../catai_data/
+```
+
+The resulting layout should match the structure described in [Data layout](#data-layout) above.
+
 ## Quick start
 
 Enter any benchmark directory and run:
