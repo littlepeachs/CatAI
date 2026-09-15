@@ -1,0 +1,12 @@
+{
+  "task": "cpa_catalyst",
+  "backbone_family": "jmp",
+  "selection_lineage": "catalyst_nested_group_cv_30_module_reselection",
+  "pooling": "global_plus_role",
+  "k": 2,
+  "module_names": ["adsorption_energy", "qmof_bg"],
+  "weights": [0.42856673085594305, 0.571433269144057],
+  "weight_sum": 1.0,
+  "test_predictions_used": false,
+  "fusion_type": "parameter_space_initialization"
+}

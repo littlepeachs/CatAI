@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "shared": {
+    "backbone_family": "jmp",
+    "backbone_feature_source": "three-conformer atom-token cache",
+    "conformer_feature_mode": "mean_std_max",
+    "conformer_aggregation": "fixed",
+    "num_attention_heads": 8,
+    "maximum_atom_tokens": 128,
+    "density_gate": "exponential centered-OOD",
+    "inference_ensemble_size": 1
+  },
+  "aho_ddg": {
+    "display_name": "AHO ΔΔG‡",
+    "readout": "J185",
+    "hidden_dimension": 128,
+    "atom_self_attention_layers": 2,
+    "role_attention_layers": 1,
+    "dropout": 0.12,
+    "cross_attention_view": "roles_types",
+    "signed_target_branch": "direct regression plus sign/magnitude",
+    "sign_magnitude_residual_multiplier": 1.75,
+    "residual_calibrator": "linear",
+    "training_scope": "sign/magnitude branch and residual calibrator",
+    "batch_size": 128,
+    "epochs": 100,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.0001,
+    "loss": "MSE"
+  },
+  "cpa_shared_a_star": {
+    "inputs": ["Catalyst", "Imine", "Thiol"],
+    "hidden_dimension": 128,
+    "atom_self_attention_layers": 1,
+    "role_attention_layers": 1,
+    "dropout": 0.10,
+    "cross_attention_view": "roles_types",
+    "smiles_residual_transformer": {
+      "hidden_dimension": 64,
+      "layers": 1,
+      "heads": 4,
+      "dropout": 0.10,
+      "residual_multiplier": 3.0
+    },
+    "regression_mlp_widths": [256, 128, 64],
+    "regression_mlp_dropout": 0.05
+  },
+  "cpa_main": {
+    "training_scope": "all readout parameters",
+    "loss": "Huber",
+    "batch_size": 256,
+    "epochs": 59,
+    "learning_rate": 0.0006,
+    "weight_decay": 0.0001,
+    "epoch_ema_decay": 0.90,
+    "final_training": "train plus validation"
+  },
+  "cpa_transformation": {
+    "training_scope": "regression output continuation",
+    "loss": "MSE",
+    "batch_size": 128,
+    "epochs": 40,
+    "learning_rate": 0.00004
+  },
+  "cpa_imine": {
+    "training_scope": "regression output continuation",
+    "loss": "MSE",
+    "batch_size": 128,
+    "epochs": 40,
+    "learning_rate": 0.00001,
+    "validation": "Imine-group holdout"
+  },
+  "cpa_thiol": {
+    "training_scope": "64-dimensional SMILES residual adapter",
+    "loss": "Huber",
+    "batch_size": 256,
+    "epochs": 28,
+    "learning_rate": 0.0006,
+    "weight_decay": 0.0001,
+    "validation": "Thiol-group holdout",
+    "far_ood_prior": "training-target 20th percentile"
+  },
+  "cpa_catalyst": {
+    "stage_1": "six-epoch full A* readout fit on train plus validation",
+    "stage_2": "eleven-epoch 64-dimensional SMILES residual refinement",
+    "loss": "Huber",
+    "batch_size": 256,
+    "learning_rate": 0.0006,
+    "weight_decay": 0.0001,
+    "validation": "Catalyst-group holdout",
+    "augmentation": "H8-like Catalyst SMILES views for training only"
+  }
+}

@@ -1,0 +1,6 @@
+# Install the repository-level environment first.
+-r ../requirements.txt
+
+# Reaction-component conformer generation.
+rdkit>=2023.9,<2027
+joblib>=1.3

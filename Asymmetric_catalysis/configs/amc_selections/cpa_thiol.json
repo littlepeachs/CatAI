@@ -1,0 +1,13 @@
+{
+  "task": "cpa_thiol",
+  "backbone_family": "jmp",
+  "selection_lineage": "family_native_30_module_embedding_reselection",
+  "weight_fit_pooling": "global_plus_role",
+  "evaluation_pooling": "global_mean",
+  "k": 4,
+  "module_names": ["mp_energy_above_hull", "jarvis_bandgap", "surface_energy", "qmof_bg"],
+  "weights": [0.07983941517408762, 0.2365945937908035, 0.38827473035741344, 0.2952912606776955],
+  "weight_sum": 1.0,
+  "test_predictions_used": false,
+  "fusion_type": "parameter_space_initialization"
+}

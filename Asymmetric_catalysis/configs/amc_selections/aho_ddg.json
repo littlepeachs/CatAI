@@ -1,0 +1,12 @@
+{
+  "task": "aho_ddg",
+  "backbone_family": "jmp",
+  "selection_lineage": "family_native_30_module_embedding_reselection",
+  "pooling": "global_plus_role",
+  "k": 2,
+  "module_names": ["jarvis_bandgap", "qmof_bg"],
+  "weights": [0.43127856638053363, 0.5687214336194665],
+  "weight_sum": 1.0,
+  "test_predictions_used": false,
+  "fusion_type": "parameter_space_initialization"
+}

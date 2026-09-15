@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "fixed_partitions": true,
+  "tasks": {
+    "aho_ddg": {
+      "source": "ChemAHNet/9478_file.csv",
+      "source_sha256": "ba37ca8dcb61c4826eb3ac48d898987030a58266e97a36070a5014e75d82334a",
+      "rows": 9478,
+      "train": "rows 1888:9478",
+      "validation": "rows 940:1888",
+      "test": "rows 0:940",
+      "counts": {"train": 7590, "validation": 948, "test": 940},
+      "note": "The released test order is exact. The publication did not release validation indices, so the next 948 rows are the fixed archived validation convention."
+    },
+    "cpa_main": {
+      "source": "ChemAHNet/data/output.csv",
+      "source_sha256": "4ce8bffbbc75327d895173485b5a94a2f3fdd191c93b47f8f345fa0293e1ae98",
+      "rows": 1075,
+      "split": "published random_state=42 logic",
+      "counts": {"train": 540, "validation": 60, "test": 475}
+    },
+    "cpa_transformation": {
+      "train_source": "ChemAHNet/data/train_Transformation.csv",
+      "train_source_sha256": "0da549c6476649ce1d8bb5ae183f8712baf907fc10dc4b72d4c3e4eea7d42213",
+      "test_source": "ChemAHNet/data/test_Transformation.csv",
+      "test_source_sha256": "c8a893230e579727b3e6ea8e13b33ff159525f8101312ae5cf1b7d440cd465d1",
+      "counts": {"train": 345, "validation": 39, "test": 216}
+    },
+    "cpa_imine": {
+      "train_source": "ChemAHNet/data/train_Imine.csv",
+      "train_source_sha256": "8a67fc0590835c4958e58716d5b3ed2d2dbe0c356a45d4004931ff7c4600e61e",
+      "test_source": "ChemAHNet/data/test_Imine.csv",
+      "test_source_sha256": "33e1cbf7858d99d54f878aae5d39247089eb41a617f569f612ea6fd66125d93a",
+      "counts": {"train": 774, "validation": 86, "test": 215}
+    },
+    "cpa_thiol": {
+      "train_source": "ChemAHNet/data/train_thiol.csv",
+      "train_source_sha256": "5c4ed77a9d4f19fd089715364302f74fbd752f1a4efd949da078809295fa3166",
+      "test_source": "ChemAHNet/data/test_thiol.csv",
+      "test_source_sha256": "ae116aa0170c591f6caa14f0b30f97a55d8d1ca680157f05514142460009f927",
+      "counts": {"train": 580, "validation": 65, "test": 430}
+    },
+    "cpa_catalyst": {
+      "train_source": "ChemAHNet/data/train_Catalyst.csv",
+      "train_source_sha256": "453ccc0d568771c1d75f93a5abac4ae6c93691968c3c3318c1ae3fc802801a8a",
+      "test_source": "ChemAHNet/data/test_Catalyst.csv",
+      "test_source_sha256": "4a0768dfe41d5d37a1f5e1fa9b7146162d79674a1a9ceff64865cf426dfb0c1d",
+      "counts": {"train": 675, "validation": 75, "test": 325}
+    }
+  }
+}

@@ -30,6 +30,7 @@ In real-world deployments:
 | [`Large_scale_screening/`](Large_scale_screening/) | Full POE virtual screening application: module selection → screening model training → large-scale inference → ranking |
 | [`Closed_loop_Optimization/`](Closed_loop_Optimization/) | Multi-round closed-loop optimization coupling CatAI with HTE for heterogeneous photocatalysis |
 | [`Literature_extraction/`](Literature_extraction/) | AI-assisted literature mining tools for building catalysis datasets from published papers |
+| [`Asymmetric_catalysis/`](Asymmetric_catalysis/) | Reaction-level asymmetric selectivity prediction on AHO and five CPA benchmarks |
 
 ## Data layout
 
@@ -131,6 +132,7 @@ CatAI/
 ├── Benchmark_extensible/
 ├── Large_scale_screening/
 ├── Closed_loop_Optimization/
+├── Asymmetric_catalysis/
 └── Literature_extraction/
 ```
 

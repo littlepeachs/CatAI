@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "method_name": "CatAI+Attention",
+  "scope": "reaction-level asymmetric-selectivity regression",
+  "tasks": [
+    "AHO ΔΔG‡",
+    "CPA Main",
+    "CPA Transformation",
+    "CPA Imine",
+    "CPA Thiol",
+    "CPA Catalyst"
+  ],
+  "backbone": {
+    "family": "JMP-large / GemNet-OC",
+    "candidate_modules": 30,
+    "composition": "task-specific non-negative simplex-weighted parameter-space average",
+    "task_heads_fused": false,
+    "prediction_ensemble": false,
+    "materialized_backbones_per_task": 1
+  },
+  "component_representation": {
+    "conformer_generator": "RDKit ETKDGv3",
+    "conformers_per_component": 3,
+    "atom_embedding_dimension_per_conformer": 256,
+    "aggregation": ["mean", "population standard deviation", "maximum"],
+    "aggregated_atom_dimension": 768,
+    "aho_roles": ["reactant", "solvent", "catalyst"],
+    "cpa_roles": ["catalyst", "imine", "thiol"]
+  },
+  "reaction_readout": {
+    "atom_self_attention": true,
+    "role_cross_attention": true,
+    "token_type_cross_attention": true,
+    "reaction_level_attention_pooling": true,
+    "single_task_regression_output": true
+  },
+  "evaluation": {
+    "fixed_train_validation_test_partitions": true,
+    "historical_runs_per_task": 1,
+    "primary_metric": "test MAE",
+    "comparison_baselines": 9,
+    "baseline_code_in_this_archive": false
+  }
+}

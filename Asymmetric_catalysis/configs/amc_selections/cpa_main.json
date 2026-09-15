@@ -1,0 +1,13 @@
+{
+  "task": "cpa_main",
+  "backbone_family": "jmp",
+  "selection_lineage": "family_native_30_module_embedding_reselection",
+  "weight_fit_pooling": "role_mean",
+  "evaluation_pooling": "global_plus_role",
+  "k": 2,
+  "module_names": ["mp_gvrh", "qmof_bg"],
+  "weights": [0.28253240762398757, 0.7174675923760125],
+  "weight_sum": 1.0,
+  "test_predictions_used": false,
+  "fusion_type": "parameter_space_initialization"
+}

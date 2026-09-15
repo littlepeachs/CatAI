@@ -1,0 +1,13 @@
+{
+  "task": "cpa_imine",
+  "backbone_family": "jmp",
+  "selection_lineage": "family_native_30_module_embedding_reselection",
+  "weight_fit_pooling": "global_plus_role",
+  "evaluation_pooling": "global_mean",
+  "k": 2,
+  "module_names": ["mp_energy_above_hull", "jarvis_bandgap"],
+  "weights": [0.6033773306741995, 0.39662266932580037],
+  "weight_sum": 0.9999999999999999,
+  "test_predictions_used": false,
+  "fusion_type": "parameter_space_initialization"
+}
