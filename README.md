@@ -6,6 +6,18 @@ Its modular architecture allows new knowledge modules to be continuously incorpo
 
 ![CatAI overview](./figures/Figure1-simple.png)
 
+## Web app
+
+Access the **CatAI Web App** at **[https://catai-platform-2026.org/](https://catai-platform-2026.org/)**.
+
+To sign in, download [**CatAI Platform Access (PDF)**](docs/platform/CatAI-Platform-Access.pdf) and enter the username and password provided in the file when your browser displays the sign-in prompt. No registration or institutional email is required.
+
+The web interface lets you upload 3D structures and target property labels, select and compose task-relevant physicochemical modules, and download a fused encoder and training kit for local fine-tuning. It also provides research hypotheses based on the module composition and supports submitting published datasets for module-library extension.
+
+![CatAI Web App: physicochemical knowledge library, task specification, module fusion, local fine-tuning export, research hypotheses, and module-library extension](docs/platform/CatAI-Web-App.png)
+
+*CatAI Web App workflow. (a) Reusable physicochemical knowledge library. (b) Downstream task specification using 3D structures and property labels. (c) Task-conditioned module selection and fusion. (d) Export of fused weights, training code, and dataset metadata for local fine-tuning. (e) Research hypotheses connecting the selected knowledge to the target task. (f) Dataset contributions for extending the module library.*
+
 ## Key results
 
 On a comprehensive benchmark of **six datasets** covering prediction of adsorption, desorption, dissociation, and transfer energies:

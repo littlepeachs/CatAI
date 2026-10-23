@@ -72,6 +72,9 @@ runs/
 *.svg
 # Keep figures tracked in the figures/ gallery
 !figures/**
+# Keep the published web app access guide and workflow figure
+!docs/platform/CatAI-Platform-Access.pdf
+!docs/platform/CatAI-Web-App.png
 
 # ───────────────────────────────────────────────
 # Data files (large tables)
